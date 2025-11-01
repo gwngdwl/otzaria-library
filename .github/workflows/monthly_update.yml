@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '0 12 1 * *' 
   workflow_dispatch: 
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -29,9 +31,9 @@ jobs:
           pip install python_hebrew_numbers
           pip install pandas
 
-      - name: Run script Ben-Yehuda
-        run: python ben_y.py
-        working-directory: Ben-YehudaToOtzaria/סקריפטים
+      # - name: Run script Ben-Yehuda
+      #   run: python ben_y.py
+      #   working-directory: Ben-YehudaToOtzaria/סקריפטים
 
       - name: Run script dicta  
         run: python "all in one.py"
