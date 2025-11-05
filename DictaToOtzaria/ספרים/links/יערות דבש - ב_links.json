@@ -1,533 +1,880 @@
-[
-  {
-    "line_index_1": 1,
-    "line_index_2": 4,
-    "heRef_2": "יערות דבש",
-    "path_2": "יערות דבש.txt",
-    "Conection Type": "reference",
-    "start": 16,
-    "end": 17
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 4,
-    "heRef_2": "תלמוד ירושלמי שבת",
-    "path_2": "תלמוד ירושלמי שבת.txt",
-    "Conection Type": "reference",
-    "start": 259,
-    "end": 276
-  },
-  {
-    "line_index_1": 6,
-    "line_index_2": 3,
-    "heRef_2": "ראש השנה",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": "reference",
-    "start": 511,
-    "end": 528
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 4,
-    "heRef_2": "תוספות על יבמות",
-    "path_2": "תוספות על יבמות.txt",
-    "Conection Type": "reference",
-    "start": 359,
-    "end": 391
-  },
-  {
-    "line_index_1": 11,
-    "line_index_2": 3,
-    "heRef_2": "יבמות",
-    "path_2": "יבמות.txt",
-    "Conection Type": "reference",
-    "start": 419,
-    "end": 423
-  },
-  {
-    "line_index_1": 113,
-    "line_index_2": 1877,
-    "heRef_2": "עבודה זרה סב., א",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "reference",
-    "start": 95,
-    "end": 123
-  },
-  {
-    "line_index_1": 156,
-    "line_index_2": 2430,
-    "heRef_2": "ברכות נד., א",
-    "path_2": "ברכות.txt",
-    "Conection Type": "reference",
-    "start": 1004,
-    "end": 1025
-  },
-  {
-    "line_index_1": 161,
-    "line_index_2": 4,
-    "heRef_2": "תוספות על חגיגה ב., א, א",
-    "path_2": "תוספות על חגיגה.txt",
-    "Conection Type": "reference",
-    "start": 998,
-    "end": 1014
-  },
-  {
-    "line_index_1": 163,
-    "line_index_2": 704,
-    "heRef_2": "בראשית כה, יט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "reference",
-    "start": 1146,
-    "end": 1152
-  },
-  {
-    "line_index_1": 168,
-    "line_index_2": 3,
-    "heRef_2": "בראשית",
-    "path_2": "בראשית.txt",
-    "Conection Type": "reference",
-    "start": 367,
-    "end": 372
-  },
-  {
-    "line_index_1": 183,
-    "line_index_2": 2503,
-    "heRef_2": "בבא בתרא קח., ג",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 444,
-    "end": 461
-  },
-  {
-    "line_index_1": 206,
-    "line_index_2": 1691,
-    "heRef_2": "בבא בתרא עג., ג",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 31,
-    "end": 52
-  },
-  {
-    "line_index_1": 340,
-    "line_index_2": 704,
-    "heRef_2": "בראשית כה, יט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "reference",
-    "start": 61,
-    "end": 68
-  },
-  {
-    "line_index_1": 461,
-    "line_index_2": 3527,
-    "heRef_2": "סנהדרין צ., טו",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "reference",
-    "start": 1134,
-    "end": 1156
-  },
-  {
-    "line_index_1": 462,
-    "line_index_2": 3,
-    "heRef_2": "סנהדרין",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "reference",
-    "start": 358,
-    "end": 363
-  },
-  {
-    "line_index_1": 487,
-    "line_index_2": 3,
-    "heRef_2": "תהילים",
-    "path_2": "תהילים.txt",
-    "Conection Type": "reference",
-    "start": 65,
-    "end": 75
-  },
-  {
-    "line_index_1": 557,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 13,
-    "end": 30
-  },
-  {
-    "line_index_1": 559,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 18,
-    "end": 22
-  },
-  {
-    "line_index_1": 559,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 132,
-    "end": 136
-  },
-  {
-    "line_index_1": 561,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 22,
-    "end": 27
-  },
-  {
-    "line_index_1": 642,
-    "line_index_2": 3,
-    "heRef_2": "תהילים",
-    "path_2": "תהילים.txt",
-    "Conection Type": "reference",
-    "start": 27,
-    "end": 38
-  },
-  {
-    "line_index_1": 720,
-    "line_index_2": 704,
-    "heRef_2": "בראשית כה, יט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "reference",
-    "start": 676,
-    "end": 682
-  },
-  {
-    "line_index_1": 720,
-    "line_index_2": 704,
-    "heRef_2": "בראשית כה, יט",
-    "path_2": "בראשית.txt",
-    "Conection Type": "reference",
-    "start": 845,
-    "end": 851
-  },
-  {
-    "line_index_1": 813,
-    "line_index_2": 3,
-    "heRef_2": "תהילים",
-    "path_2": "תהילים.txt",
-    "Conection Type": "reference",
-    "start": 141,
-    "end": 150
-  },
-  {
-    "line_index_1": 814,
-    "line_index_2": 5,
-    "heRef_2": "רשי על תהילים",
-    "path_2": "רשי על תהילים.txt",
-    "Conection Type": "reference",
-    "start": 121,
-    "end": 126
-  },
-  {
-    "line_index_1": 868,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 110,
-    "end": 119
-  },
-  {
-    "line_index_1": 950,
-    "line_index_2": 3,
-    "heRef_2": "יחזקאל",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": "reference",
-    "start": 46,
-    "end": 57
-  },
-  {
-    "line_index_1": 977,
-    "line_index_2": 769,
-    "heRef_2": "רש\"י על ברכות יז:, יב, א",
-    "path_2": "רשי על ברכות.txt",
-    "Conection Type": "reference",
-    "start": 123,
-    "end": 139
-  },
-  {
-    "line_index_1": 984,
-    "line_index_2": 638,
-    "heRef_2": "תוספות על גיטין מח:, ו, א",
-    "path_2": "תוספות על גיטין.txt",
-    "Conection Type": "reference",
-    "start": 287,
-    "end": 303
-  },
-  {
-    "line_index_1": 986,
-    "line_index_2": 420,
-    "heRef_2": "תענית טו., ד",
-    "path_2": "תענית.txt",
-    "Conection Type": "reference",
-    "start": 13,
-    "end": 32
-  },
-  {
-    "line_index_1": 1024,
-    "line_index_2": 3617,
-    "heRef_2": "חולין קיז:, ו",
-    "path_2": "חולין.txt",
-    "Conection Type": "reference",
-    "start": 232,
-    "end": 248
-  },
-  {
-    "line_index_1": 1041,
-    "line_index_2": 3,
-    "heRef_2": "יבמות",
-    "path_2": "יבמות.txt",
-    "Conection Type": "reference",
-    "start": 1127,
-    "end": 1145
-  },
-  {
-    "line_index_1": 1043,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 29,
-    "end": 40
-  },
-  {
-    "line_index_1": 1043,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 119,
-    "end": 123
-  },
-  {
-    "line_index_1": 1082,
-    "line_index_2": 3527,
-    "heRef_2": "סנהדרין צ., טו",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "reference",
-    "start": 559,
-    "end": 579
-  },
-  {
-    "line_index_1": 1167,
-    "line_index_2": 3,
-    "heRef_2": "בכורות",
-    "path_2": "בכורות.txt",
-    "Conection Type": "reference",
-    "start": 104,
-    "end": 118
-  },
-  {
-    "line_index_1": 1178,
-    "line_index_2": 763,
-    "heRef_2": "תוספות על בבא קמא נה:, א, א",
-    "path_2": "תוספות על בבא קמא.txt",
-    "Conection Type": "reference",
-    "start": 120,
-    "end": 135
-  },
-  {
-    "line_index_1": 1234,
-    "line_index_2": 3,
-    "heRef_2": "פסחים",
-    "path_2": "פסחים.txt",
-    "Conection Type": "reference",
-    "start": 18,
-    "end": 40
-  },
-  {
-    "line_index_1": 1237,
-    "line_index_2": 3,
-    "heRef_2": "סנהדרין",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "reference",
-    "start": 28,
-    "end": 51
-  },
-  {
-    "line_index_1": 1372,
-    "line_index_2": 3,
-    "heRef_2": "ראש השנה",
-    "path_2": "ראש השנה.txt",
-    "Conection Type": "reference",
-    "start": 61,
-    "end": 77
-  },
-  {
-    "line_index_1": 1372,
-    "line_index_2": 3,
-    "heRef_2": "שבת",
-    "path_2": "שבת.txt",
-    "Conection Type": "reference",
-    "start": 117,
-    "end": 133
-  },
-  {
-    "line_index_1": 1379,
-    "line_index_2": 3,
-    "heRef_2": "שבת",
-    "path_2": "שבת.txt",
-    "Conection Type": "reference",
-    "start": 51,
-    "end": 62
-  },
-  {
-    "line_index_1": 1379,
-    "line_index_2": 3,
-    "heRef_2": "שבת",
-    "path_2": "שבת.txt",
-    "Conection Type": "reference",
-    "start": 70,
-    "end": 80
-  },
-  {
-    "line_index_1": 1379,
-    "line_index_2": 10,
-    "heRef_2": "מגן אברהם",
-    "path_2": "מגן אברהם.txt",
-    "Conection Type": "reference",
-    "start": 498,
-    "end": 505
-  },
-  {
-    "line_index_1": 1396,
-    "line_index_2": 3,
-    "heRef_2": "מכות",
-    "path_2": "מכות.txt",
-    "Conection Type": "reference",
-    "start": 16,
-    "end": 17
-  },
-  {
-    "line_index_1": 1396,
-    "line_index_2": 3,
-    "heRef_2": "תהילים",
-    "path_2": "תהילים.txt",
-    "Conection Type": "reference",
-    "start": 97,
-    "end": 107
-  },
-  {
-    "line_index_1": 1399,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 43,
-    "end": 60
-  },
-  {
-    "line_index_1": 1402,
-    "line_index_2": 3,
-    "heRef_2": "תהילים",
-    "path_2": "תהילים.txt",
-    "Conection Type": "reference",
-    "start": 85,
-    "end": 96
-  },
-  {
-    "line_index_1": 1427,
-    "line_index_2": 3,
-    "heRef_2": "יחזקאל",
-    "path_2": "יחזקאל.txt",
-    "Conection Type": "reference",
-    "start": 426,
-    "end": 437
-  },
-  {
-    "line_index_1": 1435,
-    "line_index_2": 3,
-    "heRef_2": "עבודה זרה",
-    "path_2": "עבודה זרה.txt",
-    "Conection Type": "reference",
-    "start": 21,
-    "end": 22
-  },
-  {
-    "line_index_1": 1435,
-    "line_index_2": 3,
-    "heRef_2": "בבא מציעא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "reference",
-    "start": 55,
-    "end": 66
-  },
-  {
-    "line_index_1": 1435,
-    "line_index_2": 3,
-    "heRef_2": "בבא מציעא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "reference",
-    "start": 70,
-    "end": 77
-  },
-  {
-    "line_index_1": 1436,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 42,
-    "end": 53
-  },
-  {
-    "line_index_1": 1439,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 34,
-    "end": 45
-  },
-  {
-    "line_index_1": 1439,
-    "line_index_2": 3,
-    "heRef_2": "בבא בתרא",
-    "path_2": "בבא בתרא.txt",
-    "Conection Type": "reference",
-    "start": 49,
-    "end": 59
-  },
-  {
-    "line_index_1": 1444,
-    "line_index_2": 3,
-    "heRef_2": "יבמות ב., א",
-    "path_2": "יבמות.txt",
-    "Conection Type": "reference",
-    "start": 164,
-    "end": 180
-  },
-  {
-    "line_index_1": 1452,
-    "line_index_2": 3409,
-    "heRef_2": "ילקוט שמעוני על התורה תרכו, ו",
-    "path_2": "ילקוט שמעוני על התורה.txt",
-    "Conection Type": "reference",
-    "start": 236,
-    "end": 252
-  },
-  {
-    "line_index_1": 1452,
-    "line_index_2": 3,
-    "heRef_2": "ילקוט שמעוני על התורה",
-    "path_2": "ילקוט שמעוני על התורה.txt",
-    "Conection Type": "reference",
-    "start": 318,
-    "end": 320
-  },
-  {
-    "line_index_1": 1452,
-    "line_index_2": 3,
-    "heRef_2": "סנהדרין",
-    "path_2": "סנהדרין.txt",
-    "Conection Type": "reference",
-    "start": 547,
-    "end": 571
-  }
-]
+{
+    "1": [
+        {
+            "start": 16,
+            "end": 17,
+            "refs": {
+                "Ya'arot Devash I 2": "יערות דבש חלק א ב׳"
+            }
+        }
+    ],
+    "6": [
+        {
+            "start": 259,
+            "end": 276,
+            "refs": {
+                "Jerusalem Talmud Shabbat 2": "תלמוד ירושלמי שבת ב׳"
+            }
+        },
+        {
+            "start": 511,
+            "end": 528,
+            "refs": {
+                "Rosh Hashanah 16": "ראש השנה ט״ז"
+            }
+        }
+    ],
+    "8": [
+        {
+            "start": 15,
+            "end": 22,
+            "refs": {
+                "Jerusalem Talmud Shabbat 2": "תלמוד ירושלמי שבת ב׳",
+                "Jerusalem Talmud Rosh Hashanah": "תלמוד ירושלמי ראש השנה"
+            }
+        },
+        {
+            "start": 187,
+            "end": 191,
+            "refs": {
+                "Pesachim 87a:1-92b:3": "פסחים פ״ז א:א׳-צ״ב ב:ג׳",
+                "Niddah 59b:1-64b:4": "נדה נ״ט ב:א׳-ס״ד ב:ד׳",
+                "Jerusalem Talmud Pesachim 8:1:1-8:9": "תלמוד ירושלמי פסחים ח׳:א׳:א׳-ח׳:ט׳"
+            }
+        }
+    ],
+    "11": [
+        {
+            "start": 359,
+            "end": 391,
+            "refs": {
+                "Tosafot on Yevamot 61b:13:2": "תוספות על יבמות ס״א ב:י״ג:ב׳"
+            }
+        },
+        {
+            "start": 419,
+            "end": 423,
+            "refs": {
+                "Yevamot 61b": "יבמות ס״א ב"
+            }
+        }
+    ],
+    "35": [
+        {
+            "start": 624,
+            "end": 628,
+            "refs": {
+                "Sanhedrin 90a:15-113b:4": "סנהדרין צ׳ א:ט״ו-קי״ג ב:ד׳",
+                "Jerusalem Talmud Sanhedrin 11:1:1-6:5": "תלמוד ירושלמי סנהדרין י״א:א׳:א׳-ו׳:ה׳"
+            }
+        }
+    ],
+    "113": [
+        {
+            "start": 95,
+            "end": 123,
+            "refs": {
+                "Avodah Zarah 62a:1-76b:5": "עבודה זרה ס״ב א:א׳-ע״ו ב:ה׳"
+            }
+        }
+    ],
+    "156": [
+        {
+            "start": 1004,
+            "end": 1025,
+            "refs": {
+                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו"
+            }
+        }
+    ],
+    "161": [
+        {
+            "start": 998,
+            "end": 1014,
+            "refs": {
+                "Tosafot on Chagigah 2a:1-11b:5": "תוספות על חגיגה ב׳ א:א׳-י״א ב:ה׳"
+            }
+        }
+    ],
+    "163": [
+        {
+            "start": 1146,
+            "end": 1152,
+            "refs": {
+                "Genesis 25:19-28:9": "בראשית כ״ה:י״ט-כ״ח:ט׳"
+            }
+        }
+    ],
+    "168": [
+        {
+            "start": 367,
+            "end": 372,
+            "refs": {
+                "Genesis 25:19": "בראשית כ״ה:י״ט"
+            }
+        }
+    ],
+    "183": [
+        {
+            "start": 444,
+            "end": 461,
+            "refs": {
+                "Bava Batra 108a:3-139b:6": "בבא בתרא ק״ח א:ג׳-קל״ט ב:ו׳"
+            }
+        }
+    ],
+    "185": [
+        {
+            "start": 974,
+            "end": 981,
+            "refs": {
+                "Shabbat 82a:12-90b:6": "שבת פ״ב א:י״ב-צ׳ ב:ו׳",
+                "Jerusalem Talmud Shabbat 9:1:1-7:7": "תלמוד ירושלמי שבת ט׳:א׳:א׳-ז׳:ז׳"
+            }
+        }
+    ],
+    "206": [
+        {
+            "start": 31,
+            "end": 52,
+            "refs": {
+                "Bava Batra 73a:3-91b:18": "בבא בתרא ע״ג א:ג׳-צ״א ב:י״ח"
+            }
+        }
+    ],
+    "210": [
+        {
+            "start": 897,
+            "end": 905,
+            "refs": {
+                "Sanhedrin 90a:15-113b:4": "סנהדרין צ׳ א:ט״ו-קי״ג ב:ד׳",
+                "Jerusalem Talmud Sanhedrin 11:1:1-6:5": "תלמוד ירושלמי סנהדרין י״א:א׳:א׳-ו׳:ה׳"
+            }
+        }
+    ],
+    "256": [
+        {
+            "start": 1079,
+            "end": 1084,
+            "refs": {
+                "Mishnah Shabbat 20": "משנה שבת כ׳",
+                "Shabbat 20": "שבת כ׳",
+                "Shabbat 137b:11-141b:18": "שבת קל״ז ב:י״א-קמ״א ב:י״ח"
+            }
+        }
+    ],
+    "257": [
+        {
+            "start": 417,
+            "end": 422,
+            "refs": {
+                "Mishnah Shabbat 20": "משנה שבת כ׳",
+                "Shabbat 20": "שבת כ׳",
+                "Shabbat 137b:11-141b:18": "שבת קל״ז ב:י״א-קמ״א ב:י״ח"
+            }
+        },
+        {
+            "start": 513,
+            "end": 518,
+            "refs": {
+                "Mishnah Shabbat 20": "משנה שבת כ׳",
+                "Shabbat 20": "שבת כ׳",
+                "Shabbat 137b:11-141b:18": "שבת קל״ז ב:י״א-קמ״א ב:י״ח"
+            }
+        }
+    ],
+    "340": [
+        {
+            "start": 61,
+            "end": 68,
+            "refs": {
+                "Genesis 25:19-28:9": "בראשית כ״ה:י״ט-כ״ח:ט׳"
+            }
+        }
+    ],
+    "416": [
+        {
+            "start": 304,
+            "end": 312,
+            "refs": {
+                "Mishnah Bava Metzia 7": "משנה בבא מציעא ז׳",
+                "Bava Metzia 83a:12-94a:15": "בבא מציעא פ״ג א:י״ב-צ״ד א:ט״ו",
+                "Bava Metzia 87": "בבא מציעא פ״ז"
+            }
+        }
+    ],
+    "461": [
+        {
+            "start": 1134,
+            "end": 1156,
+            "refs": {
+                "Sanhedrin 90a:15-113b:4": "סנהדרין צ׳ א:ט״ו-קי״ג ב:ד׳"
+            }
+        }
+    ],
+    "462": [
+        {
+            "start": 358,
+            "end": 363,
+            "refs": {
+                "Sanhedrin 90a": "סנהדרין צ׳ א"
+            }
+        }
+    ],
+    "487": [
+        {
+            "start": 65,
+            "end": 75,
+            "refs": {
+                "Psalms 49": "תהילים מ״ט"
+            }
+        }
+    ],
+    "557": [
+        {
+            "start": 13,
+            "end": 30,
+            "refs": {
+                "Bava Batra 120": "בבא בתרא ק״כ"
+            }
+        }
+    ],
+    "559": [
+        {
+            "start": 18,
+            "end": 22,
+            "refs": {
+                "Bava Batra 120a": "בבא בתרא ק״כ א"
+            }
+        },
+        {
+            "start": 132,
+            "end": 136,
+            "refs": {
+                "Bava Batra 120a": "בבא בתרא ק״כ א"
+            }
+        }
+    ],
+    "561": [
+        {
+            "start": 22,
+            "end": 27,
+            "refs": {
+                "Bava Batra 120a": "בבא בתרא ק״כ א"
+            }
+        }
+    ],
+    "570": [
+        {
+            "start": 370,
+            "end": 388,
+            "refs": {
+                "Tosafot on Bava Metzia 21a:7-33b:6": "תוספות על בבא מציעא כ״א א:ז׳-ל״ג ב:ו׳"
+            }
+        }
+    ],
+    "642": [
+        {
+            "start": 27,
+            "end": 38,
+            "refs": {
+                "Psalms 139": "תהילים קל״ט"
+            }
+        }
+    ],
+    "691": [
+        {
+            "start": 92,
+            "end": 101,
+            "refs": {
+                "Mishnah Rosh Hashanah 4": "משנה ראש השנה ד׳",
+                "Rosh Hashanah 29b:5-35a:13": "ראש השנה כ״ט ב:ה׳-ל״ה א:י״ג"
+            }
+        }
+    ],
+    "720": [
+        {
+            "start": 676,
+            "end": 682,
+            "refs": {
+                "Genesis 25:19-28:9": "בראשית כ״ה:י״ט-כ״ח:ט׳"
+            }
+        },
+        {
+            "start": 845,
+            "end": 851,
+            "refs": {
+                "Genesis 25:19-28:9": "בראשית כ״ה:י״ט-כ״ח:ט׳"
+            }
+        }
+    ],
+    "804": [
+        {
+            "start": 357,
+            "end": 361,
+            "refs": {
+                "Sanhedrin 90a:15-113b:4": "סנהדרין צ׳ א:ט״ו-קי״ג ב:ד׳",
+                "Jerusalem Talmud Sanhedrin 11:1:1-6:5": "תלמוד ירושלמי סנהדרין י״א:א׳:א׳-ו׳:ה׳"
+            }
+        }
+    ],
+    "813": [
+        {
+            "start": 141,
+            "end": 150,
+            "refs": {
+                "Psalms 5": "תהילים ה׳"
+            }
+        }
+    ],
+    "814": [
+        {
+            "start": 121,
+            "end": 126,
+            "refs": {
+                "Rashi on Psalms 5": "רש\"י על תהילים ה׳"
+            }
+        }
+    ],
+    "815": [
+        {
+            "start": 238,
+            "end": 251,
+            "refs": {
+                "Mishnah Sanhedrin 2": "משנה סנהדרין ב׳",
+                "Sanhedrin 18a:5-22b:23": "סנהדרין י״ח א:ה׳-כ״ב ב:כ״ג"
+            }
+        }
+    ],
+    "819": [
+        {
+            "start": 104,
+            "end": 115,
+            "refs": {
+                "Mishnah Kiddushin 1": "משנה קידושין א׳",
+                "Kiddushin 2a:1-41a:2": "קידושין ב׳ א:א׳-מ״א א:ב׳"
+            }
+        }
+    ],
+    "868": [
+        {
+            "start": 110,
+            "end": 119,
+            "refs": {
+                "Bava Batra 80": "בבא בתרא פ׳"
+            }
+        }
+    ],
+    "913": [
+        {
+            "start": 189,
+            "end": 199,
+            "refs": {
+                "Bava Batra 73a:3-91b:18": "בבא בתרא ע״ג א:ג׳-צ״א ב:י״ח",
+                "Jerusalem Talmud Bava Batra 5:1:1-5:3": "תלמוד ירושלמי בבא בתרא ה׳:א׳:א׳-ה׳:ג׳"
+            }
+        }
+    ],
+    "950": [
+        {
+            "start": 46,
+            "end": 57,
+            "refs": {
+                "Ezekiel 26": "יחזקאל כ״ו"
+            }
+        }
+    ],
+    "977": [
+        {
+            "start": 123,
+            "end": 139,
+            "refs": {
+                "Rashi on Berakhot 17b:12-26a:10": "רש\"י על ברכות י״ז ב:י״ב-כ״ו א:י׳"
+            }
+        }
+    ],
+    "984": [
+        {
+            "start": 287,
+            "end": 303,
+            "refs": {
+                "Tosafot on Gittin 48b:6-62a:17": "תוספות על גיטין מ״ח ב:ו׳-ס״ב א:י״ז"
+            }
+        }
+    ],
+    "986": [
+        {
+            "start": 13,
+            "end": 32,
+            "refs": {
+                "Taanit 15a:4-18b:13": "תענית ט״ו א:ד׳-י״ח ב:י״ג"
+            }
+        }
+    ],
+    "1024": [
+        {
+            "start": 232,
+            "end": 248,
+            "refs": {
+                "Chullin 117b:6-129b:18": "חולין קי״ז ב:ו׳-קכ״ט ב:י״ח"
+            }
+        }
+    ],
+    "1039": [
+        {
+            "start": 685,
+            "end": 695,
+            "refs": {
+                "Bava Batra 73a:3-91b:18": "בבא בתרא ע״ג א:ג׳-צ״א ב:י״ח",
+                "Jerusalem Talmud Bava Batra 5:1:1-5:3": "תלמוד ירושלמי בבא בתרא ה׳:א׳:א׳-ה׳:ג׳"
+            }
+        }
+    ],
+    "1041": [
+        {
+            "start": 1127,
+            "end": 1145,
+            "refs": {
+                "Yevamot 92": "יבמות צ״ב"
+            }
+        }
+    ],
+    "1043": [
+        {
+            "start": 29,
+            "end": 40,
+            "refs": {
+                "Bava Batra 35": "בבא בתרא ל״ה"
+            }
+        },
+        {
+            "start": 119,
+            "end": 123,
+            "refs": {
+                "Bava Batra 35a": "בבא בתרא ל״ה א"
+            }
+        }
+    ],
+    "1050": [
+        {
+            "start": 1092,
+            "end": 1101,
+            "refs": {
+                "Mishnah Bava Metzia 1": "משנה בבא מציעא א׳",
+                "Bava Metzia 2a:1-21a:6": "בבא מציעא ב׳ א:א׳-כ״א א:ו׳"
+            }
+        }
+    ],
+    "1052": [
+        {
+            "start": 747,
+            "end": 762,
+            "refs": {
+                "Bava Batra 61a:1-73a:2": "בבא בתרא ס״א א:א׳-ע״ג א:ב׳",
+                "Jerusalem Talmud Bava Batra 4:1:1-8:4": "תלמוד ירושלמי בבא בתרא ד׳:א׳:א׳-ח׳:ד׳"
+            }
+        }
+    ],
+    "1082": [
+        {
+            "start": 559,
+            "end": 579,
+            "refs": {
+                "Sanhedrin 90a:15-113b:4": "סנהדרין צ׳ א:ט״ו-קי״ג ב:ד׳"
+            }
+        }
+    ],
+    "1083": [
+        {
+            "start": 454,
+            "end": 458,
+            "refs": {
+                "Mishnah Sanhedrin 1": "משנה סנהדרין א׳",
+                "Sanhedrin 2a:1-18a:4": "סנהדרין ב׳ א:א׳-י״ח א:ד׳"
+            }
+        }
+    ],
+    "1153": [
+        {
+            "start": 563,
+            "end": 567,
+            "refs": {
+                "Sanhedrin 90a:15-113b:4": "סנהדרין צ׳ א:ט״ו-קי״ג ב:ד׳",
+                "Jerusalem Talmud Sanhedrin 11:1:1-6:5": "תלמוד ירושלמי סנהדרין י״א:א׳:א׳-ו׳:ה׳"
+            }
+        }
+    ],
+    "1167": [
+        {
+            "start": 104,
+            "end": 118,
+            "refs": {
+                "Bekhorot 36": "בכורות ל״ו"
+            }
+        }
+    ],
+    "1178": [
+        {
+            "start": 120,
+            "end": 135,
+            "refs": {
+                "Tosafot on Bava Kamma 55b:1-62b:6": "תוספות על בבא קמא נ״ה ב:א׳-ס״ב ב:ו׳"
+            }
+        }
+    ],
+    "1186": [
+        {
+            "start": 256,
+            "end": 267,
+            "refs": {
+                "Mishnah Yevamot 1": "משנה יבמות א׳",
+                "Yevamot 2a:1-17a:10": "יבמות ב׳ א:א׳-י״ז א:י׳"
+            }
+        }
+    ],
+    "1234": [
+        {
+            "start": 18,
+            "end": 40,
+            "refs": {
+                "Pesachim 6a": "פסחים ו׳ א"
+            }
+        }
+    ],
+    "1237": [
+        {
+            "start": 28,
+            "end": 51,
+            "refs": {
+                "Sanhedrin 12a": "סנהדרין י״ב א"
+            }
+        }
+    ],
+    "1243": [
+        {
+            "start": 270,
+            "end": 286,
+            "refs": {
+                "Kiddushin 41a:3-58b:11": "קידושין מ״א א:ג׳-נ״ח ב:י״א",
+                "Kiddushin 82": "קידושין פ״ב"
+            }
+        }
+    ],
+    "1245": [
+        {
+            "start": 222,
+            "end": 231,
+            "refs": {
+                "Mishnah Rosh Hashanah 1": "משנה ראש השנה א׳",
+                "Rosh Hashanah 2a:1-22a:12": "ראש השנה ב׳ א:א׳-כ״ב א:י״ב"
+            }
+        }
+    ],
+    "1261": [
+        {
+            "start": 30,
+            "end": 43,
+            "refs": {
+                "Bava Batra 108a:3-139b:6": "בבא בתרא ק״ח א:ג׳-קל״ט ב:ו׳",
+                "Jerusalem Talmud Bava Batra 8:1:1-9:2": "תלמוד ירושלמי בבא בתרא ח׳:א׳:א׳-ט׳:ב׳"
+            }
+        }
+    ],
+    "1352": [
+        {
+            "start": 533,
+            "end": 544,
+            "refs": {
+                "Mishnah Kiddushin 1": "משנה קידושין א׳",
+                "Kiddushin 2a:1-41a:2": "קידושין ב׳ א:א׳-מ״א א:ב׳"
+            }
+        }
+    ],
+    "1355": [
+        {
+            "start": 7,
+            "end": 19,
+            "refs": {
+                "Mishnah Kiddushin 1": "משנה קידושין א׳",
+                "Kiddushin 2a:1-41a:2": "קידושין ב׳ א:א׳-מ״א א:ב׳"
+            }
+        }
+    ],
+    "1372": [
+        {
+            "start": 61,
+            "end": 77,
+            "refs": {
+                "Rosh Hashanah 16": "ראש השנה ט״ז"
+            }
+        },
+        {
+            "start": 117,
+            "end": 133,
+            "refs": {
+                "Shabbat 89": "שבת פ״ט"
+            }
+        }
+    ],
+    "1375": [
+        {
+            "start": 15,
+            "end": 17,
+            "refs": {
+                "Mishnah Megillah 2": "משנה מגילה ב׳",
+                "Mishnah Chagigah 2": "משנה חגיגה ב׳",
+                "Mishnah Sotah 2": "משנה סוטה ב׳",
+                "Megillah 2": "מגילה ב׳",
+                "Megillah 17a:9-21a:9": "מגילה י״ז א:ט׳-כ״א א:ט׳",
+                "Chagigah 2": "חגיגה ב׳",
+                "Chagigah 11b:6-20b:6": "חגיגה י״א ב:ו׳-כ׳ ב:ו׳",
+                "Sotah 2": "סוטה ב׳",
+                "Sotah 14a:12-19a:6": "סוטה י״ד א:י״ב-י״ט א:ו׳"
+            }
+        }
+    ],
+    "1379": [
+        {
+            "start": 51,
+            "end": 62,
+            "refs": {
+                "Shabbat 27a": "שבת כ״ז א"
+            }
+        },
+        {
+            "start": 70,
+            "end": 80,
+            "refs": {
+                "Shabbat 32b": "שבת ל״ב ב"
+            }
+        },
+        {
+            "start": 498,
+            "end": 505,
+            "refs": {
+                "Magen Avraham 340": "מגן אברהם ש״מ"
+            }
+        }
+    ],
+    "1380": [
+        {
+            "start": 366,
+            "end": 371,
+            "refs": {
+                "Mishnah Shabbat 20": "משנה שבת כ׳",
+                "Shabbat 20": "שבת כ׳",
+                "Shabbat 137b:11-141b:18": "שבת קל״ז ב:י״א-קמ״א ב:י״ח"
+            }
+        }
+    ],
+    "1392": [
+        {
+            "start": 15,
+            "end": 17,
+            "refs": {
+                "Mishnah Berakhot 7": "משנה ברכות ז׳",
+                "Mishnah Gittin 7": "משנה גיטין ז׳",
+                "Berakhot 7": "ברכות ז׳",
+                "Berakhot 45a:4-51b:10": "ברכות מ״ה א:ד׳-נ״א ב:י׳",
+                "Gittin 7": "גיטין ז׳",
+                "Gittin 67b:9-77a:9": "גיטין ס״ז ב:ט׳-ע״ז א:ט׳"
+            }
+        },
+        {
+            "start": 28,
+            "end": 39,
+            "refs": {
+                "Berakhot 44b": "ברכות מ״ד ב",
+                "Gittin 44b": "גיטין מ״ד ב"
+            }
+        },
+        {
+            "start": 43,
+            "end": 52,
+            "refs": {
+                "Berakhot 50b": "ברכות נ׳ ב",
+                "Gittin 50b": "גיטין נ׳ ב"
+            }
+        }
+    ],
+    "1396": [
+        {
+            "start": 16,
+            "end": 17,
+            "refs": {
+                "Makkot 8": "מכות ח׳"
+            }
+        },
+        {
+            "start": 97,
+            "end": 107,
+            "refs": {
+                "Psalms 49": "תהילים מ״ט"
+            }
+        }
+    ],
+    "1399": [
+        {
+            "start": 43,
+            "end": 60,
+            "refs": {
+                "Bava Batra 120": "בבא בתרא ק״כ"
+            }
+        }
+    ],
+    "1402": [
+        {
+            "start": 85,
+            "end": 96,
+            "refs": {
+                "Psalms 139": "תהילים קל״ט"
+            }
+        }
+    ],
+    "1407": [
+        {
+            "start": 16,
+            "end": 18,
+            "refs": {
+                "Berakhot 13": "ברכות י״ג",
+                "Rashi on Berakhot 13": "רש\"י על ברכות י״ג"
+            }
+        }
+    ],
+    "1415": [
+        {
+            "start": 17,
+            "end": 27,
+            "refs": {
+                "Bava Batra 73a:3-91b:18": "בבא בתרא ע״ג א:ג׳-צ״א ב:י״ח",
+                "Jerusalem Talmud Bava Batra 5:1:1-5:3": "תלמוד ירושלמי בבא בתרא ה׳:א׳:א׳-ה׳:ג׳"
+            }
+        }
+    ],
+    "1427": [
+        {
+            "start": 426,
+            "end": 437,
+            "refs": {
+                "Ezekiel 26": "יחזקאל כ״ו"
+            }
+        }
+    ],
+    "1428": [
+        {
+            "start": 16,
+            "end": 18,
+            "refs": {
+                "Ezekiel 15": "יחזקאל ט״ו",
+                "Ezekiel 26:15": "יחזקאל כ״ו:ט״ו"
+            }
+        },
+        {
+            "start": 21,
+            "end": 23,
+            "refs": {
+                "Ezekiel 8": "יחזקאל ח׳",
+                "Ezekiel 15:8": "יחזקאל ט״ו:ח׳",
+                "Ezekiel 26:8": "יחזקאל כ״ו:ח׳"
+            }
+        }
+    ],
+    "1435": [
+        {
+            "start": 21,
+            "end": 22,
+            "refs": {
+                "Avodah Zarah 9": "עבודה זרה ט׳"
+            }
+        },
+        {
+            "start": 55,
+            "end": 66,
+            "refs": {
+                "Bava Metzia 92b": "בבא מציעא צ״ב ב"
+            }
+        },
+        {
+            "start": 70,
+            "end": 77,
+            "refs": {
+                "Bava Metzia 98a": "בבא מציעא צ״ח א"
+            }
+        }
+    ],
+    "1436": [
+        {
+            "start": 42,
+            "end": 53,
+            "refs": {
+                "Bava Batra 35": "בבא בתרא ל״ה"
+            }
+        }
+    ],
+    "1439": [
+        {
+            "start": 34,
+            "end": 45,
+            "refs": {
+                "Bava Batra 98a": "בבא בתרא צ״ח א"
+            }
+        },
+        {
+            "start": 49,
+            "end": 59,
+            "refs": {
+                "Bava Batra 101b": "בבא בתרא ק״א ב"
+            }
+        }
+    ],
+    "1444": [
+        {
+            "start": 164,
+            "end": 180,
+            "refs": {
+                "Yevamot 2a:1-17a:10": "יבמות ב׳ א:א׳-י״ז א:י׳"
+            }
+        }
+    ],
+    "1452": [
+        {
+            "start": 236,
+            "end": 252,
+            "refs": {
+                "Yalkut Shimoni on Torah 626:6-658:10": "ילקוט שמעוני על התורה תרכ״ו:ו׳-תרנ״ח:י׳"
+            }
+        },
+        {
+            "start": 318,
+            "end": 320,
+            "refs": {
+                "Yalkut Shimoni on Torah 626:6": "ילקוט שמעוני על התורה תרכ״ו:ו׳"
+            }
+        },
+        {
+            "start": 547,
+            "end": 571,
+            "refs": {
+                "Sanhedrin 12a": "סנהדרין י״ב א"
+            }
+        },
+        {
+            "start": 1423,
+            "end": 1432,
+            "refs": {
+                "Mishnah Rosh Hashanah 1": "משנה ראש השנה א׳",
+                "Rosh Hashanah 2a:1-22a:12": "ראש השנה ב׳ א:א׳-כ״ב א:י״ב"
+            }
+        }
+    ],
+    "1457": [
+        {
+            "start": 11,
+            "end": 24,
+            "refs": {
+                "Bava Batra 108a:3-139b:6": "בבא בתרא ק״ח א:ג׳-קל״ט ב:ו׳",
+                "Jerusalem Talmud Bava Batra 8:1:1-9:2": "תלמוד ירושלמי בבא בתרא ח׳:א׳:א׳-ט׳:ב׳"
+            }
+        }
+    ]
+}

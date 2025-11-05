@@ -1,182 +1,294 @@
-[
-  {
-    "line_index_1": 38,
-    "line_index_2": 4772,
-    "heRef_2": "רש\"י על פסחים צט:, א, א",
-    "path_2": "רשי על פסחים.txt",
-    "Conection Type": "reference",
-    "start": 27,
-    "end": 43
-  },
-  {
-    "line_index_1": 72,
-    "line_index_2": 3,
-    "heRef_2": "מסכת סופרים",
-    "path_2": "מסכת סופרים.txt",
-    "Conection Type": "reference",
-    "start": 2906,
-    "end": 2926
-  },
-  {
-    "line_index_1": 77,
-    "line_index_2": 3,
-    "heRef_2": "מועד קטן",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": "reference",
-    "start": 4,
-    "end": 9
-  },
-  {
-    "line_index_1": 83,
-    "line_index_2": 3,
-    "heRef_2": "מועד קטן",
-    "path_2": "מועד קטן.txt",
-    "Conection Type": "reference",
-    "start": 4,
-    "end": 9
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 897,
-    "heRef_2": "דברים לב, א",
-    "path_2": "דברים.txt",
-    "Conection Type": "reference",
-    "start": 776,
-    "end": 782
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 897,
-    "heRef_2": "דברים לב, א",
-    "path_2": "דברים.txt",
-    "Conection Type": "reference",
-    "start": 1028,
-    "end": 1034
-  },
-  {
-    "line_index_1": 86,
-    "line_index_2": 897,
-    "heRef_2": "דברים לב, א",
-    "path_2": "דברים.txt",
-    "Conection Type": "reference",
-    "start": 1285,
-    "end": 1291
-  },
-  {
-    "line_index_1": 106,
-    "line_index_2": 2013,
-    "heRef_2": "שבת פב., יב",
-    "path_2": "שבת.txt",
-    "Conection Type": "reference",
-    "start": 146,
-    "end": 158
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 119,
-    "heRef_2": "ויקרא ו, א",
-    "path_2": "ויקרא.txt",
-    "Conection Type": "reference",
-    "start": 104,
-    "end": 112
-  },
-  {
-    "line_index_1": 148,
-    "line_index_2": 119,
-    "heRef_2": "ויקרא ו, א",
-    "path_2": "ויקרא.txt",
-    "Conection Type": "reference",
-    "start": 491,
-    "end": 498
-  },
-  {
-    "line_index_1": 155,
-    "line_index_2": 785,
-    "heRef_2": "שמות כז, כ",
-    "path_2": "שמות.txt",
-    "Conection Type": "reference",
-    "start": 87,
-    "end": 91
-  },
-  {
-    "line_index_1": 177,
-    "line_index_2": 3,
-    "heRef_2": "גיטין",
-    "path_2": "גיטין.txt",
-    "Conection Type": "reference",
-    "start": 8,
-    "end": 25
-  },
-  {
-    "line_index_1": 186,
-    "line_index_2": 2710,
-    "heRef_2": "שבת קטו., ג",
-    "path_2": "שבת.txt",
-    "Conection Type": "reference",
-    "start": 23,
-    "end": 49
-  },
-  {
-    "line_index_1": 289,
-    "line_index_2": 2430,
-    "heRef_2": "ברכות נד., א",
-    "path_2": "ברכות.txt",
-    "Conection Type": "reference",
-    "start": 109,
-    "end": 129
-  },
-  {
-    "line_index_1": 309,
-    "line_index_2": 950,
-    "heRef_2": "דברים לג, א",
-    "path_2": "דברים.txt",
-    "Conection Type": "reference",
-    "start": 11,
-    "end": 21
-  },
-  {
-    "line_index_1": 331,
-    "line_index_2": 3,
-    "heRef_2": "גיטין",
-    "path_2": "גיטין.txt",
-    "Conection Type": "reference",
-    "start": 1,
-    "end": 20
-  },
-  {
-    "line_index_1": 332,
-    "line_index_2": 3,
-    "heRef_2": "מנחות",
-    "path_2": "מנחות.txt",
-    "Conection Type": "reference",
-    "start": 533,
-    "end": 549
-  },
-  {
-    "line_index_1": 332,
-    "line_index_2": 3,
-    "heRef_2": "מנחות",
-    "path_2": "מנחות.txt",
-    "Conection Type": "reference",
-    "start": 635,
-    "end": 640
-  },
-  {
-    "line_index_1": 332,
-    "line_index_2": 3,
-    "heRef_2": "גיטין",
-    "path_2": "גיטין.txt",
-    "Conection Type": "reference",
-    "start": 2695,
-    "end": 2709
-  },
-  {
-    "line_index_1": 332,
-    "line_index_2": 3,
-    "heRef_2": "יבמות",
-    "path_2": "יבמות.txt",
-    "Conection Type": "reference",
-    "start": 2738,
-    "end": 2754
-  }
-]
+{
+    "34": [
+        {
+            "start": 35,
+            "end": 46,
+            "refs": {
+                "Berakhot 17b:12-26a:10": "ברכות י״ז ב:י״ב-כ״ו א:י׳",
+                "Jerusalem Talmud Berakhot 3:1:1-6:4": "תלמוד ירושלמי ברכות ג׳:א׳:א׳-ו׳:ד׳"
+            }
+        }
+    ],
+    "38": [
+        {
+            "start": 27,
+            "end": 43,
+            "refs": {
+                "Rashi on Pesachim 99b:1-121b:3": "רש\"י על פסחים צ״ט ב:א׳-קכ״א ב:ג׳"
+            }
+        }
+    ],
+    "53": [
+        {
+            "start": 4,
+            "end": 8,
+            "refs": {
+                "Sukkah 5": "סוכה ה׳",
+                "Megillah 5": "מגילה ה׳"
+            }
+        }
+    ],
+    "54": [
+        {
+            "start": 54,
+            "end": 60,
+            "refs": {
+                "Sukkah 5a": "סוכה ה׳ א",
+                "Megillah": "מגילה",
+                "Megillah 5a": "מגילה ה׳ א"
+            }
+        },
+        {
+            "start": 259,
+            "end": 264,
+            "refs": {
+                "Tosafot on Sukkah 5a": "תוספות על סוכה ה׳ א",
+                "Tosafot on Megillah": "תוספות על מגילה",
+                "Tosafot on Megillah 5a": "תוספות על מגילה ה׳ א"
+            }
+        }
+    ],
+    "72": [
+        {
+            "start": 2868,
+            "end": 2879,
+            "refs": {
+                "Mishnah Ta'anit 2": "משנה תענית ב׳",
+                "Taanit 15a:4-18b:13": "תענית ט״ו א:ד׳-י״ח ב:י״ג"
+            }
+        },
+        {
+            "start": 2906,
+            "end": 2926,
+            "refs": {
+                "Tractate Soferim 17": "מסכת סופרים י״ז"
+            }
+        }
+    ],
+    "77": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Moed Katan 14": "מועד קטן י״ד"
+            }
+        }
+    ],
+    "83": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Moed Katan 16": "מועד קטן ט״ז"
+            }
+        }
+    ],
+    "86": [
+        {
+            "start": 776,
+            "end": 782,
+            "refs": {
+                "Deuteronomy 32:1-52": "דברים ל״ב:א׳-נ״ב"
+            }
+        },
+        {
+            "start": 1028,
+            "end": 1034,
+            "refs": {
+                "Deuteronomy 32:1-52": "דברים ל״ב:א׳-נ״ב"
+            }
+        },
+        {
+            "start": 1285,
+            "end": 1291,
+            "refs": {
+                "Deuteronomy 32:1-52": "דברים ל״ב:א׳-נ״ב"
+            }
+        }
+    ],
+    "99": [
+        {
+            "start": 314,
+            "end": 326,
+            "refs": {
+                "Berakhot 13a:16-17b:11": "ברכות י״ג א:ט״ז-י״ז ב:י״א",
+                "Jerusalem Talmud Berakhot 2:1:1-9:4": "תלמוד ירושלמי ברכות ב׳:א׳:א׳-ט׳:ד׳"
+            }
+        }
+    ],
+    "106": [
+        {
+            "start": 146,
+            "end": 158,
+            "refs": {
+                "Shabbat 82a:12-90b:6": "שבת פ״ב א:י״ב-צ׳ ב:ו׳"
+            }
+        }
+    ],
+    "109": [
+        {
+            "start": 14,
+            "end": 25,
+            "refs": {
+                "Mishnah Gittin 1": "משנה גיטין א׳",
+                "Gittin 2a:1-15a:7": "גיטין ב׳ א:א׳-ט״ו א:ז׳"
+            }
+        }
+    ],
+    "148": [
+        {
+            "start": 104,
+            "end": 112,
+            "refs": {
+                "Leviticus 6:1-8:36": "ויקרא ו׳:א׳-ח׳:ל״ו"
+            }
+        },
+        {
+            "start": 491,
+            "end": 498,
+            "refs": {
+                "Leviticus 6:1-8:36": "ויקרא ו׳:א׳-ח׳:ל״ו"
+            }
+        }
+    ],
+    "155": [
+        {
+            "start": 87,
+            "end": 91,
+            "refs": {
+                "Exodus 27:20-30:10": "שמות כ״ז:כ׳-ל׳:י׳"
+            }
+        }
+    ],
+    "177": [
+        {
+            "start": 8,
+            "end": 25,
+            "refs": {
+                "Gittin 49b": "גיטין מ״ט ב"
+            }
+        },
+        {
+            "start": 206,
+            "end": 209,
+            "refs": {
+                "Mishnah Gittin 2": "משנה גיטין ב׳",
+                "Gittin 15a:8-24a:15": "גיטין ט״ו א:ח׳-כ״ד א:ט״ו",
+                "Gittin 82": "גיטין פ״ב"
+            }
+        }
+    ],
+    "186": [
+        {
+            "start": 23,
+            "end": 49,
+            "refs": {
+                "Shabbat 115a:3-122b:3": "שבת קט״ו א:ג׳-קכ״ב ב:ג׳"
+            }
+        }
+    ],
+    "200": [
+        {
+            "start": 27,
+            "end": 41,
+            "refs": {
+                "Mishnah Chagigah 3": "משנה חגיגה ג׳",
+                "Chagigah 3": "חגיגה ג׳",
+                "Chagigah 20b:7-27a:9": "חגיגה כ׳ ב:ז׳-כ״ז א:ט׳"
+            }
+        }
+    ],
+    "247": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Taanit 26": "תענית כ״ו",
+                "Tosafot on Megillah 26": "תוספות על מגילה כ״ו"
+            }
+        }
+    ],
+    "250": [
+        {
+            "start": 331,
+            "end": 346,
+            "refs": {
+                "Pesachim 99b:1-121b:3": "פסחים צ״ט ב:א׳-קכ״א ב:ג׳",
+                "Jerusalem Talmud Pesachim 10:1:1-7:5": "תלמוד ירושלמי פסחים י׳:א׳:א׳-ז׳:ה׳"
+            }
+        }
+    ],
+    "289": [
+        {
+            "start": 109,
+            "end": 129,
+            "refs": {
+                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו"
+            }
+        }
+    ],
+    "309": [
+        {
+            "start": 11,
+            "end": 21,
+            "refs": {
+                "Deuteronomy 33:1-34:12": "דברים ל״ג:א׳-ל״ד:י״ב"
+            }
+        }
+    ],
+    "331": [
+        {
+            "start": 1,
+            "end": 20,
+            "refs": {
+                "Gittin 6a": "גיטין ו׳ א"
+            }
+        }
+    ],
+    "332": [
+        {
+            "start": 533,
+            "end": 549,
+            "refs": {
+                "Menachot 32b": "מנחות ל״ב ב"
+            }
+        },
+        {
+            "start": 635,
+            "end": 640,
+            "refs": {
+                "Menachot 32b": "מנחות ל״ב ב"
+            }
+        },
+        {
+            "start": 2063,
+            "end": 2074,
+            "refs": {
+                "Mishnah Gittin 1": "משנה גיטין א׳",
+                "Gittin 2a:1-15a:7": "גיטין ב׳ א:א׳-ט״ו א:ז׳"
+            }
+        },
+        {
+            "start": 2339,
+            "end": 2351,
+            "refs": {
+                "Megillah 25b:20-32a:18": "מגילה כ״ה ב:כ׳-ל״ב א:י״ח",
+                "Jerusalem Talmud Megillah 4:1:1-12:6": "תלמוד ירושלמי מגילה ד׳:א׳:א׳-י״ב:ו׳"
+            }
+        },
+        {
+            "start": 2695,
+            "end": 2709,
+            "refs": {
+                "Gittin 6b": "גיטין ו׳ ב"
+            }
+        },
+        {
+            "start": 2738,
+            "end": 2754,
+            "refs": {
+                "Yevamot 106b": "יבמות ק״ו ב"
+            }
+        }
+    ]
+}

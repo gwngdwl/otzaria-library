@@ -1,11 +1,21 @@
-[
-  {
-    "line_index_1": 5,
-    "line_index_2": 3,
-    "heRef_2": "בבא מציעא",
-    "path_2": "בבא מציעא.txt",
-    "Conection Type": "reference",
-    "start": 4,
-    "end": 9
-  }
-]
+{
+    "5": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Bava Metzia 64": "בבא מציעא ס״ד"
+            }
+        }
+    ],
+    "6": [
+        {
+            "start": 9,
+            "end": 18,
+            "refs": {
+                "Bava Metzia 44a:8-60b:7": "בבא מציעא מ״ד א:ח׳-ס׳ ב:ז׳",
+                "Jerusalem Talmud Bava Metzia 4:1:1-7:2": "תלמוד ירושלמי בבא מציעא ד׳:א׳:א׳-ז׳:ב׳"
+            }
+        }
+    ]
+}
