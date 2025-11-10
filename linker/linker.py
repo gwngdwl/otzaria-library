@@ -1,14 +1,14 @@
 from __future__ import annotations
 
+import asyncio
 import bisect
 import json
-import time
 from collections import defaultdict
 from pathlib import Path
 from typing import TypedDict
 
-import requests
-from tqdm import tqdm
+import aiohttp
+from tqdm.asyncio import tqdm
 
 
 class SefariaLinkResult(TypedDict):
@@ -29,7 +29,7 @@ def get_line_number(prefix: list[int], char_index: int) -> int:
     return bisect.bisect_right(prefix, char_index)
 
 
-def call_sefaria_linker(text: str, title: str) -> tuple[list[SefariaLinkResult], dict[str, RefData]]:
+async def call_sefaria_linker(session: aiohttp.ClientSession, text: str, title: str) -> tuple[list[SefariaLinkResult], dict[str, RefData]]:
     url = "https://www.sefaria.org/api/find-refs"
     payload = {
         "text": {
@@ -37,37 +37,42 @@ def call_sefaria_linker(text: str, title: str) -> tuple[list[SefariaLinkResult],
             "title": title
         }
     }
-    response = requests.post(url, json=payload)
-    response.raise_for_status()
-    time.sleep(5)
-    data = response.json()
+    async with session.post(url, json=payload) as response:
+        response.raise_for_status()
+        data = await response.json()
+    
+    await asyncio.sleep(5)
     task_id = data.get("task_id")
-    while True:
-        links = requests.get(f"https://www.sefaria.org/api/async/{task_id}").json()
+    num = 0
+    while num < 5:
+        async with session.get(f"https://www.sefaria.org/api/async/{task_id}") as response:
+            links = await response.json()
+        
         if links["state"] == "FAILURE":
             raise Exception("Task did not complete successfully")
         if links["ready"] is False or links["state"] == "PENDING":
             print(f"{links['state']=} {links['ready']=}")
             print("Waiting for linker to be ready...")
-            time.sleep(50)
+            await asyncio.sleep(50)
+            num += 1
         else:
             return links["result"]["body"]["results"], links["result"]["body"]["refData"]
 
 
-def link_book(input_file: Path, output_file: Path | None = None, title: str | None = None, chunk_size: int = 100) -> None:
+async def link_book(session: aiohttp.ClientSession, input_file: Path, output_file: Path | None = None, title: str | None = None, chunk_size: int = 100) -> None:
     output_file = output_file if output_file else input_file.with_suffix(".json")
     title = title if title else input_file.stem
     dict_all = defaultdict(list)
     with input_file.open("r", encoding="utf-8") as file:
         all_lines = file.readlines()
-    for i in tqdm(range((len(all_lines) + chunk_size - 1) // chunk_size)):
+    for i in range((len(all_lines) + chunk_size - 1) // chunk_size):
         lines = all_lines[i * chunk_size:(i + 1) * chunk_size]
         text = "".join(lines)
         lengths = [len(line) for line in lines]
         prefix = [0]
         for ln in lengths:
             prefix.append(prefix[-1] + ln)
-        links, ref_data = call_sefaria_linker(text, title)
+        links, ref_data = await call_sefaria_linker(session, text, title)
         for result in links:
             refs = result["refs"]
             if refs is None:
@@ -87,7 +92,18 @@ def link_book(input_file: Path, output_file: Path | None = None, title: str | No
         json.dump(dict_all, f, ensure_ascii=False, indent=4)
 
 
-def main() -> None:
+async def process_book(session: aiohttp.ClientSession, file_path: Path, link_path: Path, title: str, semaphore: asyncio.Semaphore) -> None:
+    """Process a single book with rate limiting."""
+    async with semaphore:
+        print(f"Linking {file_path}...")
+        try:
+            await link_book(session, file_path, link_path, title)
+            print(f"Successfully linked {file_path}")
+        except Exception as e:
+            print(f"Error linking {file_path}: {e}")
+
+
+async def main() -> None:
     base_path = Path("/workspaces/otzaria-library")
     links_target = base_path / "sefaria_linker" / "links_temp"
     folders = (
@@ -96,30 +112,38 @@ def main() -> None:
         "OnYourWayToOtzaria/ספרים/אוצריא",
         "OraytaToOtzaria/ספרים/אוצריא",
         "tashmaToOtzaria/ספרים/אוצריא",
-        "sefariaToOtzaria/sefaria_api/ספרים/אוצריא",
+        # "sefariaToOtzaria/sefaria_api/ספרים/אוצריא",
         "MoreBooks/ספרים/אוצריא",
         "wiki_jewish_books/ספרים/אוצריא",
     )
-    for folder in folders:
-        folder_path = base_path / folder
-        # links_temp_path = folder_path / "links_temp"
-        links_temp_path = links_target / folder.split("/")[0]
-        links_temp_path.mkdir(exist_ok=True, parents=True)
-        for root, _, files in folder_path.walk():
-            for file in files:
-                file_path = root / file
-                if file_path.suffix.lower() != ".txt":
-                    continue
-                title = " ".join(file_path.parts[folder_path.parts.index("אוצריא") + 1:-1]) + " " + file_path.stem
-                link_path = links_temp_path / f"{file_path.stem}_links.json"
-                if link_path.exists():
-                    continue
-                print(f"Linking {file_path}...")
-                try:
-                    link_book(file_path, link_path, title)
-                except Exception as e:
-                    print(f"Error linking {file_path}: {e}")
+    
+    # Collect all tasks
+    tasks = []
+    semaphore = asyncio.Semaphore(5)  # Limit to 5 concurrent operations
+    
+    async with aiohttp.ClientSession() as session:
+        for folder in folders:
+            folder_path = base_path / folder
+            links_temp_path = links_target / folder.split("/")[0]
+            links_temp_path.mkdir(exist_ok=True, parents=True)
+            
+            for root, _, files in folder_path.walk():
+                for file in files:
+                    file_path = root / file
+                    if file_path.suffix.lower() != ".txt":
+                        continue
+                    title = " ".join(file_path.parts[folder_path.parts.index("אוצריא") + 1:-1]) + " " + file_path.stem
+                    link_path = links_temp_path / f"{file_path.stem}_links.json"
+                    if link_path.exists():
+                        continue
+                    
+                    task = process_book(session, file_path, link_path, title, semaphore)
+                    tasks.append(task)
+        
+        # Run all tasks with progress bar
+        if tasks:
+            await tqdm.gather(*tasks, desc="Processing books")
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
