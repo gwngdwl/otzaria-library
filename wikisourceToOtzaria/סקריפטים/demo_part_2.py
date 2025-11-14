@@ -2,21 +2,17 @@ import csv
 import html
 import json
 import re
+from collections.abc import Generator
 from pathlib import Path
-from typing import TYPE_CHECKING
-
-from openpyxl import load_workbook
-from tqdm import tqdm
-
-if TYPE_CHECKING:
-    from collections.abc import Generator
 
 from mediawikitootzaria import htmltootzaria, mediawikiapi, mediawikitohtml, templates
+from openpyxl import load_workbook
+from tqdm import tqdm
 
 mediawikiapi.BASE_URL = mediawikiapi.JEWISHBOOKS
 
 
-def iter_books_with_author(xlsx_file_path: Path) -> Generator[tuple[str, str, list[list[str]]]]:
+def iter_books_with_author(xlsx_file_path: Path) -> Generator[tuple[str, str, str, list[list[str]]]]:
     wb = load_workbook(xlsx_file_path, data_only=True, read_only=True)
     if "ספרים" not in wb.sheetnames:
         raise ValueError("אין גיליון בשם 'ספרים' בקובץ")
@@ -26,11 +22,13 @@ def iter_books_with_author(xlsx_file_path: Path) -> Generator[tuple[str, str, li
     name_idx = 0
     author_idx = 1
     done_idx = 2
+    link_idx = 3
 
     for row in books_ws.iter_rows(min_row=2, values_only=True):
         book_name = row[name_idx]
         author = row[author_idx]
         done = row[done_idx]
+        link = row[link_idx]
         if not book_name or book_name not in wb.sheetnames:
             continue
         if done is True:
@@ -39,7 +37,7 @@ def iter_books_with_author(xlsx_file_path: Path) -> Generator[tuple[str, str, li
         ws = wb[book_name]
         rows_iter = ws.iter_rows(values_only=True)
         next(rows_iter, None)  # דלג על שורת כותרת
-        yield author, book_name, ([["" if c is None else str(c) for c in r] for r in rows_iter])
+        yield author, book_name, link, ([["" if c is None else str(c) for c in r] for r in rows_iter])
 
     wb.close()
 
@@ -52,11 +50,13 @@ def read_order_from_csv(csv_file_path: Path) -> Generator[list[str]]:
 
 
 # def main(csv_file_path: Path, title: str, author: str) -> None:
-def main(pages: list[list[str]], title: str, author: str) -> None:
+def main(pages: list[list[str]], title: str, author: str, link: str) -> None:
+    target_dir = Path("ספרים")
+    target_dir.mkdir(exist_ok=True, parents=True)
     sup_num = 0
     all_sup = []
     dict_links = []
-    all_content = [f"<h1>{title}</h1>", author if author else ""]
+    all_content = [f"<h1>{title}</h1>", author if author else "", "באדיבות 'אוצר הספרים היהודי השיתופי'", f'(במצב מקוון אפשר ללחוץ <a href="{link}">כאן</a> ולתקן את הדף המקורי או להוסיף הערת שוליים)']
     lines = len(all_content)
     # for book in read_order_from_csv(csv_file_path):
     for book in tqdm(pages):
@@ -106,25 +106,26 @@ def main(pages: list[list[str]], title: str, author: str) -> None:
             v = html.unescape(v)
             all_sup.append(f'{k} {v}')
             sup_num += 1
-
-    json_file = f"{title}_links.json"
+    file_path = target_dir / f"{title}.txt"
+    json_file_path = target_dir / f"{title}_links.json"
+    comments_file_path = target_dir / f"הערות על {title}.txt"
 
     if dict_links:
-        with open(json_file, 'w', encoding='utf-8') as f:
+        with json_file_path.open('w', encoding='utf-8') as f:
             json.dump(dict_links, f)
-    with open(f"{title}.txt", "w", encoding="utf-8") as f:
+    with file_path.open("w", encoding="utf-8") as f:
         f.write("\n".join(all_content))
     if all_sup:
-        with open(f"הערות על {title}.txt", "w", encoding="utf-8") as f:
+        with comments_file_path.open("w", encoding="utf-8") as f:
             f.write("\n".join(all_sup))
 
 
 # file_path = r"C:\Users\User\Downloads\אוצר הספרים היהודי השיתופי - עץ הדר.csv"
 # book_title = "עץ הדר"
 # book_author = ""
-for author, book_name, rows in iter_books_with_author(Path(r"C:\Users\User\Downloads\אוצר הספרים היהודי השיתופי_3.xlsx")):
+for author, book_name, link, rows in iter_books_with_author(Path("books.xlsx")):
     print("מחבר:", author)
     print(f"{book_name=}:")
     # main(Path(file_path), book_title, book_author)
-    main(rows, book_name, author)
+    main(rows, book_name, author, link)
     print(f"סיים: {book_name}")

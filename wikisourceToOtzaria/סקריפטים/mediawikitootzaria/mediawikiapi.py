@@ -171,4 +171,5 @@ def get_page_content(page_title: str) -> str:
         return "Page not found or no content available."
 
     except requests.exceptions.RequestException as e:
-        return f"Error fetching page content: {e}"
+        print(f"Error fetching page content: {e}")
+        raise
