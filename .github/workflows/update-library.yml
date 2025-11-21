@@ -147,64 +147,51 @@ jobs:
         with:
           message: "Update files manifest and sync folders"
           default_author: github_actions
-
-      - name: Merge files for ZIP archive
+      - name: Create otzaria Release Archive
         run: |
-          # Create temporary merged directories for ZIP
-          mkdir -p temp_zip/אוצריא
-          mkdir -p temp_zip/links
-          
-          echo "Merging book files into אוצריא directory..."
-          # Copy all book files from source directories to merged אוצריא
-          [ -d "Ben-YehudaToOtzaria/ספרים/אוצריא" ] && cp -r "Ben-YehudaToOtzaria/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
-          [ -d "DictaToOtzaria/ספרים/ערוך/אוצריא" ] && cp -r "DictaToOtzaria/ספרים/ערוך/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
-          [ -d "OnYourWayToOtzaria/ספרים/אוצריא" ] && cp -r "OnYourWayToOtzaria/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
-          [ -d "OraytaToOtzaria/ספרים/אוצריא" ] && cp -r "OraytaToOtzaria/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
-          [ -d "tashmaToOtzaria/ספרים/אוצריא" ] && cp -r "tashmaToOtzaria/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
-          [ -d "sefariaToOtzaria/sefaria_export/ספרים/אוצריא" ] && cp -r "sefariaToOtzaria/sefaria_export/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
-          [ -d "sefariaToOtzaria/sefaria_api/ספרים/אוצריא" ] && cp -r "sefariaToOtzaria/sefaria_api/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
-          [ -d "MoreBooks/ספרים/אוצריא" ] && cp -r "MoreBooks/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
-          [ -d "wiki_jewish_books/ספרים/אוצריא" ] && cp -r "wiki_jewish_books/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
-          [ -d "ToratEmetToOtzaria/ספרים/אוצריא" ] && cp -r "ToratEmetToOtzaria/ספרים/אוצריא/." temp_zip/אוצריא/ 2>/dev/null || true
-          
-          echo "Merging link files into links directory..."
-          # Copy all link files from source directories to merged links
-          [ -d "Ben-YehudaToOtzaria/links" ] && cp -r "Ben-YehudaToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
-          [ -d "DictaToOtzaria/ספרים/links" ] && cp -r "DictaToOtzaria/ספרים/links/." temp_zip/links/ 2>/dev/null || true
-          [ -d "OnYourWayToOtzaria/links" ] && cp -r "OnYourWayToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
-          [ -d "OraytaToOtzaria/links" ] && cp -r "OraytaToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
-          [ -d "tashmaToOtzaria/links" ] && cp -r "tashmaToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
-          [ -d "sefariaToOtzaria/sefaria_export/links" ] && cp -r "sefariaToOtzaria/sefaria_export/links/." temp_zip/links/ 2>/dev/null || true
-          [ -d "sefariaToOtzaria/sefaria_api/links" ] && cp -r "sefariaToOtzaria/sefaria_api/links/." temp_zip/links/ 2>/dev/null || true
-          [ -d "MoreBooks/links" ] && cp -r "MoreBooks/links/." temp_zip/links/ 2>/dev/null || true
-          [ -d "wiki_jewish_books/links" ] && cp -r "wiki_jewish_books/links/." temp_zip/links/ 2>/dev/null || true
-          [ -d "ToratEmetToOtzaria/links" ] && cp -r "ToratEmetToOtzaria/links/." temp_zip/links/ 2>/dev/null || true
-          
-          echo "Files merged successfully!"
+          echo "Creating ZIP archive for אוצריא and links..."
 
-      - name: Create Release Archive
-        run: |
-          # Create ZIP with merged structure
-          cd temp_zip
-          zip -qr ../otzaria_latest.zip אוצריא links
-          cd ..
-          
-          # Add manifest files to ZIP
+          # ZIP אוצריא מכל המקורות
+          zip -qr otzaria_latest.zip \
+            Ben-YehudaToOtzaria/ספרים/אוצריא \
+            DictaToOtzaria/ספרים/ערוך/אוצריא \
+            OnYourWayToOtzaria/ספרים/אוצריא \
+            OraytaToOtzaria/ספרים/אוצריא \
+            tashmaToOtzaria/ספרים/אוצריא \
+            sefariaToOtzaria/sefaria_export/ספרים/אוצריא \
+            sefariaToOtzaria/sefaria_api/ספרים/אוצריא \
+            MoreBooks/ספרים/אוצריא \
+            wiki_jewish_books/ספרים/אוצריא \
+            ToratEmetToOtzaria/ספרים/אוצריא 2>/dev/null || true
+
+          # ZIP links מכל המקורות (append לאותו ZIP)
+          zip -qr otzaria_latest.zip \
+            Ben-YehudaToOtzaria/links \
+            DictaToOtzaria/ספרים/links \
+            OnYourWayToOtzaria/links \
+            OraytaToOtzaria/links \
+            tashmaToOtzaria/links \
+            sefariaToOtzaria/sefaria_export/links \
+            sefariaToOtzaria/sefaria_api/links \
+            MoreBooks/links \
+            wiki_jewish_books/links \
+            ToratEmetToOtzaria/links 2>/dev/null || true
+
+          # Add manifest files
           zip -q otzaria_latest.zip files_manifest.json metadata.json || true
-          
-          echo "Archive created successfully with merged directory structure"
-          rm -rf temp_zip
+
+          echo "Archive created successfully!"
       - name: Create dicta Release Archive
         run: |
-        
-          mkdir -p temp_zip_dicta/אוצריא
-          cp -r DictaToOtzaria/ספרים/לא\ ערוך/. temp_zip_dicta/
-          cd temp_zip_dicta
-          zip -qr ../otzaria_dicta_latest.zip אוצריא
-          cd ..
+          echo "Creating Dicta ZIP archive..."
+
+          # ZIP all לא ערוך directories from Dicta
+          zip -qr otzaria_dicta_latest.zip DictaToOtzaria/ספרים/לא\ ערוך 2>/dev/null || true
+
+          # Add manifest file
           zip -q otzaria_dicta_latest.zip files_manifest_dicta.json || true
-          echo "Dicta archive created successfully"
-          rm -rf temp_zip_dicta
+
+          echo "Dicta archive created successfully!"
 
       - name: Delete existing 'latest' release and tag
         continue-on-error: true
