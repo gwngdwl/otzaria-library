@@ -1,0 +1,7484 @@
+[
+  {
+    "title": "תורה",
+    "heDesc": "התורה כוללת את חמשת הספרים הראשונים של התנ\"ך. לפי המסורת הרבנית, התורה שבכתב, יחד עם התורה שבעל פה, המרכיבים יחד את ההלכה היהודית, ניתנו בנבואה למשה. המסורת היהודית מחלקת את התורה לפרשיות, כאשר כל שבוע נקראת פרשה אחת, וקריאת כל חמשת החומשים מסתיימת במהלך כל שנה ושנה. הנוצרים חילקו את התורה לפרקים ופסוקים, וחלוקה זאת נמצאת בשימוש גם אצל יהודים מאז ימי הביניים.",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "תרגום",
+    "heDesc": "",
+    "heShortDesc": "תרגומים על ספרי כתובים במגוון סגנונות ממגוון תקופות.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "תרגום אונקלוס",
+    "heDesc": "",
+    "heShortDesc": "התרגום המרכזי לתורה שהתקבל בתלמוד כתרגום סמכותי; בתקופת התלמוד נקרא בבית הכנסת לצד קריאת התורה, ועדיין נקרא היום בקהילות יהודי תימן.",
+    "order": null
+  },
+  {
+    "title": "תפסיר רס\"ג",
+    "heDesc": "",
+    "heShortDesc": "תרגום רב-השפעה של התורה לערבית באותיות עבריות שחיבר הרב סעדיה גאון במאה ה-10.",
+    "order": null
+  },
+  {
+    "title": "תרגום ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "קטעי תרגום על מבחר ביטויים בתורה.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "תרגום יונתן",
+    "heDesc": "",
+    "heShortDesc": "תרגום מרכזי על ספרי הנביאים שנקרא בציבור בבית הכנסת בתקופת התלמוד, ועדיין נקרא היום בקהילות של יהודי תימן.",
+    "order": null
+  },
+  {
+    "title": "תרגום ניאופיטי",
+    "heDesc": "",
+    "heShortDesc": "תרגום לתורה המשלב הרחבות פרשניות על הטקסט המקראי; חובר בארץ ישראל.",
+    "order": null
+  },
+  {
+    "title": "תרגומים",
+    "heDesc": "הקטגוריה של 'תרגומים' כוללת את תרגומי התורה לארמית, תרגומים שהועברו במקור בעל פה והועלו על הכתב בין המאה ה-1 ל-6 לספירה.",
+    "heShortDesc": "תרגום של התנ\"ך לארמית, במקור הועבר בעל פה, והועלה על הכתב מן המאה ה-1 עד המאה ה-8 לספירה.",
+    "order": 20
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "רש\"י",
+    "heDesc": "",
+    "heShortDesc": "הפירוש הנפוץ והמוכר ביותר לתורה, המבאר את פשטי המקראות בתוספת הרחבות פרשניות; חובר במאה ה-11.",
+    "order": 5
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "אבן עזרא",
+    "heDesc": "",
+    "heShortDesc": "פירוש פשט המשלב ביאורים המבוססים על דקדוק ובלשנות; חובר במאה ה-12.",
+    "order": 10
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "רמב\"ן",
+    "heDesc": "",
+    "heShortDesc": "פירוש מהמאה ה-13 המשלב פרשנות מקראית עם הלכה, הגות ומיסטיקה.",
+    "order": 15
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "אברבנאל",
+    "heDesc": "",
+    "heShortDesc": "פירוש לתורה ולנביאים מן המאה ה-15; כל קטע חדש בו נפתח ברשימת שאלות על הטקסט המקראי.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "אלשיך",
+    "heDesc": "",
+    "heShortDesc": "פירוש מן המאה ה-16 המדגיש מסרים בתחום האתיקה והמוסר הדתי הטמונים בכל פסוק.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "בעל הטורים ",
+    "heDesc": "",
+    "heShortDesc": "מבואות קצרים לפרשיות מקראיות המשלבים גימטריות ומשחקי לשון. חובר במאה ה-14.",
+    "order": null
+  },
+  {
+    "title": "בכור שור",
+    "heDesc": "",
+    "heShortDesc": "פירוש של אחד מבעלי התוספות בצרפת מן המאה ה-12, המתמקד בביאור מילים וביטויים ובמתן הסברים רציונליים לניסים במקרא.",
+    "order": null
+  },
+  {
+    "title": "חזקוני",
+    "heDesc": "",
+    "heShortDesc": "פירוש מן המאה ה-13 המציג ביאורים של פרשנות פשט שקדמה לו לצד חידושים.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "דעת זקנים",
+    "heDesc": "",
+    "heShortDesc": "פירוש שחיברו בעלי התוספות במאות ה-12 וה-13 בעיקר בצרפת ובגרמניה.",
+    "order": null
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "יוסף אבן יחיא",
+    "heDesc": "",
+    "heShortDesc": "פירוש מן המאה ה-16 על ספרי הכתובים, מיוחס לתלמידו של הרשב\"א.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "קיצור בעל הטורים ",
+    "heDesc": "",
+    "heShortDesc": "קיצור הפירוש לתורה שכתב בעל הטורים במאה ה-14.",
+    "order": null
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "מנחת שי",
+    "heDesc": "",
+    "heShortDesc": "פירוש מן המאה ה-17 המתמקד בשינויי נוסח, טעמי המקרא ודקדוקי הגייה בטקסט המקראי.",
+    "order": null
+  },
+  {
+    "title": "רבנו בחיי",
+    "heDesc": "",
+    "heShortDesc": "פירוש מן המאה ה-14 המשלב ביאורים לשוניים עם פרשנות אלגורית, פילוסופית ומיסטית.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "רבינו חננאל",
+    "heDesc": "",
+    "heShortDesc": "פירוש אבוד מן המאה ה-11 שנלקט מציטוטים שהביאו ממנו פרשנים מאוחרים לו ומקטעי כתבי יד שהתגלו בגניזת קהיר.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "רד\"ק",
+    "heDesc": "",
+    "heShortDesc": "פרשנות פשט ידועה מן המאה ה-13 המשלבת עיונים לשוניים ופילוסופיים.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "רלב\"ג",
+    "heDesc": "",
+    "heShortDesc": "פירוש ביטויים ופסוקים המשולבים באמרות מוסר, הלכה, פילוסופיה, מתמטיקה ואסטרונומיה; נכתב במאה ה-14.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "רלב\"ג ביאור המלות",
+    "heDesc": "",
+    "heShortDesc": "אחד משלושת החלקים של פירוש רלב\"ג לתורה, המתמקד בהגדרות לשוניות.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "רשב\"ם",
+    "heDesc": "",
+    "heShortDesc": "פירוש פשט ידוע מן המאה ה-12 שחיבר נכדו של רש\"י.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ר' סעדיה גאון",
+    "heDesc": "",
+    "heShortDesc": "פירוש המשלב מאמרים הלכתיים ופילוסופיים עם קשר רופף לפסוקי המקרא; נכתב במאה ה-10.",
+    "order": null
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "אבן עזרא מהדורא תניינא",
+    "heDesc": "",
+    "heShortDesc": "פירושו השני של אבן עזרא למגילת אסתר ובו נושאים החופפים לפירושו הראשון לצד פירושים חדשים.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספורנו",
+    "heDesc": "",
+    "heShortDesc": "פירוש של רב ורופא איטלקי מן המאה ה-16, ובו ביאורים קצרים ופשוטים לטקסט המקראי.",
+    "order": null
+  },
+  {
+    "title": "הטור הארוך",
+    "heDesc": "",
+    "heShortDesc": "פירוש של בעל הטורים, בן המאה ה-14, המשלב סיכומים של פרשנות קיימת, בייחוד זו של הרמב\"ן.",
+    "order": null
+  },
+  {
+    "title": "ראשונים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "אדרת אליהו",
+    "heDesc": "",
+    "heShortDesc": "פירוש מן המאה ה-18 שכתב הגאון מווילנה, רבי אליהו בן שלמה זלמן.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "אבי עזר",
+    "heDesc": "",
+    "heShortDesc": "ביאור לפירוש אבן עזרא לתורה, מן המאה ה-18.",
+    "order": null
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "חומת אנך",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "נחל אשכול",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "חיד״א",
+    "heDesc": "",
+    "heShortDesc": "סדרה של פירושיו של הרב חיים יוסף דוד אזולאי , בן המאה ה-18, המשלבים פרשנות חז\"ל וקבלה.",
+    "order": null
+  },
+  {
+    "title": "דברי דוד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "גור אריה",
+    "heDesc": "",
+    "heShortDesc": "ביאור על פירוש רש\"י לתורה שכתב המהר\"ל מפראג, בן המאה ה-16.",
+    "order": null
+  },
+  {
+    "title": "הכתב והקבלה",
+    "heDesc": "",
+    "heShortDesc": "פירוש מן המאה ה-19 שחיבר אחד המתנגדים ליהדות הרפורמית, ומטרתו להוכיח את החיבור בין התורה שבכתב לתורה שבעל פה.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "העמק דבר",
+    "heDesc": "",
+    "heShortDesc": "פירוש רב-השפעה של הנצי\"ב מן המאה ה-19, המבוסס על דרשות שבועיות שנשא על פרשת השבוע בישיבת וולוז'ין.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "הרחב דבר",
+    "heDesc": "",
+    "heShortDesc": "הרחבות הנצי\"ב על פירושו 'העמק דבר'.",
+    "order": null
+  },
+  {
+    "title": "אמרי יושר",
+    "heDesc": "",
+    "heShortDesc": "פירוש על חמש מגילות של מחבר הספר 'נתיבות משפט', מן המאה ה-19.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כלי יקר",
+    "heDesc": "",
+    "heShortDesc": "פירוש המבוסס בחלקו על דרשות של המחבר, הרב שלמה אפרים מלונטשיץ, מן המאה ה-17.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "מלבי\"ם באור המילות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מלבי\"ם",
+    "heDesc": "",
+    "heShortDesc": "פירוש מן המאה ה-19 המבוסס על ההשערה שלכל מילה מקראית משמעות ייחודית, ואין חזרות או כפילויות מיותרות.",
+    "order": null
+  },
+  {
+    "title": "משך חכמה",
+    "heDesc": "",
+    "heShortDesc": "פירוש לתורה שכתב הרב מאיר שמחה הכהן מדווינסק, שהתחיל לכותבו כשהיה נער צעיר במאה ה-20.",
+    "order": null
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "מצודת דוד",
+    "heDesc": "",
+    "heShortDesc": "פירוש קלאסי מן המאה ה-18 על נביאים וכתובים, המתבסס בעיקר על פירוש רד\"ק ומבאר את הפסוקים בשפה ברורה ופשוטה.",
+    "order": null
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "מצודת ציון",
+    "heDesc": "",
+    "heShortDesc": "ביאור למילים מקראיות, במקור פורסם עם מצודת דוד כחיבור משולב.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "מזרחי",
+    "heDesc": "",
+    "heShortDesc": "ביאור לפירוש רש\"י על התורה, נכתב במאה ה-16, המשלב הגנה על פירושי רש\"י נגד הרמב\"ן ופרשנים אחרים החולקים על פירושיו.",
+    "order": null
+  },
+  {
+    "title": "נחלת יעקב",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "אור החיים",
+    "heDesc": "",
+    "heShortDesc": "פירוש מיסטי לתורה מן המאה ה-18 שמקורו במרוקו, ונתפס כיצירה מהותית בעיני מייסדי תנועת החסידות באירופה.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "שד\"ל",
+    "heDesc": "",
+    "heShortDesc": "פירוש מן המאה ה-19 שחיבר פעיל מרכזי בתנועת ההשכלה היהודית, המצטט פירושים מסורתיים לצד מקורות נוצריים ואקדמיים.",
+    "order": null
+  },
+  {
+    "title": "שפתי חכמים",
+    "heDesc": "",
+    "heShortDesc": "ביאור לפירוש רש\"י המזהה את הקשיים בטקסט המקראי שבבסיס פירושי רש\"י; נכתב במאה ה-17.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "תורה תמימה",
+    "heDesc": "",
+    "heShortDesc": "אנציקלופדיה מתחילת המאה ה-20 שבה קטעים מספרות חז\"ל הנוגעים לכל פסוק בתורה בליווי הסברים קצרים.",
+    "order": null
+  },
+  {
+    "title": "אחרונים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "אברהם רמר",
+    "heDesc": "",
+    "heShortDesc": "פירוש מן המאה ה-20 לספרי נביאים ראשונים מאת תלמידו של הרב צבי יהודה קוק, בדגש על הרלוונטיות של הטקסט לתקופה המודרנית.",
+    "order": null
+  },
+  {
+    "title": "שיג ושיח; קריאות חדשות בפרשת השבוע",
+    "heDesc": "שיג ושיח הוא אוסף מהמאה ה-21  ובו חמישה כרכים של חיבוריו של הרב יונתן זקס על פרשות השבוע. הספרים משלבים מסורת יהודית עם פילוסופיה וספרות מערבית ובכך מציגים תובנות מתפתחות ומתקדמות של המצב האנושי ואתגרי השעה אל מול דבר ה' הנצחי. זקס חוקר את הצמתים של עבר והווה, רגע ונצח, מתוך התייחסות לנושאים אוניברסליים של חופש, אהבה, אחריות, זהות וגורל.",
+    "heShortDesc": "סדרת המאמרים של הרב זקס על פרשות השבוע המשלבים מסורת יהודית, פילוסופיה מערבית, וספרות",
+    "order": null
+  },
+  {
+    "title": "יונתן זקס",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "פדיון הרלוונטיות",
+    "heDesc": "",
+    "heShortDesc": "אוסף מאמרים מן המאה ה-20 מאת הרב יעקב נטף, המציעים מבט מקורי על סיפורי המקרא.",
+    "order": null
+  },
+  {
+    "title": "תורה",
+    "heDesc": "ביאור שטיינזלץ לתנ\"ך הוא ביאור ותרגום מודרני ראשון מסוגו ופורץ דרך של הרב עדין אבן-ישראל שטיינזלץ. מטרת ביאור שטיינזלץ לתנ\"ך היא להפוך את הכתוב בתנ\"ך לבהיר יותר, מרתק ונגיש לקוראים מכל רקע ולתת לתורה לדבר במילותיה. הפרשנות מבקשת לחבר את הקורא ישירות לפשט, למשמעות הפשוטה של ​​הכתוב, וכוללת הפניות לפירושים ומקורות רבים, למחשבת ישראל ולמקורות נוספים.\n",
+    "heShortDesc": "פרשנות ותרגום לכל אחד מספרי התורה.",
+    "order": 10
+  },
+  {
+    "title": "נביאים",
+    "heDesc": "ביאור שטיינזלץ לתנ\"ך הוא ביאור ותרגום מודרני ראשון מסוגו ופורץ דרך של הרב עדין אבן-ישראל שטיינזלץ. מטרת ביאור שטיינזלץ לתנ\"ך היא להפוך את הכתוב בתנ\"ך לבהיר יותר, מרתק ונגיש לקוראים מכל רקע ולתת לתורה לדבר במילותיה. הפרשנות מבקשת לחבר את הקורא ישירות לפשט, למשמעות הפשוטה של ​​הכתוב, וכוללת הפניות לפירושים ומקורות רבים, למחשבת ישראל ולמקורות נוספים.\n",
+    "heShortDesc": "פרשנות ותרגום לכל אחד מספרי הנביאים וכתובים.",
+    "order": 15
+  },
+  {
+    "title": "כתובים",
+    "heDesc": "ביאור שטיינזלץ לתנ\"ך הוא ביאור ותרגום מודרני ראשון מסוגו ופורץ דרך של הרב עדין אבן-ישראל שטיינזלץ. מטרת ביאור שטיינזלץ לתנ\"ך היא להפוך את הכתוב בתנ\"ך לבהיר יותר, מרתק ונגיש לקוראים מכל רקע ולתת לתורה לדבר במילותיה. הפרשנות מבקשת לחבר את הקורא ישירות לפשט, למשמעות הפשוטה של ​​הכתוב, וכוללת הפניות לפירושים ומקורות רבים, למחשבת ישראל ולמקורות נוספים.\n",
+    "heShortDesc": "פרשנות ותרגום לכל אחד מספרי הנביאים וכתובים.",
+    "order": 20
+  },
+  {
+    "title": "ביאור שטיינזלץ",
+    "heDesc": "ביאור שטיינזלץ לתנ\"ך הוא ביאור ותרגום מודרני ראשון מסוגו ופורץ דרך של הרב עדין אבן-ישראל שטיינזלץ. מטרת ביאור שטיינזלץ לתנ\"ך היא להפוך את הכתוב בתנ\"ך לבהיר יותר, מרתק ונגיש לקוראים מכל רקע ולתת לתורה לדבר במילותיה. הפרשנות מבקשת לחבר את הקורא ישירות לפשט, למשמעות הפשוטה של ​​הכתוב, וכוללת הפניות לפירושים ומקורות רבים, למחשבת ישראל ולמקורות נוספים.",
+    "heShortDesc": "פרשנות ותרגום לכל אחד מספרי התנ\"ך.",
+    "order": null
+  },
+  {
+    "title": "מחברי זמננו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "תנ\"ך",
+    "heDesc": "התנ\"ך (תורה, נביאים, כתובים) הוא טקסט היסוד של היהדות. ב-24 ספריו נכללים סיפורים, חוקים, שירה וכן תובנות ולקחים הקשורים לאלוהים, לעם ישראל ולאנושות.",
+    "heShortDesc": "תורה, נביאים וכתובים - שלושת החלקים המרכיבים את התורה שבכתב, טקסט היסוד של היהדות.",
+    "order": 5
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "חגים",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "דיני משפחה",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "קורבנות",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "רש\"י",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ברטנורא",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "רבינו יונה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "רמב\"ם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ר\"ש משאנץ",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ראשונים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "יכין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "בועז",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "גר\"א",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "הגהות יעב\"ץ",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "הון עשיר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "עיקר תוספות יום טוב",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "לחם שמים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "מראית העין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "מלאכת שלמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "פתח עינים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "רש״ש",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "תוספות רבי עקיבא איגר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "תוספות יום טוב",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "יש סדר למשנה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "אחרונים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ביאור אנגלי על המשנה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "פירוש גרמני",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "משנת ארץ ישראל",
+    "heDesc": "",
+    "heShortDesc": "פרשנות מודרנית למשנה המשלב מתודה מחקרית וגישה מסורתית בדגש על הרקע הארץ ישראלי של המשנה.",
+    "order": null
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "שערי תורת בבל",
+    "heDesc": "״שערי תורת בבל״ הוא פירוש לתלמוד הבבלי, שנכתב בתחילת המאה ה-20 על ידי הרב זאב וולף רבינוביץ, המכיל גם חיבור ארוך על חכמי התלמוד ומאמר קצר יותר על התלמוד עצמו. בחיבור זה משולבות תובנות מיצירות עכשוויות על מדע ורפואה כאשר נושאים אלה עולים בדיון התלמודי. הפירוש הוא גם על חלקי האגדה שבתלמוד, וכולל בתוכו היבטים פילוסופיים, אתיים ורגשיים של המחבר. \"שערי תורת בבל\" יצא לאור על ידי בנו של המחבר, יצחק רבינוביץ, בעריכת הרב פרופסור עזרא ציון מלמד.\n\n",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מחברי זמננו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "משנה",
+    "heDesc": "המשנה היא החיבור התשתית הקדום של חז״ל, והיא כוללת הוראות והדרכות שנמסרו במשך מאות שנים וקובצו יחד בסביבות שנת 200 לספירה. במשנה הלכות הקשורות בחקלאות, בפולחן, בחוקים אזרחיים, בפשיעה, בבית המקדש. היא מציגה מגוון של דעות הלכתיות, ובהלכותיה משולבים סיפורים ואגדות. המשנה היא תשתית התורה שבעל פה, ובתלמוד מובאים פירושים והרחבות לנאמר בה.",
+    "heShortDesc": "חיבור התשתית הקדום של חז״ל, המתעד מגוון דעות הלכתיות ממסורת התורה שבעל פה. נחתם בשנת 200 לספירה לערך.",
+    "order": 10
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "חגים",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "דיני משפחה",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "קורבנות",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "מסכתות קטנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספרות עזר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "רש\"י",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "רמב\"ן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "תוספות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "בעל המאור",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "חידושי אנשי שם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "העתקת פירוש הרי\"ף",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הגהות חוות יאיר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הגהות הב\"ח",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הגהות מאלפס ישן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "השגות הראב\"ד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "כתוב שם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מלחמת השם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "נימוקי יוסף",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ר\"ן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר הזכות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "שלטי הגיבורים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "רי\"ף",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "פירוש הרא\"ש",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "כתב יד רש\"י",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "מאירי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מרדכי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "פסקי תוספות",
+    "heDesc": "",
+    "heShortDesc": "חיבור מימי הביניים המתמצת את פסקי ההלכה של בעלי התוספות בפירושם על התלמוד ומצוטט רבות בקרב פוסקי ההלכה.",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "רבינו חננאל",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "רבינו גרשום",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ר\"ן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "רשב\"א",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "רשב\"ם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "רב ניסים גאון",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ר\"י מיגאש",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ריטב\"א",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "דברי חמודות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "קרבן נתנאל",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "מעדני יום טוב",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "פילפולא חריפתא",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "תפארת שמואל",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "רא\"ש",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "תוספות הרא\"ש",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "תוספות ר\"י הזקן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "תוספות רי\"ד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "תוספות שאנץ",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "תוספות ישנים ",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "יד רמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ראשונים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "בן יהוידע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "בניהו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "חידושי רבי עקיבא איגר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "חידושי אגדות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "חידושי חתם סופר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "חידושי הלכות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "חכמת שלמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "גליון הש\"ס",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "הגהות יעב\"ץ",
+    "heDesc": "בנוסף ליצירות הרבות שחיבר רבי יעקב עמדין (יַעְבֵ\"ץ) בצורה פורמלית, היה נוהג במהלך לימודו את התלמוד הבבלי למלא את שולי הדף בהערות. בכמה מקומות, ציין עמדין כי בכוונתו לפרסם רשומות אלו, אך לא הספיק לעשות זאת בחייו. הערות אלו נדפסו לראשונה בסוף המאה ה-19 בדפוס ווילנא כ\"הגדות יעקב\" או \"הערות יעקב בן צבי\".",
+    "heShortDesc": "הערות מהמאה ה-18 של רבי יעקב עמדין (יַעְבֵ\"ץ) על התלמוד הבבלי",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "מהר\"ם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "מהר\"ם שיף",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "מראית העין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "פני יהושע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "פתח עינים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "רש״ש",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "מסכתות קטנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "שערי תורת בבל",
+    "heDesc": "״שערי תורת בבל״ הוא פירוש לתלמוד הבבלי, שנכתב בתחילת המאה ה-20 על ידי הרב זאב וולף רבינוביץ, המכיל גם חיבור ארוך על חכמי התלמוד ומאמר קצר יותר על התלמוד עצמו. בחיבור זה משולבות תובנות מיצירות עכשוויות על מדע ורפואה כאשר נושאים אלה עולים בדיון התלמודי. הפירוש הוא גם על חלקי האגדה שבתלמוד, וכולל בתוכו היבטים פילוסופיים, אתיים ורגשיים של המחבר. \"שערי תורת בבל\" יצא לאור על ידי בנו של המחבר, יצחק רבינוביץ, בעריכת הרב פרופסור עזרא ציון מלמד.\n\n",
+    "heShortDesc": "פירוש מהמאה ה-20 לתלמוד הבבלי, כולל הערות על חכמי התלמוד, מאת הרב זאב וולף רבינוביץ",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "שיטה מקובצת",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "אחרונים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "דף שבועי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "רשימות שיעורים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ביאור שטיינזלץ",
+    "heDesc": "מהדורת שטיינזלץ של התלמוד היא ביאור ופירוש מודרני של הרב עדין אבן-ישראל שטיינזלץ לתלמוד המשלב תרגום של הארמית התלמודית לעברית מודרנית ופירוש בהיר של משמעות הכתוב בו. מטרת חיבור זה היא להנגיש את התלמוד לכלל הלומדים, תוך שילוב יישומים מעשיים ורלוונטיים של הטקסט התלמודי, דברי הסבר לרש\"י ולפרשנים אחרים, ומתן רקע מדעי, היסטורי ומחשב",
+    "heShortDesc": "תרגום ופרשנות משולבת של התלמוד לעברית בת זמננו",
+    "order": null
+  },
+  {
+    "title": "מחברי זמננו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "בנין יהושע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "פי׳ החיד״א",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "נוסחת הגר״א",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הגהות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הגהות הגרי״ב",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הגהות יעב\"ץ",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הגהות ומראה מקומות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "כסא רחמים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "לב חכמים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מסורת הש״ס",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מצפה איתן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "נחלת יעקב",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "נוסחא חדשה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "נוסחאות כ״י",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ראשון לציון",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "תומת ישרים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מפרשים על המסכתות הקטנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "בבלי",
+    "heDesc": "התלמוד הבבלי הוא טקסט מרכזי ביהדות הרבנית. המילה 'בבל' המופיעה בכותרת מתייחסת למיקום הגיאוגרפי בו גובש הטקסט, ולא ליחידה הפוליטית של האימפריה הבבלית. התלמוד כולל שני מרכיבים: המשנה (אשר נחתמה סביב השנה 200 לספירה) והגמרא (אשר נחתמה סביב השנה 500 לספירה). הגמרא היא דיון על המשנה, ובנויה לפי הסדרים והמסכתות אליו היא מחולקת. התלמוד כולו מכיל 63 מסכתות, המחולקות לפרקים ולדפים. כל דף הוא דו-צדדי והמספור מתחיל בדף ב, עמוד א. התלמוד כתוב בעברית תנאית ובארמית, וכולל את המימרות וההוראות של החכמים על מגוון נושאים: על הלכה, מוסר, פילוסופיה, מנהגים, היסטוריה, פולקלור ונושאים רבים אחרים. התלמוד הוא הבסיס לכל קבצי ההלכה היהודיים, ומצוטט באופן נרחב בספרות הרבנית. הוא מכונה גם 'הש\"ס', ראשי תיבות של \"ששה סדרים,\" ששת הסדרים אליו מחולקים המשנה והגמרא.",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "חגים",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "דיני משפחה",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "אור לישרים על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ביאור שטיינזלץ",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מחברי זמננו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "עמודי ירושלים על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ביאור הגר\"א על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "חידושי רידב\"ז על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "חידושי חתם סופר על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "חידושי מהר\"א גריידץ על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "הגהות רד\"א על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "הגהות מהר\"ם די לונזאנו על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "הגהות יפ\"מ על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ככר לאדן על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "קרבן העדה על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "מראה הפנים על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "נועם ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "פני משה על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "שערי תורת ארץ ישראל",
+    "heDesc": "״שערי תורת ארץ ישראל״ הוא פירוש לתלמוד הירושלמי שנכתב בתחילת המאה ה-20 על ידי הרב זאב וולף רבינוביץ. המחבר כותב בהקדמתו כי למד את התלמוד הירושלמי מנעוריו ומצא כי הפירושים הקיימים אינם מספקים, בין השאר משום שמחבריהם הושפעו מגישות של התלמוד הבבלי הנלמד יותר. היצירה יצאה לאור לאחר מותו על ידי בנו של המחבר, יצחק רבינוביץ, שהקדיש אותה לזכר אמו.",
+    "heShortDesc": "פירוש מהמאה ה-20 לתלמוד הירושלמי שנכתב על ידי הרב זאב וולף רבינוביץ",
+    "order": null
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "שיירי קרבן על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "תוספות הרי\"ד על תלמוד ירושלמי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "ירושלמי",
+    "heDesc": "התלמוד הירושלמי (מאה 5-4 לספירה) היא אוסף הערות רבניות על המשנה (מאה 2 לספירה). הוא ידוע גם כתלמוד הפלסטיני או כ'תלמודא דארץ ישראל' (התלמוד של ארץ ישראל). שמות אלו נחשבים יותר מדויקים על ידי חוקרים מסוימים, היות והחיבור נכתב ככל הנראה נכתב, ולא בירושלים. לשון התלמוד הירושלמי הוא ניב ארמי מערבי. הטקסט של הירושלמי מקוטע וקשה לקריאה במקרים רבים, בשל העריכה החפוזה לה זכה בעקבות רדיפות יהודי ארץ ישראל בתקופה זו. התלמוד הירושלמי מסודר בשני אופנים שונים: מספור דפים, המחל בדף 2 עמוד א (בדומה לתלמוד הבבלי), או מספור לפי פרקים והלכות, לפי סדר המשנה.",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "תלמוד",
+    "heDesc": "התלמוד הוא תיעוד טקסטואלי של דיוני חז\"ל בנושאי הלכה, פילוסופיה ופרשנות תנ\"ך שהתנהלו במשך דורות. התלמוד התפתח בין המאה השלישית למאה השמינית לספירה, והוא בנוי כפירוש למשנה ששזורים בו סיפורי אגדה, דברי חוכמה ועצות מעשיות לחיים. לתלמוד שתי גרסאות: התלמוד הבבלי, שנערך בבבל, והוא הגרסה הנלמדת יותר, והתלמוד הירושלמי, שנערך בארץ ישראל.",
+    "heShortDesc": "דיוני חז״ל בנושאי הלכה, מוסר ותנ\"ך שהתקיימו במשך דורות. בנויים כהרחבות על המשנה ושזורים בהם סיפורי אגדה.",
+    "order": 15
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "הלכה",
+    "heDesc": "",
+    "heShortDesc": "פירושים שמתמקדים בבירור ההלכה מתוך פסוקי התורה.",
+    "order": 5
+  },
+  {
+    "title": "רש\"י",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "חידושי הרד״ל",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "עץ יוסף",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מהרז\"ו הקצר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מתנות כהונה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "משנת דרבי אליעזר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "פירוש מהרז״ו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ידי משה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "יפה ענף",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "יפה קול",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "יפה תואר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "מדרש רבה",
+    "heDesc": "",
+    "heShortDesc": "אוסף מדרשים על חמישה חומשי תורה וחמש מגילות שנאספו ממקורות שונים במהלך כ-800 שנים.",
+    "order": 5
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "מדרש לקח טוב",
+    "heDesc": "",
+    "heShortDesc": "מדרש מימי הביניים על התורה וחמש מגילות, המשלב פירושי מילים ואגדות.",
+    "order": null
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "סדר עולם רבה",
+    "heDesc": "\"סדר עולם רבה\" הוא כרוניקה עברית מהמאה ה-2 לספירה, המפרט את התאריכים בהם אירעו מאורעות מקראיים שונים, החל בבריאת העולם וכלה בכיבוש פרס על ידי אלכסנדר מוקדון. במקור היה \"סדר עולם\" חיבור מקיף הרבה יותר, אשר עסק בתקופה הבתר-אלכסנדרונית, אך במתכונתו הנוכחית מקובצת התקופה מימי אלכסנדר ועד ימי אדריאנוס בסוף הפרק ה- 30 (והאחרון) של החיבור. הטקסט של \"סדר עולם\" אינו מוסיף סיפורים מעבר למה שמופיע בטקסט המקראי, ומתייחס לשאלות כגון גילו של יצחק בזמן העקידה ומספר השנים בהם הנהיג יהושע את עם ישראל. בצורתו הנוכחית כולל \"סדר עולם רבה\" שלושים פרקים, כאשר כל עשרה פרקים יוצרים \"חלק\" או \"שער\" נפרד. המסורת מתארכת את החיבור לשנת 160 לספירה לערך, וגורסת שחובר בידי ר' יוסי בן חלפתא, טענה שאיננה בלתי-סבירה, אך ככל הנראה נוספו לגרסה המקורית קטעים נוספים והוא הוהדר בתקופה מאוחרת יותר.",
+    "heShortDesc": "רשימה כרונולוגית מן המאה השנייה הסוקרת ומפרשת אירועים מבריאת העולם ועד אלכסנדר הגדול.",
+    "order": null
+  },
+  {
+    "title": "אגדה",
+    "heDesc": "מדרשי אגדה הינם סיפורים ופירושים שאינם הלכתיים שנכתבו כהרחבה לטקסט המקראי. ישנם מדרשים שמציעים פירוש לטקסט, ואילו אחרים משתמשים בפסוקים כבסיס לאמרות מוסר ודרשות תיאולוגיות.",
+    "heShortDesc": "סיפורים ופירושים שאינם הלכתיים שנכתבו כהרחבה לטקסט המקראי.",
+    "order": null
+  },
+  {
+    "title": "טקסטים מודרניים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מדרש",
+    "heDesc": "המדרש הוא סוגה ספרותית של פרשנות ועיבוד לטקסטים תנ\"כיים. מרבית קובצי המדרשים התגבשו מהמאה החמישית לספירה ובמהלך ימי הביניים. ספרי המדרש מאופיינים בשיטות פרשנות דומות, כגון השלמת חלקים חסרים בעלילה התנ\"כית. בתלמוד אפשר למצוא קטעים מן המדרש בשכיחות גבוהה.",
+    "heShortDesc": "פרשנויות והרחבות למקורות תנ\"כיים הכוללות סיפורים, משלים ודיונים הלכתיים.",
+    "order": 20
+  },
+  {
+    "title": "הקדמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 75
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "חידושים ומקורים מהר\"ץ חיות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "חידושים ומקורים מבעל מנחת חינוך",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הקדמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "חידושים והגהות הגרי\"ב",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "חידושים ומקורים מהרב זלמן מווילנא",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הקדמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "עבודת המלך",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "בן אריה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "בני אהובה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "בני בנימין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "בינה לעתים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ברכת אברהם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "חמדת ישראל",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "חשק שלמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "חידושי רבי עקיבא איגר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "חידושי מים חיים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "חידושים מהגאון בעל מחנה אפרים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "פירוש",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "באורי מהר\"י קורקוס והרדב\"ז",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "דברי שאול - עדות ביוסף",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "דברי ירמיהו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הקדמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "אבן האזל",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "הגהות כבוד מלכים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "הר המוריה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "השגות הראב\"ד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "כסף משנה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "קרית ספר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "קובץ על היד החזקה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "לחם משנה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "לחם שמים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "לב שלם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "מעשי למלך",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "מעשה רקח",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "מגיד משנה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "הגהות מהר\"ם פדווא",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הקדמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 75
+  },
+  {
+    "title": "מקורי הרמב\"ם לרש\"ש",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "מלאכת שלמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "מגדל עוז",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "משנה למלך",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "נחל איתן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הקדמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 75
+  },
+  {
+    "title": "אור שמח",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "פרי חדש",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ראשון לציון",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר משנה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר המנוחה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "שער המלך",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "שורשי הים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 75
+  },
+  {
+    "title": "ביאור שטיינזלץ",
+    "heDesc": "ביאור שטיינזלץ על משנה-תורה לרמב\"ם הוא פירושו המודרני של הרב עדין אבן-ישראל שטיינזלץ לחיבורו ההלכתי של הרמב\"ם מהמאה ה-12, מהיצירות המקיפות והמשפיעות ביותר של ההלכה היהודית. הפרשנות של שטיינזלץ כוללת הסברים ברורים של הכתוב שמטרתם להנגיש את חיבור חשוב זה לכל הלומדים. הביאור כולל גם הקדמות לכל פרק ומצווה, סיכומים של פסקי הלכה מאוחרים יותר עם מראה מקומות, והסברים על עקרונות ומונחי רקע.",
+    "heShortDesc": "פירוש וביאור על חיבורו ההלכתי המקיף של הרמב\"ם מהמאה ה-12, הכולל מבואות, רקע ולימוד הלכתי ומעשי עכשווי.",
+    "order": null
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "קונטרס תשובה מיראה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הקדמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "צפנת פענח",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הקדמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 75
+  },
+  {
+    "title": "ציוני מהר\"ן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "יד דוד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "יד איתן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "יקר תפארת",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "יכהן פאר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספר מדע",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "ספר אהבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "ספר זמנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "ספר קדושה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 25
+  },
+  {
+    "title": "ספר הפלאה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "ספר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 35
+  },
+  {
+    "title": "ספר עבודה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 40
+  },
+  {
+    "title": "ספר קורבנות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 45
+  },
+  {
+    "title": "ספר טהרה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 50
+  },
+  {
+    "title": "ספר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 55
+  },
+  {
+    "title": "ספר קניין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 60
+  },
+  {
+    "title": "ספר משפטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 65
+  },
+  {
+    "title": "ספר שופטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "יצחק ירנן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "משנה תורה",
+    "heDesc": "המשנה תורה, המכונה גם 'היד החזקה', הוא חיבור הלכתי מונומנטלי, ואחת היצירות המסודרות, המקיפות, והמשפיעות בתחום ההלכה בעולם היהודי. החיבור, שכתיבתו ארכה כעשר שנים, מסווג באופן שיטתי ומסביר בצורה ברורה את כל היבטי הקיום היהודי, ובכללם אלה הרלוונטיים לתקופת בית המקדש.",
+    "heShortDesc": "חיבור הלכתי פורץ-דרך וחדשני מבחינת היקפו ואופן סידור הדינים שבו. נכתב על ידי הרמב\"ם במאה ה-12.",
+    "order": 5
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "טור",
+    "heDesc": "",
+    "heShortDesc": "חיבור הלכתי מקיף מהמאה ה-14 שחובר על ידי יעקב בן אשר, עליו מבוסס השולחן ערוך.",
+    "order": 10
+  },
+  {
+    "title": "עטרת זקנים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "באר היטב",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "באר הגולה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "בית שמואל",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ביאור הגר\"א",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "חתם סופר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "חלקת מחוקק",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "חדושי הלכות נדה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "חק יעקב",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "חכמת שלמה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "דגול מרבבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "אליה רבה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "אשל אברהם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הגהות אמרי ברוך",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "כף החיים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "כרתי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "קצות החושן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "לבושי שרד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מחצית השקל",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מגן אברהם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מאירת עיניים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "משנה ברורה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "נקודות הכסף",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "נתיבות המשפט, ביאורים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "נתיבות המשפט, חידושים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "פלתי",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "פתחי תשובה ",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "פרי מגדים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "הגהות רבי עקיבא איגר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "שערי תשובה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "שפתי כהן",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "תפארת ישראל",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "תורת השלמים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "טורי זהב",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "אורים ותומים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "יד אפרים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "שולחן ערוך",
+    "heDesc": "השולחן ערוך הוא ספר ההלכה המקובל והמרכזי ביותר בעולם היהודי. הוא חובר במאה ה-16 על ידי הרב יוסף קארו, ונערך כגרסה מתומצתת ופשוטה יותר של פירושו ה'בית יוסף' על ה'טור'. פסקי ההלכה של הרב יוסף קארו משקפים לרוב את המסורת הספרדית, והערותיו של הרב משה איסרליש (הרמ\"א) על ה'שולחן ערוך' משלימים את המסורת ההלכתית האשכנזית.",
+    "heShortDesc": "ספר ההלכה המקובל והמרכזי ביותר בעולם היהודי. נכתב במאה ה-16.",
+    "order": 15
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "ספר המצוות",
+    "heDesc": "",
+    "heShortDesc": "חיבור שנכתב על ידי הרמב\"ם במאה ה-12, בו הוא מונה ומפרט את תרי״ג מצוות התורה. נכתב במקור בערבית.",
+    "order": null
+  },
+  {
+    "title": "ספרי מצוות",
+    "heDesc": "ספרי מצוות הינם כתבים המציעים אופנים שונים למניין מצוות התורה, לאור המסורת התלמודית שישנם 613 (תרי\"ג) מצוות שנאמרו למשה בסיני – 365 מצוות לא תעשה, ו248 מצוות עשה.",
+    "heShortDesc": "כתבים המציעים אופנים שונים למניין מצוות התורה, לאור המסורת התלמודית שישנם 613 (תרי\"ג) מצוות שנאמרו למשה בסיני – 365 מצוות לא תעשה, ו248 מצוות עשה.",
+    "order": 55
+  },
+  {
+    "title": "ראשונים",
+    "heDesc": "ראשונים' הוא כינוי לרבנים ופוסקי הלכה שפעלו בין המאה ה-11 עד ה-15 לערך, לפני חיבורו של השולחן ערוך.",
+    "heShortDesc": "רבנים ופוסקי הלכה שפעלו בין המאה ה-11 עד ה-15 לערך, לפני חיבורו של השולחן ערוך.",
+    "order": 60
+  },
+  {
+    "title": "עבודת הקודש - חיד“א",
+    "heDesc": "",
+    "heShortDesc": "סדרה של שבעה חיבורים קצרים מן המאה ה-18, העוסקים בהלכה, במנהג ובמוסר.",
+    "order": null
+  },
+  {
+    "title": "אחרונים",
+    "heDesc": "אחרונים' הוא כינוי לרבנים ופוסקי הלכה שפעלו בין המאה ה-16 למאה ה-20, בתקופה שלאחר חתימת השולחן ערוך.",
+    "heShortDesc": "כינוי לרבנים ופוסקי הלכה שפעלו בין המאה ה-16 למאה ה-20, בתקופה שלאחר חתימת השולחן ערוך.",
+    "order": 65
+  },
+  {
+    "title": "בעיות הלכתיות עכשוויות",
+    "heDesc": "",
+    "heShortDesc": "סדרה של ספרים באנגלית העוסקים בהנמקה הלכתית של סוגיות מודרניות במאות ה20–21.",
+    "order": null
+  },
+  {
+    "title": "גריי מאטר",
+    "heDesc": "",
+    "heShortDesc": "סדרה של ספרים באנגלית מהמאה ה-21 המאגדים מאמרים על שאלות הלכתיות בעולם המודרני.",
+    "order": null
+  },
+  {
+    "title": "פניני הלכה",
+    "heDesc": "",
+    "heShortDesc": "סדרת ספרים מן המאה ה-21 שמנגישה את ההלכה באופן מעשי ומקיף.",
+    "order": null
+  },
+  {
+    "title": "סמכות רבנית",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מחברי זמננו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 70
+  },
+  {
+    "title": "שולחן ערוך הרב",
+    "heDesc": "ספר הלכה מן המאה ה-18 שחובר על ידי רבי שניאור זלמן מלאדי, מייסד חב\"ד, ומשמש כבסיס לקיום ההלכה עבור חסידי חב\"ד.",
+    "heShortDesc": "ספר הלכה מן המאה ה-18 שחובר על ידי רבי שניאור זלמן מלאדי, מייסד חב\"ד, ומשמש כבסיס לקיום ההלכה עבור חסידי חב\"ד.",
+    "order": null
+  },
+  {
+    "title": "חיי אדם",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "באר מים חיים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "בדק הבית",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ביאור על ספר המצוות לרס\"ג",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "משמרת הבית",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "הלכה",
+    "heDesc": "הלכה היא ספרות משפטית המדריכה את האדם בכל תחומי חייו. שורשיה בתורה, במדרש ובתלמוד, והיא מתפתחת בהתאם למציאות החיים המשתנה. ספרות ההלכה כוללת מקורות ממגוון סוגים: חיבורים המקיפים את כלל מערכת החוק היהודית, עיונים לפי נושא, ספרים לשימוש יום-יומי ויצירות פרשניות לצורכי לימוד אנליטי וביקורתי.",
+    "heShortDesc": "ספרות משפטית המדריכה את האדם בכל תחומי החיים. שורשיה במקורות העבר, והיא מתפתחת בהתאם למציאות החיים המשתנה.",
+    "order": 25
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "ספר יצירה",
+    "heDesc": "רבי משה קורדוברו, הידוע בכינוי רמ\"ק, היה מקובל חשוב בצפת במאה ה-16. כתיבתו משקפת שיטתיות ויסודיות מחשבתית, אך גם נשענת על ציטוטים נרחבים ממקורות קודמים. לגישתו לקבלה השפעה נרחבת גם אחרי הסמכות האולטימטיבית שזכתה לה תורתו של תלמידו הרב יצחק לוריא (האריז\"ל).",
+    "heShortDesc": "החיבור המיסטי היהודי הקדום ביותר, המתאר כיצד האל ברא את העולם בשימוש באותיות האלפבית ובמספרים.",
+    "order": 5
+  },
+  {
+    "title": "זהר",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "רמ\"ק",
+    "heDesc": "",
+    "heShortDesc": "כתבי רבי משה קורדוברו, מקובל מצפת במאה ה-16 ורבו של האריז\"ל.",
+    "order": 25
+  },
+  {
+    "title": "רמח\"ל",
+    "heDesc": "",
+    "heShortDesc": "כתבי רבי משה חיים לוצאטו, הידוע בכינוי רמח\"ל, שהיה רב מקובל והוגה חשוב באיטליה במאה ה-18.",
+    "order": 30
+  },
+  {
+    "title": "כתבי האר\"י וחיים ויטאל",
+    "heDesc": "",
+    "heShortDesc": "תורתו של מייסד הקבלה המודרנית רבי יצחק לוריא (הידוע בכינוי אריז\"ל), כפי שתיעדו אותה במאה ה-16 תלמידיו, ובראשם רבי חיים ויטאל.",
+    "order": 35
+  },
+  {
+    "title": "בעל הסולם",
+    "heDesc": "הרב יהודה לייב הלוי אשלג, המכונה גם על שם ספרו \"בעל הסולם\", היה רב ומקובל שעסק בעיקר בהפצת תורת הסוד היהודית והנגשתה לציבור הרחב. הרב אשלג נולד בלוקוב (אז ברחבי רוסיה הקיסרית) ולמד בישיבת חסידות גור שבוורשה. בד בבד עם לימודו בישיבה, למד אשלג קבלה ממורה אלמוני אותו מכנה בכתביו \"מורי הקדוש זצ\"ל\". לאחר פטירת מורו ב-1921, עלה אשלג לארץ ישראל והתיישב בעיר העתיקה בירושלים, שם לימד בישיבת חיי עולם. בתחילת שהותו בארץ, התפרנס מייצור סבון ועיבוד עורות לסת\"ם, עד מינויו לרבה של גבעת שאול על ידי הרב קוק. עיקר הגותו של אשלג סובבת סביב הרעיון של המעבר מאגואיזם לאלטרואיזם. דהיינו, מטרת האדם בחייו היא לעבור מ\"הרצון לקבל\" ל\"הרצון לתת\"",
+    "heShortDesc": "חיבורים שנכתבו במאה ה-20 על ידי רב יהודה הלוי אשלג.",
+    "order": 40
+  },
+  {
+    "title": "ספרי קבלה נוספים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "קבלה",
+    "heDesc": "קבלה היא סוגת הספרות העיקרית במיסטיקה היהודית. ספרות הקבלה כוללת שלל יצירות מימי קדם ועד ימינו העוסקות במהות האלוהים, בקשר בין אין-סופיות אלוהים ובין העולם הגשמי ובמשמעות הפנימית של התורה. אבן היסוד של הקבלה היא \"עשר הספירות\", שהן עשר תכונות הנובעות מאלוהים שבאמצעותן אלוהים ברא את העולם ופועל בו, ובני האדם יכולים להשפיע על פעולות אלוהים על ידי השפעה על הספירות.",
+    "heShortDesc": "ספרות מיסטית העוסקת בתכונות של האלוהות ובקשר בין אין-סופיותו של אלוהים ובין העולם הגשמי.",
+    "order": 30
+  },
+  {
+    "title": "סידור",
+    "heDesc": "",
+    "heShortDesc": "ספר תפילות, שהוותיקות שבהן מקורן בתנ״ך. מבנה התפילה התפתח בתקופת המשנה והתלמוד, ותפילות נוספות המשיכו להיכתב בימי הביניים ובעת החדשה.",
+    "order": 5
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "הגדה",
+    "heDesc": "",
+    "heShortDesc": "קובץ מדרשים, מזמורי תהילים, ברכות, תפילות ופיוטים שקובץ לשם אמירתו בליל הסדר סביב שולחן החג, ובמרכזו זיכרון סיפור יציאת מצרים.",
+    "order": 10
+  },
+  {
+    "title": "ימים נוראים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "פיוטים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "חיבורים נוספים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר התפילה",
+    "heDesc": "ספרות התפילה כוללת טקסטים ריטואליים בכל מיני נוסחים ומשקפת מגוון רחב של מנהגים. ספרות התפילה היהודית הקדומה ביותר מקורה בתנ\"ך. את המבנה הבסיסי של התפילה פיתחו חכמים בתקופות המשנה והתלמוד, וכן נוספו תפילות ופיוטים לאורך הדורות, מימי הביניים ועד ימינו.",
+    "heShortDesc": "קובצי מזמורים, פיוטים וטקסטים ריטואליים, כדוגמת הסידור וההגדה, הנאמרים יום־יום או באירועים מיוחדים.",
+    "order": 35
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "חובות הלבבות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ראשונים",
+    "heDesc": "",
+    "heShortDesc": "רבנים והוגים שפעלו במאה ה-11 ועד המאה ה-15.",
+    "order": 5
+  },
+  {
+    "title": "מהר\"ל מפראג",
+    "heDesc": "רבי יהודה ליווא, הידוע בכינויו המהר\"ל מפראג, היה מיסטיקן, פילוסוף, מפרש התלמוד ודמות רבנית מרכזית במוראביה ובפראג. כתיבתו הפילוסופית הייתה לאבן יסוד בהגות היהודית ויש לה השפעה ניכרת על המחשבה החסידית וגם על הוגים מודרניים דוגמת הרב אליהו דסלר והרב קוק. המהר\"ל נודע גם בזכות ספרו הראשון, גור אריה, המבאר את פירושו של רש\"י לתורה, וגם בעקבות האגדה על יצירתו של הגולם מפראג.",
+    "heShortDesc": "חיבורים פרי עטו של רבי יהודה ליווא, בן המאה ה-16, העוסקים במיסטיקה, בפילוסופיה ובפרשנות לתלמוד.",
+    "order": null
+  },
+  {
+    "title": "אחרונים",
+    "heDesc": "",
+    "heShortDesc": "רבנים והוגים מובילים שפעלו במאה במאה ה-16 ועד המאה ה-20.",
+    "order": 10
+  },
+  {
+    "title": "אליעזר ברקוביץ",
+    "heDesc": "",
+    "heShortDesc": "חיבורים בעלי אופי תאולוגי ופילוסופי שכתב באנגלית רב שחי ופעל בגרמניה, באנגלייה, באוסטרליה ובארצות הברית.",
+    "order": null
+  },
+  {
+    "title": "כתבי הרב עמיאל",
+    "heDesc": "",
+    "heShortDesc": "ספרים העוסקים במתודולוגיה הלכתית ובאידאולוגיה של הציונות הדתית בתקופה שלפני קום המדינה, פרי עטו של הרב משה אביגדור עמיאל, ששימש רב באנטוורפן ובתל אביב במאה ה-20.",
+    "order": null
+  },
+  {
+    "title": "כתבי הרב קוק",
+    "heDesc": "הרב אברהם יצחק הכהן קוק, המוכר בכינויו הראי\"ה ובפי תלמידיו בכינוי 'הרב', היה הרב האשכנזי הראשון טרם הקמת המדינה ושימש דמות מרכזית בהתפתחותה הרעיונית של הציונות הדתית. הרב קוק היה פרשן תלמודי, מיסטיקן, פילוסוף ומשורר. רוב יצירותיו נכתבו כרשימות, ותלמידיו ליקטו אותן והוציאו אותן לאור.",
+    "heShortDesc": "ספריו של הרב אברהם יצחק הכהן קוק, הרב הראשי האשכנזי הראשון בימי טרום הקמת המדינה, שדמותו משמשת עמוד תווך בציונות הדתית.",
+    "order": null
+  },
+  {
+    "title": "מחברי זמננו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מורה נבוכים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מחשבת ישראל",
+    "heDesc": "ספרות ההגות היהודית כוללת יצירות פילוסופיות ותאולוגיות מימי הביניים ועד ימינו. היא בוחנת לעומק סוגיות כגון בחירה חופשית, ניסים, אמונה וסיבתיות והיותו של עם ישראל העם הנבחר.",
+    "heShortDesc": "פילוסופיה ותאולוגיה מימי הביניים ועד ימינו, המעמיקה בסוגיות כגון בחירה חופשית והיותו של עם ישראל העם הנבחר.",
+    "order": 40
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "חגים",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "דיני משפחה",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "פירוש קצר",
+    "heDesc": "פירוש קצר שכתב פרופסור שאול ליברמן במאה ה-20.",
+    "heShortDesc": "פירוש קצר שנדפס מתחת לדברי התוספתא.",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "מסורת התוספתא",
+    "heDesc": "מסורת התוספתא הוא איסוף של הערות המובאות בתוך מהדורת ליברמן לתוספתא. הוא כולל הפניות למקורות מקבילות בספרות חז״ל וציטוטים של פסוקי תנ״ך המובאים בתוך הטקסט של התוספתא.",
+    "heShortDesc": "הפניות למקורות מקבילות בספרות חז״ל וציטוטים של פסוקי תנ״ך המובאים בתוך התוספתא.",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "תוספתא כפשוטה",
+    "heDesc": "תוספתא כפשוטה הוא פירוש ארוך שכתב פרופסור שאול ליברמן במאה ה-20, המשלב בין מחקר מדעי והיסטורי, התייחסות לפירושי הראשונים על התוספתא, וניתוח של ספרות חז״ל.",
+    "heShortDesc": "פירוש ארוך המשלב בין מחקר מדעי והיסטורי, התייחסות לפירושי הראשונים על התוספתא, וניתוח של ספרות חז״ל.",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "שינויי נוסחאות",
+    "heDesc": "שינויי נוסחאות על בסיס כתב יד ערפורט, קטעים מן הגניזה, ודפוס ויניציאה רפ׳׳א.",
+    "heShortDesc": "שינויי נוסחאות על בסיס כתב יד ערפורט, קטעים מן הגניזה, ודפוס ויניציאה רפ׳׳א.",
+    "order": null
+  },
+  {
+    "title": "מפרשים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "מהדורת ליברמן",
+    "heDesc": "התוספתא (תוספת, השלמה) חופפת לסדרי המשנה, והיא כוללת הלכות ודיונים שלא הוכנסו למשנה. המבנה והתכנים של התוספתא מקבילים לאלה של המשנה, אך על פי רוב התוספתא מפורטת יותר, ולכן היא ארוכה פי שלושה מהמשנה.",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "סדר זרעים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "סדר מועד",
+    "heDesc": "",
+    "heShortDesc": "חגים",
+    "order": 10
+  },
+  {
+    "title": "סדר נשים",
+    "heDesc": "",
+    "heShortDesc": "דיני משפחה",
+    "order": 15
+  },
+  {
+    "title": "סדר נזיקין",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "סדר קדשים",
+    "heDesc": "",
+    "heShortDesc": "קורבנות",
+    "order": 25
+  },
+  {
+    "title": "סדר טהרות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 30
+  },
+  {
+    "title": "דפוס וילנא",
+    "heDesc": "התוספתא (תוספת, השלמה) חופפת לסדרי המשנה, והיא כוללת הלכות ודיונים שלא הוכנסו למשנה. המבנה והתכנים של התוספתא מקבילים לאלה של המשנה, אך על פי רוב התוספתא מפורטת יותר, ולכן היא ארוכה פי שלושה מהמשנה.",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "תוספתא",
+    "heDesc": "התוספתא (תוספת, השלמה) חופפת לסדרי המשנה, והיא כוללת הלכות ודיונים שלא הוכנסו למשנה. המבנה והתכנים של התוספתא מקבילים לאלה של המשנה, אך על פי רוב התוספתא מפורטת יותר.",
+    "heShortDesc": "ספרות תנאית מקבילה לסדרי המשנה, הכוללת הלכות ודיונים שלא הוכנסו למשנה.",
+    "order": 45
+  },
+  {
+    "title": "ספרי ראשית",
+    "heDesc": "",
+    "heShortDesc": "כתבים מן המאה ה-18 הכוללים דרשות של מייסד החסידות הבעל שם טוב (רבי ישראל בן אליעזר) ושל תלמידיו.",
+    "order": 5
+  },
+  {
+    "title": "ברסלב",
+    "heDesc": "",
+    "heShortDesc": "חיבורים מהמאה ה-19 שכתבו רבי נחמן מברסלב, נינו של הבעל שם טוב, ותלמידו הקרוב רבי נתן שטרנהרץ.",
+    "order": 10
+  },
+  {
+    "title": "חב\"ד",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 12
+  },
+  {
+    "title": "איזביצה",
+    "heDesc": "",
+    "heShortDesc": "חיבורים המיוחסים לחסידות אישביצה-ראדזין, שיסד בראשית המאה ה-19 בפולין רבי מרדכי ליינר (המוכר בכינויו האישביצר או מי השילוח).",
+    "order": 15
+  },
+  {
+    "title": "ר' צדוק הכוהן",
+    "heDesc": "ר' צדוק הכהן רבינוביץ' (1930-1823) שילב למדנות תלמודית עם עיסוק במחשבה ובקבלה והיה אחד הכותבים הפוריים ביותר בתולדות החסידות. ר׳ צדוק היה לתלמידו המובהק של האישביצר אף שבא מרקע המתנגד לחסידות, ולבסוף הקים חצר חסידית משלו בלובלין שבפולין. חיבוריו נכתבו במחברות אישיות ויצאו לאור לאחר מותו.",
+    "heShortDesc": "חיבוריו של ר' צדוק הכהן רבינוביץ', בן המאה ה-19, שהיה לתלמידו של האישביצר אף שבא מרקע המתנגד לחסידות, וברבות הימים הקים חסידות משלו בלובלין שבפולין.",
+    "order": 20
+  },
+  {
+    "title": "האדמו\"ר מפיאסצנה",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "ספרי חסידות נוספים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": -5
+  },
+  {
+    "title": "חסידות",
+    "heDesc": "החסידות היא תנועת התחדשות רוחנית־מיסטית שייסד באוקראינה באמצע המאה ה־18 רבי ישראל בן אליעזר, הנודע כ\"בעל שם טוב\". שורשי החסידות יונקים מעולם הקבלה ומתמקדים בקיום מצוות מתוך שמחה, בתפילה בכוונה, בדבקות באלוהים ובאמונה בהימצאות האלוהים בכל מקום בעולם החומר. החסידות מעלה על נס את התפיסה שלכל אדם יש דרך סלולה למפגש עם אלוהים.",
+    "heShortDesc": "תנועת התחדשות רוחנית שנוסדה במאה ה־18, העוסקת בדבקות באלוהים ובהתגלות האלוהית בתוך עולם החומר.",
+    "order": 50
+  },
+  {
+    "title": "ראשונים",
+    "heDesc": "",
+    "heShortDesc": "רבנים והוגים שחיו במאה ה-11 ועד המאה ה-15.",
+    "order": 5
+  },
+  {
+    "title": "אחרונים",
+    "heDesc": "",
+    "heShortDesc": "רבנים והוגים שחיו במאה ה-16 ועד המאה ה-20.",
+    "order": 10
+  },
+  {
+    "title": "מחברי זמננו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 15
+  },
+  {
+    "title": "ספרי מוסר",
+    "heDesc": "מוסר הוא סוגה של ספרות יהודית המספקת הדרכה להתפתחות אישית מוסרית ורוחנית. חלק מהטקסטים מתמקדים בתוכניות מעשיות לשיפור אורחות החיים, וחלקם תאורטיים יותר. ספרות המוסר זכתה לתשומת לב מוגברת עם היווסדה של תנועת המוסר בליטא במאה ה־19, שעודדה לימוד מסודר של מוסר וכן הוציאה לאור ספרות מוסר עצמאית.",
+    "heShortDesc": "ספרות הדרכה להתפתחות אישית מוסרית ורוחנית החל מימי הביניים ועד ימינו.",
+    "order": 55
+  },
+  {
+    "title": "גאונים",
+    "heDesc": "הגאונים היו רבנים ופוסקי הלכה שחיו בתקופה שהחלה במאה השישית, עם חתימת התלמוד, ונמשכה עד תחילת המאה ה-11 בקירוב. רבים מן הגאונים כיהנו כראש של אחת משתי ישיבות מרכזיות בבבל, סורא ופומבדיתא. השאלות שעליהן התבקשו להשיב נשלחו מיהודים תושבי האזור ומיהודים ממחוזות מרוחקים, והן עסקו בפרשנות התלמוד ובענייני הלכה. התשובות נכתבו בכמה שפות – עברית, ארמית וערבית - ואורכן השתנה ממשפט אחד ועד לספר שלם.",
+    "heShortDesc": "שאלות ותשובות (שו\"ת) של רבנים וראשי ישיבות מתקופת המאה ה-6 עד תחילת המאה ה-11. עוסקות בפרשנות התלמוד, בהלכה ובהגות יהודית.",
+    "order": 5
+  },
+  {
+    "title": "רמב\"ם",
+    "heDesc": "",
+    "heShortDesc": "אוסף מן המאה ה-12 של תשובות הלכתיות ואיגרות בשלל נושאים, בהם משמעות העולם הבא והגדרת הכפירה, מאת רבי משה בן מימון.",
+    "order": null
+  },
+  {
+    "title": "רשב\"א",
+    "heDesc": "",
+    "heShortDesc": "שאלות ותשובות מאת רבי שלמה בן אברהם בן אדרת, בן המאה ה-14,המכילות למעלה מ־3000 פסקי הלכה ומצוטטות רבות בשולחן ערוך.",
+    "order": null
+  },
+  {
+    "title": "ראשונים",
+    "heDesc": "",
+    "heShortDesc": "רבנים ופוסקי הלכה שחיו בתקופה שהחלה במאה ה-11 ונמשכה עד המאה ה-15. תשובותיהם מתמקדות בעיקר בסוגיות הלכתיות.",
+    "order": 10
+  },
+  {
+    "title": "רדב\"ז",
+    "heDesc": "",
+    "heShortDesc": "שאלות ותשובות מאת הרב דוד בן זמרא, רבה הראשי של מצרים במאה ה-16, הכוללות למעלה מ־2000 תשובות.",
+    "order": null
+  },
+  {
+    "title": "שואל ומשיב",
+    "heDesc": "",
+    "heShortDesc": "שאלות ותשובות מאת הרב יוסף שאול נתנזון, מגדולי רבני פולין במאה ה-19, ומהראשונים לדון בשימוש בשעון שבת (טיימר).",
+    "order": null
+  },
+  {
+    "title": "אחרונים",
+    "heDesc": "",
+    "heShortDesc": "רבנים ופוסקי הלכה שחיו בתקופה שהחלה במאה ה-16 ונמשכה עד המאה ה-20. תשובותיהם מתמקדות בעיקר בסוגיות הלכתיות.",
+    "order": 15
+  },
+  {
+    "title": "שו\"ת במראה הבזק",
+    "heDesc": "",
+    "heShortDesc": "תשובות לשאלות שנשלחו מרחבי העולם לרבנים של כולל \"ארץ חמדה\" בירושלים, ערוכות בסגנון תמציתי אך מגובות בציוני מקורות מפורטים.",
+    "order": null
+  },
+  {
+    "title": "מחברי זמננו",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 20
+  },
+  {
+    "title": "שו\"ת",
+    "heDesc": "ספרות השו\"ת בנויה מתשובות ופסיקות הלכה של רבנים בתגובה על שאלות שנשאלו. ראשיתה בתקופת הגאונים, וכתיבתה נמשכת עד ימינו. ספרות השו\"ת ממחישה כיצד מיושמים הלכות וערכים בחיי היום־יום במקרים שטרם זכו להתייחסות מפורשת בספרות ההלכה, ולכן לעיתים קרובות התשובות משמשות תקדים למקרים עתידיים.",
+    "heShortDesc": "תשובות ופסיקות הלכה שנתנו רבנים בתגובה לשאלות שקיבלו, אשר מעידות על יישום ההלכה בחיי היום־יום.",
+    "order": 60
+  },
+  {
+    "title": "ספרים חיצונים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "פילון",
+    "heDesc": "פילון היה פילוסוף יהודי מאלכסנדריה שבמצרים במאה ה-1, שכתביו עוסקים לרוב ביישוב פרשנות המקרא עם הפילוסופיה היוונית. אף על פי שיש חפיפה רבה בין כתביו של פילון לספרות חז\"ל שהתפתחה במקביל אליו (משנה, מדרש ותוספתא), בספרות חז\"ל אין זכר לפילון. חכמים מאוחרים לו שיערו שחוסר בקיאותו של פילון בשפה העברית (שבגללה נאלץ להסתמך על התרגום היווני לתורה) וכן שיטותיו הייחודיות בפרשנות המקרא גרמו לרתיעה ממנו בספרות חז\"ל.",
+    "heShortDesc": "פילוסוף יהודי מאלכסנדריה שבמצרים במאה ה-1. כתביו עוסקים ביישוב פרשנות המקרא עם הפילוסופיה היוונית.",
+    "order": 15
+  },
+  {
+    "title": "יוסף בן מתתיהו",
+    "heDesc": "יוספוס היה היסטוריון יהודי-רומאי שפעל במאה ה-1. כיליד ירושלים הוא לחם נגד הרומאים במלחמה הראשונה בין היהודים לרומאים, אך בהמשך ערק לצד הרומי ואף מונה ליועץ של בנו של הקיסר הרומי. כתבי יוספוס הם מקור מידע חשוב על ההיסטוריה היהודית בסוף תקופת בית ראשון ועל מלחמות היהודים באותה תקופה.",
+    "heShortDesc": "היסטוריון יהודי-רומאי מן המאה ה-1, שכתביו הענפים מספקים חומר רב על חיי היהודים בסוף תקופת בית שני.",
+    "order": 20
+  },
+  {
+    "title": "בית שני",
+    "heDesc": "ספרות תקופת בית שני כוללת יצירות שקובצו בתקופת ימי בית המקדש השני. בית המקדש השני עמד על תילו כמה מאות שנים עד שנחרב בשנת 70 לספירה. בתקופה זו נחתם התנ\"ך, והחלו לפתח את המשנה, התוספתא והמדרשים.",
+    "heShortDesc": "אוסף יצירות מתקופת בית המקדש השני, שעמד על תילו כמה מאות שנים עד שנחרב בשנת 70 לספירה.",
+    "order": 65
+  },
+  {
+    "title": "מילונים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 5
+  },
+  {
+    "title": "דקדוק",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": 10
+  },
+  {
+    "title": "שם הגדולים",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "אנציקלופדיות",
+    "heDesc": "",
+    "heShortDesc": "",
+    "order": null
+  },
+  {
+    "title": "מילונים וספרי יעץ",
+    "heDesc": "מילונים, ספרי דקדוק ותחביר ואנציקלופדיות (מימי הביניים ועד ימינו) המשמשים כלי עזר להבנת טקסטים תנ\"כיים וטקסטים של חז\"ל.",
+    "heShortDesc": "מילונים, ספרי דקדוק ותחביר, ואנציקלופדיות מימי הביניים ועד ימינו.",
+    "order": 70
+  }
+]

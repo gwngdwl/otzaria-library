@@ -2,11 +2,11 @@ import json
 from pathlib import Path
 
 import pandas as pd
-from tqdm import tqdm
-
-from utils import *
 from otzaria.get_from_export import Book
 from otzaria.utils import footnotes, sanitize_filename
+from tqdm import tqdm
+from utils import *
+from xlwings import books
 
 
 def read_file(file_path: Path) -> set[str]:
@@ -62,7 +62,10 @@ def main(json_folder: Path, schemas_folder: Path, output_folder: Path, lang: str
                 schema_file_name = schemas_folder / f'{title}.json'
                 book_content, metadata, categories, refs = get_book(title, text_file, schema_file_name, lang)
                 title = sanitize_filename(metadata["title"])
-                if metadata["title"] in files_black_list or title in files_black_list or original_title in files_black_list or any(author in authors_black_list for author in metadata["heAuthors"]):
+                if metadata["title"] in files_black_list or title in files_black_list or original_title in files_black_list or (any(author in authors_black_list for author in metadata["heAuthors"]) and metadata["title"] not in books_white_list and title not in books_white_list and original_title not in books_white_list):
+                    continue
+                if any(author not in authors_white_list for author in metadata["heAuthors"]) and metadata["title"] not in books_white_list and title not in books_white_list and original_title not in books_white_list:
+                    need_to_check_authors.append({metadata["title"]: [author for author in metadata["heAuthors"] if author not in authors_white_list]})
                     continue
                 output_path_temp = [sanitize_filename(i) for i in categories]
                 output_path = []
@@ -121,8 +124,14 @@ json_folder = Path(CONFIG["sefaria"]["json_folder"])
 schemas_folder = Path(CONFIG["sefaria"]["schemas_folder"])
 files_black_list_file_path = Path(CONFIG["sefaria"]["files_black_list_file_path"])
 authors_black_files_list_file_path = Path(CONFIG["sefaria"]["authors_black_files_list_file_path"])
+authors_white_files_list_file_path = Path(CONFIG["sefaria"]["authors_white_files_list_file_path"])
+books_white_list_file_path = Path(CONFIG["sefaria"]["books_white_list_file_path"])
 files_black_list = read_file(files_black_list_file_path)
 authors_black_list = read_file(authors_black_files_list_file_path)
+authors_white_list = read_file(authors_white_files_list_file_path)
+books_white_list = read_file(books_white_list_file_path)
+need_to_check_authors = []
+need_to_check_authors_file_path = Path(CONFIG["sefaria"]["need_to_check_authors_file_path"])
 output_folder = Path(CONFIG["otzaria"]["export_books_path"])
 output_folder.mkdir(parents=True, exist_ok=True)
 links_path = Path(CONFIG["otzaria"]["export_links_path"])
@@ -142,3 +151,5 @@ df.to_csv(Path(CONFIG["otzaria"]["refs_all_file_path"]), index=False)
 metadata_file_path = Path(CONFIG["otzaria"]["books_metadata_file_path"])
 with metadata_file_path.open("w", encoding="utf-8") as f:
     json.dump(all_metadata, f, ensure_ascii=False, indent=4)
+with need_to_check_authors_file_path.open("w", encoding="utf-8") as f:
+    json.dump(need_to_check_authors, f, ensure_ascii=False, indent=4)
