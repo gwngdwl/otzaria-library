@@ -81,7 +81,7 @@ if dif:
 
 
 all_dicta_files = []
-dicta_folder = Path("DictaToOtzaria/ספרים/לא ערוך/אוצריא")
+dicta_folder = Path("DictaToOtzaria/לא ערוך/ספרים/אוצריא")
 for root, _, files in dicta_folder.walk():
     for file in files:
         file_path = root / file
@@ -90,6 +90,6 @@ for root, _, files in dicta_folder.walk():
         rel_path = file_path.relative_to(dicta_folder)
         all_dicta_files.append(str(rel_path))
 
-dicta_list_path = Path("DictaToOtzaria/ספרים/לא ערוך/list.txt")
+dicta_list_path = Path("DictaToOtzaria/לא ערוך/list.txt")
 with dicta_list_path.open("w", encoding="utf-8") as f:
     f.write("\n".join(all_dicta_files))
