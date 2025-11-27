@@ -4,9 +4,9 @@ from pathlib import Path
 import pandas as pd
 from otzaria.get_from_export import Book
 from otzaria.utils import footnotes, sanitize_filename
+from pyluach.dates import GregorianDate
 from tqdm import tqdm
 from utils import *
-from xlwings import books
 
 
 def read_file(file_path: Path) -> set[str]:
@@ -82,6 +82,10 @@ def main(json_folder: Path, schemas_folder: Path, output_folder: Path, lang: str
                 all_footnotes = []
                 metadata["title"] = title
                 metadata["original_title"] = original_title
+                comp_date = metadata["compDate"]
+                pub_date = metadata["pubDate"]
+                metadata["compDateHeb"] = [GregorianDate(year=int(x), month=1, day=1).to_heb().hebrew_year(thousands=True) for x in comp_date] if comp_date else []
+                metadata["pubDateHeb"] = [GregorianDate(year=int(x), month=1, day=1).to_heb().hebrew_year(thousands=True) for x in pub_date] if pub_date else []
                 for index, line in enumerate(book_content, start=1):
                     if "footnote-marker" in line:
                         line, footnotes_list = footnotes(line)
