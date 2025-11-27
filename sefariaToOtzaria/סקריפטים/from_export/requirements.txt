@@ -2,3 +2,4 @@ tqdm
 python_hebrew_numbers
 bs4
 pandas
+pyluach
