@@ -59,9 +59,10 @@ jobs:
         with:
           python-version: '3.14'
 
-      - name: Install dependencies
-        run: |
-          pip install bs4 requests pyluach
+      # - name: update linker links
+      #   run: |
+      #     pip install -r linker/requirements.txt
+      #     python linker/linker_on_commit.py
 
       - name: update in mitmachim
         env:
@@ -70,6 +71,7 @@ jobs:
           TOKEN_YEMOT: ${{ secrets.TOKEN_YEMOT }}
           GOOGLE_CHAT_URL: ${{ secrets.GOOGLE_CHAT_URL }}
         run: |
+          pip install bs4 requests pyluach
           python send_update/main.py
           
       - name: Sync files and folders
