@@ -15,6 +15,7 @@ on:
       - "ToratEmetToOtzaria/ספרים/אוצריא/**"
       - "wikiJewishBooksToOtzaria/ספרים/אוצריא/**"
       - "wikisourceToOtzaria/ספרים/אוצריא/**"
+      - "pninimToOtzaria/ספרים/אוצריא/**"
 
       - "Ben-YehudaToOtzaria/links/**"
       - "DictaToOtzaria/links/**"
@@ -29,6 +30,7 @@ on:
       - "wikisourceToOtzaria/links/**"
       - "DictaToOtzaria/לא ערוך/links/**"
       - "DictaToOtzaria/ערוך/links/**"
+      - "pninimToOtzaria/links/**"
       
   workflow_dispatch:
 permissions:
@@ -100,7 +102,8 @@ jobs:
             -path "./MoreBooks/ספרים/אוצריא/*" -o \
             -path "./ToratEmetToOtzaria/ספרים/אוצריא/*" -o \
             -path "./wikisourceToOtzaria/ספרים/אוצריא/*" -o \
-            -path "./wikiJewishBooksToOtzaria/ספרים/אוצריא/*" \
+            -path "./wikiJewishBooksToOtzaria/ספרים/אוצריא/*" -o \
+            -path "./pninimToOtzaria/ספרים/אוצריא/*" \
           \) -type f \
           ! -path "./.git/*" \
           ! -path "./.github/*" \
@@ -122,7 +125,8 @@ jobs:
             -path "./MoreBooks/links/*" -o \
             -path "./ToratEmetToOtzaria/links/*" -o \
             -path "./wikisourceToOtzaria/links/*" -o \
-            -path "./wikiJewishBooksToOtzaria/links/*" \
+            -path "./wikiJewishBooksToOtzaria/links/*" -o \
+            -path "./pninimToOtzaria/links/*" \
           \) -type f \
           ! -path "./.git/*" \
           ! -path "./.github/*" \
@@ -172,7 +176,8 @@ jobs:
             MoreBooks/ספרים/אוצריא \
             wikiJewishBooksToOtzaria/ספרים/אוצריא \
             wikisourceToOtzaria/ספרים/אוצריא \
-            ToratEmetToOtzaria/ספרים/אוצריא
+            ToratEmetToOtzaria/ספרים/אוצריא \
+            pninimToOtzaria/ספרים/אוצריא
           do
             if [ -d "$src" ]; then
               echo "Adding $src to ZIP..."
@@ -194,7 +199,8 @@ jobs:
             MoreBooks/links \
             wikiJewishBooksToOtzaria/links \
             wikisourceToOtzaria/links \
-            ToratEmetToOtzaria/links
+            ToratEmetToOtzaria/links \
+            pninimToOtzaria/links
           do
             if [ -d "$src" ]; then
               echo "Adding $src to ZIP..."
