@@ -5,6 +5,8 @@ from pathlib import Path
 
 from linker import link_book
 
+log = True
+
 
 def decode_git_output_line(line: str) -> str:
     return codecs.escape_decode(line.strip())[0].decode("utf-8").strip('''"''')
@@ -70,6 +72,10 @@ def main() -> None:
         src_path.rename(target_link)
     added_files = get_changed_files("A", folders)
     modified_files = get_changed_files("M", folders)
+    if log:
+        print("Added files:", added_files)
+        print("Modified files:", modified_files)
+        print("Renamed files:", renamed_files)
     all_new_links = added_files + modified_files
     for new_file in all_new_links:
         new_file_path = Path(new_file)
@@ -82,3 +88,7 @@ def main() -> None:
         deleted_link = Path(deleted_file_path.parts[0]) / "linker_links" / f"{deleted_file_path.stem}_links.json"
         if deleted_link.exists():
             deleted_link.unlink()
+
+
+if __name__ == "__main__":
+    main()

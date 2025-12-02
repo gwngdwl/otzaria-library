@@ -1,15 +1,14 @@
-import json
 import csv
+import json
 import os
 import re
-import zipfile
 import shutil
-
-from bs4 import BeautifulSoup
-import requests
-from pyluach import dates
+import zipfile
 
 import dif
+import requests
+from bs4 import BeautifulSoup
+from pyluach import dates
 
 
 def new_folder_name() -> tuple[str, str]:
@@ -83,7 +82,7 @@ def process_html(file: str) -> None:
 
 
 def sanitize_filename(filename: str) -> str:
-    sanitized_filename = re.sub(r'[\\/:*"?<>|]', '', filename).replace('_', ' ')
+    sanitized_filename = re.sub(r'[\\/:*"?<>|\u200E\u200F\u202A\u202B\u202C\u202D\u202E]', '', filename).replace('_', ' ')
     return sanitized_filename
 
 
