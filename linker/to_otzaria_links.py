@@ -34,13 +34,17 @@ class LinkerLink(TypedDict):
 OtzariaLink = TypedDict("OtzariaLink", {"line_index_1": int, "line_index_2": int, "heRef_2": str, "path_2": str, "Conection Type": str})
 
 
-log_path = Path(CONFIG["otzaria"]["log_path"])
+# log_path = Path(CONFIG["otzaria"]["log_path"])
+log_path = Path(__file__).parent / CONFIG["otzaria"]["log_path"]
+log_path = log_path.resolve()
 set_links: set[str] = set()
 set_range: set[str] = set()
 otzaria_links: defaultdict[str, list[list[str]]] = defaultdict(list)
 otzaria_parse: defaultdict[str, list[Link]] = defaultdict(list)
 all_otzaria_links: defaultdict[str, list[list[str]]] = defaultdict(list)
-refs_file_path = Path(CONFIG["otzaria"]["refs_all_file_path"]).resolve()
+# refs_file_path = Path(CONFIG["otzaria"]["refs_all_file_path"]).resolve()
+refs_file_path = Path(__file__).parent / CONFIG["otzaria"]["refs_all_file_path"]
+refs_file_path = refs_file_path.resolve()
 not_found_links: set[str] = set()
 not_found_books: set[str] = set()
 found_links: set[str] = set()
