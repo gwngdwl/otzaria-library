@@ -1,0 +1,259 @@
+{
+    "5": [
+        {
+            "start": 4,
+            "end": 12,
+            "refs": {
+                "Shulchan Arukh, Orach Chayim 39": "שולחן ערוך, אורח חיים ל״ט"
+            }
+        }
+    ],
+    "7": [
+        {
+            "start": 4,
+            "end": 13,
+            "refs": {
+                "Shulchan Arukh, Orach Chayim 141": "שולחן ערוך, אורח חיים קמ״א"
+            }
+        }
+    ],
+    "9": [
+        {
+            "start": 78,
+            "end": 90,
+            "refs": {
+                "Shulchan Arukh, Orach Chayim 53": "שולחן ערוך, אורח חיים נ״ג"
+            }
+        }
+    ],
+    "10": [
+        {
+            "start": 4,
+            "end": 13,
+            "refs": {
+                "Shulchan Arukh, Orach Chayim 153": "שולחן ערוך, אורח חיים קנ״ג"
+            }
+        }
+    ],
+    "11": [
+        {
+            "start": 271,
+            "end": 284,
+            "refs": {
+                "Zevachim 91": "זבחים צ״א"
+            }
+        }
+    ],
+    "14": [
+        {
+            "start": 213,
+            "end": 224,
+            "refs": {
+                "Shabbat 55": "שבת נ״ה"
+            }
+        }
+    ],
+    "17": [
+        {
+            "start": 87,
+            "end": 105,
+            "refs": {
+                "Rosh Hashanah 28a": "ראש השנה כ״ח א"
+            }
+        }
+    ],
+    "23": [
+        {
+            "start": 4,
+            "end": 12,
+            "refs": {
+                "Shulchan Arukh, Yoreh De'ah 32": "שולחן ערוך, יורה דעה ל״ב"
+            }
+        }
+    ],
+    "25": [
+        {
+            "start": 4,
+            "end": 13,
+            "refs": {
+                "Shulchan Arukh, Yoreh De'ah 234": "שולחן ערוך, יורה דעה רל״ד"
+            }
+        }
+    ],
+    "28": [
+        {
+            "start": 4,
+            "end": 10,
+            "refs": {
+                "Shulchan Arukh, Choshen Mishpat 3": "שולחן ערוך, חושן משפט ג׳"
+            }
+        }
+    ],
+    "35": [
+        {
+            "start": 56,
+            "end": 65,
+            "refs": {
+                "Mishnah Bava Kamma 1": "משנה בבא קמא א׳",
+                "Bava Kamma 2a:1-17a:12": "בבא קמא ב׳ א:א׳-י״ז א:י״ב"
+            }
+        },
+        {
+            "start": 204,
+            "end": 215,
+            "refs": {
+                "Bava Kamma 93b:1-111a:21": "בבא קמא צ״ג ב:א׳-קי״א א:כ״א",
+                "Jerusalem Talmud Bava Kamma 9:1:1-10:2": "תלמוד ירושלמי בבא קמא ט׳:א׳:א׳-י׳:ב׳"
+            }
+        }
+    ],
+    "36": [
+        {
+            "start": 394,
+            "end": 408,
+            "refs": {
+                "Yevamot 31b": "יבמות ל״א ב"
+            }
+        }
+    ],
+    "37": [
+        {
+            "start": 149,
+            "end": 163,
+            "refs": {
+                "Bava Kamma 93b:1-111a:21": "בבא קמא צ״ג ב:א׳-קי״א א:כ״א",
+                "Jerusalem Talmud Bava Kamma 9:1:1-10:2": "תלמוד ירושלמי בבא קמא ט׳:א׳:א׳-י׳:ב׳"
+            }
+        },
+        {
+            "start": 220,
+            "end": 226,
+            "refs": {
+                "Yevamot 12": "יבמות י״ב",
+                "Bava Kamma 12": "בבא קמא י״ב"
+            }
+        }
+    ],
+    "39": [
+        {
+            "start": 199,
+            "end": 218,
+            "refs": {
+                "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 242": "שפתי כהן על שולחן ערוך יורה דעה רמ״ב"
+            }
+        }
+    ],
+    "40": [
+        {
+            "start": 4,
+            "end": 12,
+            "refs": {
+                "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 41": "שפתי כהן על שולחן ערוך יורה דעה מ״א"
+            }
+        }
+    ],
+    "41": [
+        {
+            "start": 3,
+            "end": 10,
+            "refs": {
+                "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 41:1": "שפתי כהן על שולחן ערוך יורה דעה מ״א:א׳",
+                "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 242:1": "שפתי כהן על שולחן ערוך יורה דעה רמ״ב:א׳"
+            }
+        }
+    ],
+    "46": [
+        {
+            "start": 238,
+            "end": 269,
+            "refs": {
+                "Tosafot on Ketubot 19a:4:2": "תוספות על כתובות י״ט א:ד׳:ב׳"
+            }
+        }
+    ],
+    "51": [
+        {
+            "start": 66,
+            "end": 79,
+            "refs": {
+                "Shulchan Arukh, Choshen Mishpat 51": "שולחן ערוך, חושן משפט נ״א"
+            }
+        }
+    ],
+    "59": [
+        {
+            "start": 27,
+            "end": 52,
+            "refs": {
+                "Tosafot on Ketubot 88a": "תוספות על כתובות פ״ח א"
+            }
+        },
+        {
+            "start": 481,
+            "end": 492,
+            "refs": {
+                "Sanhedrin 23a:1-31b:21": "סנהדרין כ״ג א:א׳-ל״א ב:כ״א",
+                "Jerusalem Talmud Sanhedrin 3:1:1-12:4": "תלמוד ירושלמי סנהדרין ג׳:א׳:א׳-י״ב:ד׳"
+            }
+        }
+    ],
+    "65": [
+        {
+            "start": 755,
+            "end": 780,
+            "refs": {
+                "Tosafot on Ketubot 88a": "תוספות על כתובות פ״ח א"
+            }
+        },
+        {
+            "start": 1038,
+            "end": 1050,
+            "refs": {
+                "Shulchan Arukh, Choshen Mishpat 30": "שולחן ערוך, חושן משפט ל׳"
+            }
+        }
+    ],
+    "68": [
+        {
+            "start": 340,
+            "end": 365,
+            "refs": {
+                "Tosafot on Ketubot 88a": "תוספות על כתובות פ״ח א"
+            }
+        }
+    ],
+    "71": [
+        {
+            "start": 409,
+            "end": 424,
+            "refs": {
+                "Bava Kamma 73a": "בבא קמא ע״ג א"
+            }
+        },
+        {
+            "start": 922,
+            "end": 936,
+            "refs": {
+                "Sanhedrin 9": "סנהדרין ט׳"
+            }
+        }
+    ],
+    "73": [
+        {
+            "start": 1930,
+            "end": 1945,
+            "refs": {
+                "Ketubot 23b": "כתובות כ״ג ב"
+            }
+        }
+    ],
+    "76": [
+        {
+            "start": 140,
+            "end": 157,
+            "refs": {
+                "Mishneh Torah, Testimony 3:2": "משנה תורה, הלכות עדות ג׳:ב׳"
+            }
+        }
+    ]
+}
