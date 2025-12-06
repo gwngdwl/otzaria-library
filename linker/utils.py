@@ -25,12 +25,12 @@ def read_csv_file(file_path: Path, with_headers: bool = False) -> dict[str, str]
 
 
 def get_hash_all_files() -> dict[str, str]:
-    file_path = Path(__file__).parent / CONFIG["hash_all_files_file_path"]
+    file_path = Path(__file__).parent / CONFIG["otzaria"]["hash_all_files_file_path"]
     with file_path.open("r", encoding="utf-8") as f:
         return json.load(f)
 
 
 def write_hash_all_files(dict_all: dict[str, str]) -> None:
-    file_path = Path(__file__).parent / CONFIG["hash_all_files_file_path"]
+    file_path = Path(__file__).parent / CONFIG["otzaria"]["hash_all_files_file_path"]
     with file_path.open("w", encoding="utf-8") as f:
         json.dump(dict_all, f, indent=2, ensure_ascii=False)
