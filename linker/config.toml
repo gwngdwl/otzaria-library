@@ -1,22 +1,4 @@
-lang = "hebrew"
 [otzaria]
-export_books_path = "/workspaces/otzaria-library/sefaria_linker/אוצריא"
-export_links_path = "/workspaces/otzaria-library/sefaria_linker/links"
-log_path = "/workspaces/otzaria-library/sefaria_linker/log"
-refs_all_file_path = "/workspaces/otzaria-library/sefaria_linker/refs_all.csv"
-linker_links_path = "/workspaces/otzaria-library/sefaria_linker/links_temp"
-books_metadata_file_path = "/workspaces/otzaria-library/sefaria_linker/books_metadata.json"
-folder_metadata_file_path = "/workspaces/otzaria-library/sefaria_linker/folder_metadata.json"
-folder_name_replacements_file_path = "C:\\Users\\Otzaria\\Desktop\\otzaria-library\\sefariaToOtzaria\\סקריפטים\\from_export\\תיקיות.csv"
-file_name_replacements_file_path = "C:\\Users\\Otzaria\\Desktop\\otzaria-library\\sefariaToOtzaria\\סקריפטים\\from_export\\ספרים.csv"
-old_books_path = "C:\\Users\\Otzaria\\Desktop\\otzaria-library\\sefariaToOtzaria\\sefaria_export\\ספרים\\אוצריא"
-api_books_path = "C:\\Users\\Otzaria\\Desktop\\otzaria-library\\sefariaToOtzaria\\sefaria_api\\ספרים\\אוצריא"
-delete_api_files = false
-
-[sefaria]
-toc_file = "\\\\wsl.localhost\\Ubuntu\\root\\Sefaria-Export\\table_of_contents.json"
-json_folder = "\\\\wsl.localhost\\Ubuntu\\root\\Sefaria-Export\\json"
-schemas_folder = "\\\\wsl.localhost\\Ubuntu\\root\\Sefaria-Export\\schemas"
-links_folder = "\\\\wsl.localhost\\Ubuntu\\root\\Sefaria-Export\\links"
-files_black_list_file_path = "C:\\Users\\Otzaria\\Desktop\\otzaria-library\\sefariaToOtzaria\\סקריפטים\\ספרים.TXT"
-authors_black_files_list_file_path = "C:\\Users\\Otzaria\\Desktop\\otzaria-library\\sefariaToOtzaria\\סקריפטים\\מחברים.TXT"
+log_path = "../sefariaToOtzaria/new_books/log"
+refs_all_file_path = "../sefariaToOtzaria/new_books/refs_all.csv"
+hash_all_files_file_path = "hash_all_files.json"

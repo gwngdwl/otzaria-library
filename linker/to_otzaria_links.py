@@ -3,14 +3,15 @@ from __future__ import annotations
 import csv
 import json
 from collections import defaultdict
-from collections.abc import Sequence
+from collections.abc import Generator, Sequence
 from copy import deepcopy
 from pathlib import Path
 from typing import TypedDict
 
 from tqdm import tqdm
-
 from utils import CONFIG
+
+LOG = False
 
 
 class Link(TypedDict):
@@ -24,7 +25,6 @@ class LinkerLink(TypedDict):
     end: int
     refs: dict[str, str | None] | None
 
-
     # class OtzariaLink(TypedDict):
     #     line_index_1: int
     #     line_index_2: int
@@ -34,19 +34,43 @@ class LinkerLink(TypedDict):
 OtzariaLink = TypedDict("OtzariaLink", {"line_index_1": int, "line_index_2": int, "heRef_2": str, "path_2": str, "Conection Type": str})
 
 
-linker_links_path = Path(CONFIG["otzaria"]["linker_links_path"])
-log_path = Path(CONFIG["otzaria"]["log_path"])
+# log_path = Path(CONFIG["otzaria"]["log_path"])
+log_path = Path(__file__).parent / CONFIG["otzaria"]["log_path"]
+log_path = log_path.resolve()
 set_links: set[str] = set()
 set_range: set[str] = set()
 otzaria_links: defaultdict[str, list[list[str]]] = defaultdict(list)
 otzaria_parse: defaultdict[str, list[Link]] = defaultdict(list)
 all_otzaria_links: defaultdict[str, list[list[str]]] = defaultdict(list)
-target_links_path = Path(CONFIG["otzaria"]["export_links_path"])
-refs_file_path = Path(CONFIG["otzaria"]["refs_all_file_path"])
+# refs_file_path = Path(CONFIG["otzaria"]["refs_all_file_path"]).resolve()
+refs_file_path = Path(__file__).parent / CONFIG["otzaria"]["refs_all_file_path"]
+refs_file_path = refs_file_path.resolve()
 not_found_links: set[str] = set()
 not_found_books: set[str] = set()
 found_links: set[str] = set()
 found_links_dict = {}
+folders = (
+    "Ben-YehudaToOtzaria/ספרים/אוצריא",
+    "DictaToOtzaria/ערוך/ספרים/אוצריא",
+    "OnYourWayToOtzaria/ספרים/אוצריא",
+    "OraytaToOtzaria/ספרים/אוצריא",
+    "tashmaToOtzaria/ספרים/אוצריא",
+    # "sefariaToOtzaria/sefaria_api/ספרים/אוצריא",
+    "MoreBooks/ספרים/אוצריא",
+    # "wikisourceToOtzaria/ספרים/אוצריא",
+    # "wikiJewishBooksToOtzaria/ספרים/אוצריא",
+    "ToratEmetToOtzaria/ספרים/אוצריא",
+    "pninimToOtzaria/ספרים/אוצריא"
+)
+
+
+def iter_path(base_path: Path, ext_type: str = ".json") -> Generator[Path, None, None]:
+    for root, _, files in base_path.walk():
+        for file in files:
+            file_path = root / file
+            if file_path.suffix.lower() != ext_type.lower():
+                continue
+            yield file_path
 
 
 def match_range(
@@ -165,11 +189,10 @@ def read_linker_json(file_path: Path) -> dict[str, list[LinkerLink]]:
         return json.load(f)
 
 
-for root, _, files in linker_links_path.walk():
-    for file in files:
-        file_path = root / file
-        if file_path.suffix.lower() != ".json":
-            continue
+for folder in folders:
+    folder_path = Path(folder)
+    linker_links_path = Path(folder_path.parts[0]) / "linker_links"
+    for file_path in iter_path(linker_links_path):
         linker_links = read_linker_json(file_path)
         for line in linker_links.values():
             for link in line:
@@ -286,12 +309,14 @@ for i in tqdm(set_range):
 set_range = range_links_copy
 print(f"{num=}")
 
-for root, _, files in linker_links_path.walk():
-    for file in files:
-        file_path = root / file
+for folder in folders:
+    folder_path = Path(folder)
+    links_path = Path().joinpath(*folder_path.parts[:folder_path.parts.index("אוצריא") - 1]) / "links"
+    links_path.mkdir(parents=True, exist_ok=True)
+    linker_links_path = Path(folder_path.parts[0]) / "linker_links"
+    for file_path in iter_path(linker_links_path):
         file_links = []
-        if file_path.suffix.lower() != ".json":
-            continue
+        target_link_path = links_path / file_path.parts[-1]
         linker_links = read_linker_json(file_path)
         for index, line in linker_links.items():
             for link in line:
@@ -318,10 +343,14 @@ for root, _, files in linker_links_path.walk():
                                        "start": link["start"],
                                        "end": link["end"]
                                        })
-        target_link_path = target_links_path / file_path.relative_to(linker_links_path)
+        current_links = []
+        if target_link_path.exists():
+            with target_link_path.open("r", encoding="utf-8") as f:
+                current_links_content = json.load(f)
+            current_links = [i for i in current_links_content if i.get("Conection Type") != "linker"]
+        file_links.extend(current_links)
         if not file_links:
             continue
-        target_link_path.parent.mkdir(parents=True, exist_ok=True)
         with target_link_path.open("w", encoding="utf-8") as f:
             json.dump(file_links, f, indent=2, ensure_ascii=False)
 
@@ -333,16 +362,16 @@ print(f"{len(set_links)=} {len(set_range)=} {len(otzaria_links)=}")
 # otzaria_links_found_2 = log_path / "otzaria_links_found_2.json"
 # with otzaria_links_found_2.open("w", encoding="utf-8") as f:
 #     json.dump(found_links_dict, f, ensure_ascii=False, indent=4)
-
-not_found_links_2 = log_path / "not_found_links_2.json"
-with not_found_links_2.open("w", encoding="utf-8") as f:
-    for link in not_found_links:
-        f.write(f"{link}\n")
-not_found_books_2 = log_path / "not_found_books_2.json"
-with not_found_books_2.open("w", encoding="utf-8") as f:
-    for book in not_found_books:
-        f.write(f"{book}\n")
-found_links_2 = log_path / "found_links_2.txt"
-with found_links_2.open("w", encoding="utf-8") as f:
-    for book in found_links:
-        f.write(f"{book}\n")
+if LOG:
+    not_found_links_2 = log_path / "not_found_links_2.json"
+    with not_found_links_2.open("w", encoding="utf-8") as f:
+        for link in not_found_links:
+            f.write(f"{link}\n")
+    not_found_books_2 = log_path / "not_found_books_2.json"
+    with not_found_books_2.open("w", encoding="utf-8") as f:
+        for book in not_found_books:
+            f.write(f"{book}\n")
+    found_links_2 = log_path / "found_links_2.txt"
+    with found_links_2.open("w", encoding="utf-8") as f:
+        for book in found_links:
+            f.write(f"{book}\n")
