@@ -1,6 +1,7 @@
 import codecs
 import os
 import subprocess
+from calendar import c
 from collections.abc import Sequence
 from pathlib import Path
 
@@ -92,8 +93,13 @@ print(modified_files)
 print(deleted_files)
 print(renamed_files)
 
+info_folder_path = Path(__file__).parent.parent / "MoreBooks" / "ספרים" / "אוצריא" / "אודות התוכנה"
+ver_file_path = info_folder_path / "גירסת ספריה.txt"
+with ver_file_path.open("r", encoding="utf-8") as f:
+    library_ver = int(f.read()) + 1
+
 if any([added_files, modified_files, deleted_files, renamed_files]):
-    content_forum = f"**עדכון {date}**\n"
+    content_forum = f"# גירסת ספרייה {library_ver} \n**עדכון {date}**\n"
     date_yemot = f"עדכון {date}\n"
     content_yemot = {}
     if added_files:
@@ -124,9 +130,9 @@ if any([added_files, modified_files, deleted_files, renamed_files]):
     yemot_path = "ivr2:/1"
     tzintuk_list_name = "books update"
 
-    md_file_path = Path(__file__).parent.parent / "MoreBooks" / "ספרים" / "אוצריא" / "אודות התוכנה" / "עדכוני_ספריה.md"
-    with md_file_path.open("w", encoding="utf-8") as f:
-        f.write(content_forum)
+    md_file_path = info_folder_path / "עדכוני ספריה.md"
+    with md_file_path.open("a", encoding="utf-8") as f:
+        f.write(f"{content_forum}\n---\n")
 
     requests.post(google_chat_url, json={"text": content_forum})
 
