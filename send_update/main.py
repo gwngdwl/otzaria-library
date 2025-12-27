@@ -104,22 +104,22 @@ if any([added_files, modified_files, deleted_files, renamed_files]):
     if added_files:
         separator = "\n* "
         newline = "\n"
-        content_forum += f"\nהתווספו הקבצים הבאים:\n* {separator.join(added_files)}\n"
+        content_forum += f"\n## התווספו הקבצים הבאים:\n* {separator.join(added_files)}\n"
         content_yemot["התווספו הקבצים הבאים:"] = f"{newline.join([i.split('/')[-1].split('.')[0] for i in added_files])}"
     if modified_files:
         separator = "\n* "
         newline = "\n"
-        content_forum += f"\nהשתנו הקבצים הבאים:\n* {separator.join(modified_files)}\n"
+        content_forum += f"\n## השתנו הקבצים הבאים:\n* {separator.join(modified_files)}\n"
         content_yemot["השתנו הקבצים הבאים:"] = f"{newline.join([i.split('/')[-1].split('.')[0] for i in modified_files])}"
     if renamed_files:
         separator = "\n* "
         newline = "\n"
-        content_forum += f"\nשונה מיקום/שם של הקבצים הבאים:\n* {separator.join(renamed_files)}\n"
+        content_forum += f"\n## שונה מיקום/שם של הקבצים הבאים:\n* {separator.join(renamed_files)}\n"
         content_yemot["שונה מיקום/שם של הקבצים הבאים:"] = f"{newline.join([i.split('/')[-1].split('.')[0] for i in renamed_files])}"
     if deleted_files:
         separator = "\n* "
         newline = "\n"
-        content_forum += f"\nנמחקו הקבצים הבאים:\n* {separator.join(deleted_files)}\n"
+        content_forum += f"\n## נמחקו הקבצים הבאים:\n* {separator.join(deleted_files)}\n"
         content_yemot["נמחקו הקבצים הבאים:"] = f"{newline.join([i.split('/')[-1].split('.')[0] for i in deleted_files])}"
     print(content_forum)
     username = os.getenv("USER_NAME")
