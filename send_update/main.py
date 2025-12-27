@@ -2,13 +2,16 @@ import codecs
 import os
 import subprocess
 from collections.abc import Sequence
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 from otzaria_forum import OtzariaForumClient
 from pyluach import dates
 from yemot import split_and_send
 
+TZ = ZoneInfo("Asia/Jerusalem")
 folders = [
     "Ben-YehudaToOtzaria/ספרים/אוצריא",
     "DictaToOtzaria/ערוך/ספרים/אוצריא",
@@ -26,8 +29,7 @@ folders = [
 
 
 def heb_date() -> str:
-    today = dates.HebrewDate.today()
-    return today.hebrew_date_string()
+    return dates.HebrewDate.from_pydate(datetime.now(tz=TZ).date()).hebrew_date_string()
 
 
 def decode_git_output_line(line: str) -> str:

@@ -73,7 +73,7 @@ jobs:
           TOKEN_YEMOT: ${{ secrets.TOKEN_YEMOT }}
           GOOGLE_CHAT_URL: ${{ secrets.GOOGLE_CHAT_URL }}
         run: |
-          pip install bs4 requests pyluach
+          pip install bs4 requests pyluach tzdata
           python send_update/main.py
           
       - name: Sync files and folders
