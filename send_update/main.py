@@ -1,6 +1,8 @@
 import codecs
 import os
 import subprocess
+from collections.abc import Sequence
+from pathlib import Path
 
 import requests
 from otzaria_forum import OtzariaForumClient
@@ -28,7 +30,40 @@ def heb_date() -> str:
     return today.hebrew_date_string()
 
 
-def get_changed_files(status_filter: str, folders: list[str]) -> list[str]:
+def decode_git_output_line(line: str) -> str:
+    return codecs.escape_decode(line.strip())[0].decode("utf-8").strip('''"''')
+
+
+def get_moves_from_outside(folders: Sequence[str]) -> tuple[list[str], list[str], list[str]]:
+    cmd = ["git", "diff", "--name-status", "--diff-filter=R", "HEAD^", "HEAD"]
+    result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
+    raw_output = result.stdout.strip()
+    from_external_moves = []
+    internal_moves = []
+    to_external_moves = []
+    for line in raw_output.split("\n"):
+        if not line:
+            continue
+        parts = line.split("\t")
+        if len(parts) >= 3:
+            old_name = decode_git_output_line(parts[1])
+            new_name = decode_git_output_line(parts[2])
+            if not (new_name.lower().endswith(".txt") and not new_name.lower().endswith("גירסת ספריה.txt")):
+                continue
+            new_name_rel = new_name.split("אוצריא/")[-1]
+            old_name_rel = old_name.split("אוצריא/")[-1]
+            dest_is_watched = any(new_name.startswith(f) for f in folders)
+            src_is_watched = any(old_name.startswith(f) for f in folders)
+            if dest_is_watched and not src_is_watched:
+                from_external_moves.append(new_name_rel)
+            elif dest_is_watched and src_is_watched and new_name_rel != old_name_rel:
+                internal_moves.append(f"{old_name_rel} -> {new_name_rel}")
+            elif not dest_is_watched and src_is_watched:
+                to_external_moves.append(old_name_rel)
+    return from_external_moves, internal_moves, to_external_moves
+
+
+def get_changed_files(status_filter: str, folders: Sequence[str]) -> list[str]:
     cmd = ["git", "diff", "--name-only", f"--diff-filter={status_filter}", "HEAD^", "HEAD", "--", *folders]
     result = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
 
@@ -37,19 +72,20 @@ def get_changed_files(status_filter: str, folders: list[str]) -> list[str]:
     for line in raw_output.split("\n"):
         if not line:
             continue
-        decoded_line = codecs.escape_decode(line.strip())[0].decode("utf-8").strip('''"''')
+        decoded_line = decode_git_output_line(line)
         if not decoded_line.lower().endswith(".txt") or decoded_line.lower().endswith("גירסת ספריה.txt"):
             continue
         book_rel_path = decoded_line.split("אוצריא/")[-1]
         decoded_files.append(book_rel_path)
-
     return decoded_files
 
 
 added_files = get_changed_files("A", folders)
 modified_files = get_changed_files("M", folders)
 deleted_files = get_changed_files("D", folders)
-renamed_files = get_changed_files("R", folders)
+from_external_moves, renamed_files, to_external_moves = get_moves_from_outside(folders)
+deleted_files.extend(to_external_moves)
+added_files.extend(from_external_moves)
 date = heb_date()
 print(added_files)
 print(modified_files)
@@ -87,6 +123,10 @@ if any([added_files, modified_files, deleted_files, renamed_files]):
     google_chat_url = os.getenv("GOOGLE_CHAT_URL")
     yemot_path = "ivr2:/1"
     tzintuk_list_name = "books update"
+
+    md_file_path = Path(__file__).parent.parent / "MoreBooks" / "ספרים" / "אוצריא" / "אודות התוכנה" / "עדכוני_ספריה.md"
+    with md_file_path.open("w", encoding="utf-8") as f:
+        f.write(content_forum)
 
     requests.post(google_chat_url, json={"text": content_forum})
 
