@@ -1,7 +1,6 @@
 import codecs
 import os
 import subprocess
-from calendar import c
 from collections.abc import Sequence
 from pathlib import Path
 
