@@ -6,7 +6,7 @@ import time
 from collections.abc import Generator
 from pathlib import Path
 
-from mediawikitootzaria import htmltootzaria, mediawikiapi, mediawikitohtml, templates
+from mediawikitootzaria import htmltootzaria, mediawikiapi, mediawikitohtml, templates, utils
 from openpyxl import load_workbook
 from tqdm import tqdm
 
@@ -27,6 +27,8 @@ def iter_books_with_author(xlsx_file_path: Path) -> Generator[tuple[str, str, st
     link_idx = 3
 
     for row in books_ws.iter_rows(min_row=2, values_only=True):
+        if not row or len(row) < 4:
+            continue
         book_name = row[name_idx]
         author = row[author_idx]
         done = row[done_idx]
@@ -52,7 +54,8 @@ def read_order_from_csv(csv_file_path: Path) -> Generator[list[str]]:
 
 
 # def main(csv_file_path: Path, title: str, author: str) -> None:
-def main(pages: list[list[str]], title: str, author: str, link: str) -> None:
+def process_book(pages: list[list[str]], title: str, author: str, link: str) -> None:
+    file_name = utils.sanitize_filename(title)
     target_dir = Path("ספרים")
     target_dir.mkdir(exist_ok=True, parents=True)
     sup_num = 0
@@ -63,11 +66,11 @@ def main(pages: list[list[str]], title: str, author: str, link: str) -> None:
     lines = len(all_content)
     # for book in read_order_from_csv(csv_file_path):
     time.sleep(1)
-    for book in tqdm(pages):
-        h_level = 0
-        book_url = book[0]
-        content = mediawikiapi.get_page_content(book_url)
-        for index, i in enumerate(book[3:], start=2):
+    h_level = 2
+    for page in tqdm(pages):
+        page_url = page[0]
+        content = mediawikiapi.get_page_content(page_url)
+        for index, i in enumerate(page[3:], start=2):
             if i:
                 all_content.append(f"<h{index}>{i}</h{index}>")
                 lines += 1
@@ -88,7 +91,7 @@ def main(pages: list[list[str]], title: str, author: str, link: str) -> None:
                 {
                     "line_index_1": index,
                     "heRef_2": "הערות",
-                    "path_2": f"הערות על {title}.txt",
+                    "path_2": f"הערות על {file_name}.txt",
                     "line_index_2": int(i) + sup_num,
                     "Conection Type": "commentary"
                 } for i in find
@@ -110,9 +113,9 @@ def main(pages: list[list[str]], title: str, author: str, link: str) -> None:
             v = html.unescape(v)
             all_sup.append(f'{k} {v}')
             sup_num += 1
-    file_path = target_dir / f"{title}.txt"
-    json_file_path = target_dir / f"{title}_links.json"
-    comments_file_path = target_dir / f"הערות על {title}.txt"
+    file_path = target_dir / f"{file_name}.txt"
+    json_file_path = target_dir / f"{file_name}_links.json"
+    comments_file_path = target_dir / f"הערות על {file_name}.txt"
 
     if dict_links:
         with json_file_path.open('w', encoding='utf-8') as f:
@@ -127,9 +130,14 @@ def main(pages: list[list[str]], title: str, author: str, link: str) -> None:
 # file_path = r"C:\Users\User\Downloads\אוצר הספרים היהודי השיתופי - עץ הדר.csv"
 # book_title = "עץ הדר"
 # book_author = ""
-for author, book_name, link, rows in iter_books_with_author(Path(r"C:\Users\User\Downloads\ויקיטקסט_3.xlsx")):
-    print("מחבר:", author)
-    print(f"{book_name=}:")
-    # main(Path(file_path), book_title, book_author)
-    main(rows, book_name, author, link)
-    print(f"סיים: {book_name}")
+def main() -> None:
+    for author, book_name, link, rows in iter_books_with_author(Path(r"C:\Users\User\Downloads\ויקיטקסט_5.xlsx")):
+        print("מחבר:", author)
+        print(f"{book_name=}:")
+        # main(Path(file_path), book_title, book_author)
+        process_book(rows, book_name, author, link)
+        print(f"סיים: {book_name}")
+
+
+if __name__ == "__main__":
+    main()

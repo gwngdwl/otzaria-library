@@ -7,8 +7,9 @@
 *func:sort_by_name
 """
 
-from collections import defaultdict
 import re
+from collections import defaultdict
+
 import gematriapy
 
 
@@ -23,9 +24,7 @@ def split_list_by_first_letter(input_list: list, folder: str) -> dict[str, list[
 
 
 def sanitize_filename(filename: str) -> str:
-    """מסיר תווים לא חוקיים לשמות תיקייה וקובץ ב windows"""
-    sanitized_filename = re.sub(r'[\\/:*?<>|]', '', filename).replace('"', "''").replace('_', ' ')
-    return sanitized_filename.strip()
+    return re.sub(r'[\\/:*"?<>|\u200E\u200F\u202A\u202B\u202C\u202D\u202E]', '', filename).replace('_', ' ').strip()
 
 
 def sort_by_name(file_name: str) -> int:

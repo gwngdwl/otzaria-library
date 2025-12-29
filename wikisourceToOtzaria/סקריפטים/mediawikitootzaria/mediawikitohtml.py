@@ -44,7 +44,7 @@ def remove_templates_old(wikitext: str) -> str:
     return cleaned_text
 
 
-def wikitext_to_html(wikitext: str, start_heading_level=2) -> str:
+def wikitext_to_html(wikitext: str, start_heading_level: int = 2) -> str:
     """ממיר קידודי מדיה ויקי לhtml, עדיין צריך לטפל ברשימות מקוננות וטבלאות"""
     # Step 1: Identify and protect HTML regions
     html_tags_pattern = re.compile(r"<(pre|nowiki)[^>]*>.*?</\1[^>]*>", re.DOTALL)  # Matches complete HTML tags

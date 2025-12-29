@@ -24,7 +24,8 @@ wikisource_replacement_dict: dict[str, Callable[[Template], str]] = {
     "קישור למחבר": template_funcs.remove,
     "כו": template_funcs.remove,
     "הפניה-גמ": partial(template_funcs.keep_some_params, params_to_keep=[0, 1, 2]),
-    "ממ": template_funcs.parenthesize_only
+    "ממ": template_funcs.parenthesize_only,
+    "צבע גופן": partial(template_funcs.keep_some_params, params_to_keep=[1])
 }
 
 replacement_dict: dict[str, TemplateAction] = {}
