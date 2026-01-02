@@ -5,14 +5,6 @@ from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
-from pyluach import dates
-
-
-def new_folder_name() -> tuple[str, str]:
-    today = dates.HebrewDate.today()
-    month = today.month_name(hebrew=True)
-    year = today.hebrew_year(withgershayim=False)
-    return year, month
 
 
 def sanitize_filename(filename: str) -> str:
@@ -211,11 +203,6 @@ not_kosher_file = Path(__file__).parent / "not_kosher_file.txt"
 need_to_check_file = Path(__file__).parent / "need_to_check.txt"
 base_url = "https://raw.githubusercontent.com/projectbenyehuda/public_domain_dump/refs/heads/master/html"
 csv_path = Path(__file__).parent / "list.csv"
-year, month = new_folder_name()
-destination_path = Path(__file__).parent.parent / "ספרים" / "לא ממויין" / year / month
-num = 1
-while destination_path.exists():
-    num += 1
-    destination_path = Path(__file__).parent.parent / "ספרים" / "לא ממויין" / year / f"{month}_{num}"
+destination_path = Path(__file__).parent.parent / "ספרים" / "לא ממויין"
 
 main(url, kosher_file, base_url, not_kosher_file, need_to_check_file, csv_path, destination_path)
