@@ -69,6 +69,8 @@ def process_book(pages: list[list[str]], title: str, author: str, link: str) -> 
     h_level = 2
     for page in tqdm(pages):
         page_url = page[0]
+        if not page_url.strip():
+            continue
         content = mediawikiapi.get_page_content(page_url)
         for index, i in enumerate(page[3:], start=2):
             if i:
@@ -131,7 +133,7 @@ def process_book(pages: list[list[str]], title: str, author: str, link: str) -> 
 # book_title = "עץ הדר"
 # book_author = ""
 def main() -> None:
-    for author, book_name, link, rows in iter_books_with_author(Path(r"C:\Users\User\Downloads\ויקיטקסט_5.xlsx")):
+    for author, book_name, link, rows in iter_books_with_author(Path(r"C:\Users\User\Downloads\ויקיטקסט_6.xlsx")):
         print("מחבר:", author)
         print(f"{book_name=}:")
         # main(Path(file_path), book_title, book_author)

@@ -10,10 +10,29 @@ from openpyxl import load_workbook
 
 API_URL = "https://he.wikisource.org/w/api.php"
 BASE_URL = "https://he.wikisource.org/wiki/"
+API_URL = "https://wiki.jewishbooks.org.il/mediawiki/api.php"
+BASE_URL = "https://wiki.jewishbooks.org.il/mediawiki/wiki/"
 SESSION = requests.Session()
 HEADERS = {
     'User-Agent': 'OtzariaLibraryBot/1.0 (https://otzaria.com; bot for transferring content from Wikisource to Otzaria)',
 }
+
+
+def get_old_data(csv_file_path: Path) -> defaultdict[str, defaultdict[str, set]]:
+    data = defaultdict(lambda: defaultdict(set))
+    if not csv_file_path.exists():
+        return data
+    with csv_file_path.open("r", encoding="utf-8-sig") as f:
+        reader = csv.reader(f)
+        next(reader)
+        for row in reader:
+            data[row[0]]["param_len"] = set(map(int, row[2].split(","))) if row[2] else set()
+            data[row[0]]["books"] = set(row[3].split(","))
+            data[row[0]]["action"] = set(row[4])
+            data[row[0]]["action_comments"] = set(row[5])
+            data[row[0]]["template_desc"] = set(row[6])
+            data[row[0]]["comments"] = set(row[7])
+    return data
 
 
 def get_page_content(page_title: str) -> str:
@@ -71,8 +90,8 @@ def iter_books_with_author(xlsx_file_path: Path) -> Generator[tuple[str, list[li
         done = row[done_idx]
         if not book_name or book_name not in wb.sheetnames:
             continue
-        if done is True:
-            continue
+        # if done is True:
+        #     continue
 
         ws = wb[book_name]
         rows_iter = ws.iter_rows(values_only=True)
@@ -83,8 +102,10 @@ def iter_books_with_author(xlsx_file_path: Path) -> Generator[tuple[str, list[li
 
 
 def main():
-    books_templates = defaultdict(lambda: defaultdict(set))
-    for book_name, rows in iter_books_with_author(Path(__file__).parent / "ויקיטקסט_4.xlsx"):
+    output_file = Path(__file__).parent / "templates_2.csv"
+    books_templates = get_old_data(output_file)
+    # for book_name, rows in iter_books_with_author(Path(__file__).parent / "ויקיטקסט_4.xlsx"):
+    for book_name, rows in iter_books_with_author(Path(r"C:\Users\User\Downloads\אוצר הספרים היהודי השיתופי_4.xlsx")):
         print(f"ספר: {book_name}, דפים: {len(rows)}")
         for row in rows:
             content = get_page_content(row[0])
@@ -92,13 +113,24 @@ def main():
             for template_name, param_count in filter_templates(content):
                 books_templates[template_name]["param_len"].add(param_count)
                 books_templates[template_name]["books"].add(book_name)
-    output_file = Path(__file__).parent / "templates.csv"
     with output_file.open("w", encoding="utf-8-sig", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["תבנית", "קישור לדף התבנית", "מספר פרמטרים", "ספרים"])
+        writer.writerow(["תבנית", "קישור לדף התבנית", "מספר פרמטרים", "ספרים", "פעולה לביצוע", "הערות לביצוע", "הסבר על התבנית", "הערות כלליות"])
+
         for template_name in sorted(books_templates):
             template_link = f"{BASE_URL}תבנית:{template_name.replace(' ', '_')}"
-            writer.writerow([template_name, template_link, ",".join(map(str, sorted(books_templates[template_name]["param_len"]))), ",".join(sorted(books_templates[template_name]["books"]))])
+            writer.writerow(
+                [
+                    template_name,
+                    template_link,
+                    ",".join(map(str, sorted(books_templates[template_name]["param_len"]))),
+                    ",".join(sorted(books_templates[template_name]["books"])),
+                    next(iter(books_templates[template_name]["action"])) if books_templates[template_name]["action"] else "",
+                    next(iter(books_templates[template_name]["action_comments"])) if books_templates[template_name]["action_comments"] else "",
+                    next(iter(books_templates[template_name]["template_desc"])) if books_templates[template_name]["template_desc"] else "",
+                    next(iter(books_templates[template_name]["comments"])) if books_templates[template_name]["comments"] else "",
+                ]
+            )
 
 
 if __name__ == "__main__":
