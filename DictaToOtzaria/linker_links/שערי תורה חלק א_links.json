@@ -15,6 +15,13 @@
             }
         },
         {
+            "start": 304,
+            "end": 330,
+            "refs": {
+                "Mishneh Torah, Plaintiff and Defendant 6:3": "משנה תורה, הלכות טוען ונטען ו׳:ג׳"
+            }
+        },
+        {
             "start": 572,
             "end": 607,
             "refs": {
@@ -26,6 +33,14 @@
             "end": 935,
             "refs": {
                 "Keritot 12a": "כריתות י״ב א"
+            }
+        },
+        {
+            "start": 987,
+            "end": 1011,
+            "refs": {
+                "Makkot 5b:8-9": "מכות ה׳ ב:ח׳-ט׳",
+                "Makkot 5b:21-6a:2": "מכות ה׳ ב:כ״א-ו׳ א:ב׳"
             }
         }
     ],
@@ -108,6 +123,20 @@
             "refs": {
                 "Gittin 64": "גיטין ס״ד"
             }
+        },
+        {
+            "start": 1884,
+            "end": 1922,
+            "refs": {
+                "Lechem Mishneh on Mishneh Torah, Divorce 1:13": "לחם משנה על משנה תורה, הלכות גירושין א׳:י״ג"
+            }
+        },
+        {
+            "start": 2527,
+            "end": 2529,
+            "refs": {
+                "Lechem Mishneh on Mishneh Torah, Divorce 1:13": "לחם משנה על משנה תורה, הלכות גירושין א׳:י״ג"
+            }
         }
     ],
     "25": [
@@ -147,6 +176,13 @@
             "refs": {
                 "Shabbat 46b": "שבת מ״ו ב"
             }
+        },
+        {
+            "start": 3362,
+            "end": 3390,
+            "refs": {
+                "Mishneh Torah, Levirate Marriage and Release 3:5": "משנה תורה, הלכות יבום וחליצה ג׳:ה׳"
+            }
         }
     ],
     "27": [
@@ -180,6 +216,13 @@
             "end": 351,
             "refs": {
                 "Tosafot on Bava Batra 44b:7:1": "תוספות על בבא בתרא מ״ד ב:ז׳:א׳"
+            }
+        },
+        {
+            "start": 1494,
+            "end": 1527,
+            "refs": {
+                "Mishneh Torah, Plaintiff and Defendant 6:3": "משנה תורה, הלכות טוען ונטען ו׳:ג׳"
             }
         },
         {
@@ -512,6 +555,15 @@
             }
         }
     ],
+    "70": [
+        {
+            "start": 11,
+            "end": 37,
+            "refs": {
+                "Mishneh Torah, Levirate Marriage and Release 4:31": "משנה תורה, הלכות יבום וחליצה ד׳:ל״א"
+            }
+        }
+    ],
     "71": [
         {
             "start": 120,
@@ -707,13 +759,6 @@
             "end": 2839,
             "refs": {
                 "Gittin 32a:3-48b:5": "גיטין ל״ב א:ג׳-מ״ח ב:ה׳"
-            }
-        },
-        {
-            "start": 2890,
-            "end": 2895,
-            "refs": {
-                "Tosafot on Gittin 32a": "תוספות על גיטין ל״ב א"
             }
         },
         {
@@ -7408,6 +7453,13 @@
             "refs": {
                 "Kiddushin 79a": "קידושין ע״ט א"
             }
+        },
+        {
+            "start": 765,
+            "end": 791,
+            "refs": {
+                "Gittin 17a:9-10": "גיטין י״ז א:ט׳-י׳"
+            }
         }
     ],
     "718": [
@@ -7453,13 +7505,6 @@
             "end": 3113,
             "refs": {
                 "Bava Kamma 15a": "בבא קמא ט״ו א"
-            }
-        },
-        {
-            "start": 3196,
-            "end": 3203,
-            "refs": {
-                "Rashi on Bava Kamma 15a": "רש\"י על בבא קמא ט״ו א"
             }
         },
         {
@@ -7648,6 +7693,15 @@
             }
         }
     ],
+    "762": [
+        {
+            "start": 253,
+            "end": 283,
+            "refs": {
+                "Mishneh Torah, Plaintiff and Defendant 1:9": "משנה תורה, הלכות טוען ונטען א׳:ט׳"
+            }
+        }
+    ],
     "764": [
         {
             "start": 560,
@@ -7711,6 +7765,14 @@
             "end": 62,
             "refs": {
                 "Bava Metzia 96a": "בבא מציעא צ״ו א"
+            }
+        },
+        {
+            "start": 1626,
+            "end": 1628,
+            "refs": {
+                "Mishnah Bava Kamma 1": "משנה בבא קמא א׳",
+                "Bava Kamma 2a:1-17a:12": "בבא קמא ב׳ א:א׳-י״ז א:י״ב"
             }
         }
     ],

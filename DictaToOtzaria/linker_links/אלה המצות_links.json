@@ -1,0 +1,1197 @@
+{
+    "22": [
+        {
+            "start": 166,
+            "end": 175,
+            "refs": {
+                "Makkot 23": "מכות כ״ג"
+            }
+        }
+    ],
+    "26": [
+        {
+            "start": 354,
+            "end": 365,
+            "refs": {
+                "Mishnah Pesachim 2": "משנה פסחים ב׳",
+                "Pesachim 21a:8-42a:14": "פסחים כ״א א:ח׳-מ״ב א:י״ד"
+            }
+        }
+    ],
+    "38": [
+        {
+            "start": 10,
+            "end": 16,
+            "refs": {
+                "Menachot 38a:4-52b:11": "מנחות ל״ח א:ד׳-נ״ב ב:י״א"
+            }
+        }
+    ],
+    "40": [
+        {
+            "start": 25,
+            "end": 31,
+            "refs": {
+                "Leviticus 19:1-20:27": "ויקרא י״ט:א׳-כ׳:כ״ז"
+            }
+        }
+    ],
+    "41": [
+        {
+            "start": 10,
+            "end": 16,
+            "refs": {
+                "Menachot 52b:12-63b:8": "מנחות נ״ב ב:י״ב-ס״ג ב:ח׳"
+            }
+        }
+    ],
+    "65": [
+        {
+            "start": 2021,
+            "end": 2040,
+            "refs": {
+                "Yevamot 66a:4-70a:11": "יבמות ס״ו א:ד׳-ע׳ א:י״א",
+                "Jerusalem Talmud Yevamot 7:1:1-8:3": "תלמוד ירושלמי יבמות ז׳:א׳:א׳-ח׳:ג׳"
+            }
+        }
+    ],
+    "75": [
+        {
+            "start": 3,
+            "end": 4,
+            "refs": {
+                "Mishnah Shevuot 7": "משנה שבועות ז׳",
+                "Shevuot 7": "שבועות ז׳",
+                "Shevuot 44b:8-49a:3": "שבועות מ״ד ב:ח׳-מ״ט א:ג׳"
+            }
+        }
+    ],
+    "76": [
+        {
+            "start": 3,
+            "end": 4,
+            "refs": {
+                "Mishnah Shevuot 7:8": "משנה שבועות ז׳:ח׳",
+                "Mishnah Shevuot 8": "משנה שבועות ח׳",
+                "Shevuot 8": "שבועות ח׳",
+                "Shevuot 49a:4-49b:16": "שבועות מ״ט א:ד׳-מ״ט ב:ט״ז"
+            }
+        }
+    ],
+    "80": [
+        {
+            "start": 344,
+            "end": 359,
+            "refs": {
+                "Chullin 138b:3-142a:10": "חולין קל״ח ב:ג׳-קמ״ב א:י׳"
+            }
+        },
+        {
+            "start": 519,
+            "end": 531,
+            "refs": {
+                "Sanhedrin 75a:7-84a:18": "סנהדרין ע״ה א:ז׳-פ״ד א:י״ח",
+                "Jerusalem Talmud Sanhedrin 9:1:1-7:5": "תלמוד ירושלמי סנהדרין ט׳:א׳:א׳-ז׳:ה׳"
+            }
+        }
+    ],
+    "84": [
+        {
+            "start": 205,
+            "end": 222,
+            "refs": {
+                "Megillah 19": "מגילה י״ט"
+            }
+        },
+        {
+            "start": 2896,
+            "end": 2915,
+            "refs": {
+                "Eruvin 13": "עירובין י״ג"
+            }
+        },
+        {
+            "start": 3469,
+            "end": 3485,
+            "refs": {
+                "Sukkah 42b:5-50a:5": "סוכה מ״ב ב:ה׳-נ׳ א:ה׳",
+                "Jerusalem Talmud Sukkah 4:1:1-7:3": "תלמוד ירושלמי סוכה ד׳:א׳:א׳-ז׳:ג׳"
+            }
+        }
+    ],
+    "85": [
+        {
+            "start": 1745,
+            "end": 1760,
+            "refs": {
+                "Chagigah 11": "חגיגה י״א"
+            }
+        }
+    ],
+    "87": [
+        {
+            "start": 21,
+            "end": 34,
+            "refs": {
+                "Sanhedrin 79": "סנהדרין ע״ט"
+            }
+        }
+    ],
+    "88": [
+        {
+            "start": 34,
+            "end": 45,
+            "refs": {
+                "Pesachim 13": "פסחים י״ג"
+            }
+        }
+    ],
+    "89": [
+        {
+            "start": 22,
+            "end": 29,
+            "refs": {
+                "Pesachim 109": "פסחים ק״ט"
+            }
+        },
+        {
+            "start": 30,
+            "end": 41,
+            "refs": {
+                "Yoma 31": "יומא ל״א"
+            }
+        }
+    ],
+    "91": [
+        {
+            "start": 71,
+            "end": 81,
+            "refs": {
+                "Yevamot 3": "יבמות ג׳"
+            }
+        }
+    ],
+    "92": [
+        {
+            "start": 29,
+            "end": 38,
+            "refs": {
+                "Shabbat 72": "שבת ע״ב"
+            }
+        }
+    ],
+    "96": [
+        {
+            "start": 115,
+            "end": 128,
+            "refs": {
+                "Sanhedrin 21": "סנהדרין כ״א"
+            }
+        },
+        {
+            "start": 184,
+            "end": 194,
+            "refs": {
+                "Mishnah Zevachim 4": "משנה זבחים ד׳",
+                "Zevachim 36b:16-47a:11": "זבחים ל״ו ב:ט״ז-מ״ז א:י״א",
+                "Zevachim 84": "זבחים פ״ד"
+            }
+        },
+        {
+            "start": 196,
+            "end": 212,
+            "refs": {
+                "Yoma 13": "יומא י״ג"
+            }
+        }
+    ],
+    "99": [
+        {
+            "start": 75,
+            "end": 84,
+            "refs": {
+                "Mishnah Avodah Zarah 1": "משנה עבודה זרה א׳",
+                "Avodah Zarah 2a:1-22a:10": "עבודה זרה ב׳ א:א׳-כ״ב א:י׳"
+            }
+        },
+        {
+            "start": 237,
+            "end": 249,
+            "refs": {
+                "Shabbat 57a:1-67b:16": "שבת נ״ז א:א׳-ס״ז ב:ט״ז",
+                "Jerusalem Talmud Shabbat 6:1:1-9:15": "תלמוד ירושלמי שבת ו׳:א׳:א׳-ט׳:ט״ו"
+            }
+        }
+    ],
+    "128": [
+        {
+            "start": 512,
+            "end": 525,
+            "refs": {
+                "Menachot 87a:21-94a:10": "מנחות פ״ז א:כ״א-צ״ד א:י׳"
+            }
+        }
+    ],
+    "132": [
+        {
+            "start": 776,
+            "end": 786,
+            "refs": {
+                "Pirkei Avot 1": "משנה אבות א׳"
+            }
+        }
+    ],
+    "134": [
+        {
+            "start": 475,
+            "end": 485,
+            "refs": {
+                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו",
+                "Jerusalem Talmud Berakhot 9:1:1-5:22": "תלמוד ירושלמי ברכות ט׳:א׳:א׳-ה׳:כ״ב"
+            }
+        }
+    ],
+    "136": [
+        {
+            "start": 433,
+            "end": 453,
+            "refs": {
+                "Bamidbar Rabbah 13": "במדבר רבה י״ג"
+            }
+        }
+    ],
+    "177": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Genesis 12:1-17:27": "בראשית י״ב:א׳-י״ז:כ״ז"
+            }
+        }
+    ],
+    "189": [
+        {
+            "start": 1614,
+            "end": 1634,
+            "refs": {
+                "Zohar, Yitro 8:102-106": "ספר הזהר, יתרו ח׳:ק״ב-ק״ו"
+            }
+        }
+    ],
+    "254": [
+        {
+            "start": 4,
+            "end": 8,
+            "refs": {
+                "Exodus 13:17-17:16": "שמות י״ג:י״ז-י״ז:ט״ז",
+                "Numbers 13:1-15:41": "במדבר י״ג:א׳-ט״ו:מ״א"
+            }
+        }
+    ],
+    "297": [
+        {
+            "start": 1391,
+            "end": 1396,
+            "refs": {
+                "Numbers 1:1-4:20": "במדבר א׳:א׳-ד׳:כ׳",
+                "Numbers 4:21-7:89": "במדבר ד׳:כ״א-ז׳:פ״ט",
+                "Numbers 8:1-12:16": "במדבר ח׳:א׳-י״ב:ט״ז",
+                "Numbers 13:1-15:41": "במדבר י״ג:א׳-ט״ו:מ״א",
+                "Numbers 16:1-18:32": "במדבר ט״ז:א׳-י״ח:ל״ב",
+                "Numbers 19:1-22:1": "במדבר י״ט:א׳-כ״ב:א׳",
+                "Numbers 22:2-25:9": "במדבר כ״ב:ב׳-כ״ה:ט׳",
+                "Numbers 25:10-30:1": "במדבר כ״ה:י׳-ל׳:א׳",
+                "Numbers 30:2-32:42": "במדבר ל׳:ב׳-ל״ב:מ״ב",
+                "Numbers 33:1-36:13": "במדבר ל״ג:א׳-ל״ו:י״ג",
+                "Midrash Tanchuma, Bereshit": "מדרש תנחומא, בראשית",
+                "Midrash Tanchuma, Noach": "מדרש תנחומא, נח",
+                "Midrash Tanchuma, Lech Lecha": "מדרש תנחומא, לך לך",
+                "Midrash Tanchuma, Vayera": "מדרש תנחומא, וירא",
+                "Midrash Tanchuma, Chayei Sara": "מדרש תנחומא, חיי שרה",
+                "Midrash Tanchuma, Toldot": "מדרש תנחומא, תולדות",
+                "Midrash Tanchuma, Vayetzei": "מדרש תנחומא, ויצא",
+                "Midrash Tanchuma, Vayishlach": "מדרש תנחומא, וישלח",
+                "Midrash Tanchuma, Vayeshev": "מדרש תנחומא, וישב",
+                "Midrash Tanchuma, Miketz": "מדרש תנחומא, מקץ",
+                "Midrash Tanchuma, Vayigash": "מדרש תנחומא, ויגש",
+                "Midrash Tanchuma, Vayechi": "מדרש תנחומא, ויחי",
+                "Midrash Tanchuma, Shemot": "מדרש תנחומא, שמות",
+                "Midrash Tanchuma, Vaera": "מדרש תנחומא, וארא",
+                "Midrash Tanchuma, Bo": "מדרש תנחומא, בא",
+                "Midrash Tanchuma, Beshalach": "מדרש תנחומא, בשלח",
+                "Midrash Tanchuma, Yitro": "מדרש תנחומא, יתרו",
+                "Midrash Tanchuma, Mishpatim": "מדרש תנחומא, משפטים",
+                "Midrash Tanchuma, Terumah": "מדרש תנחומא, תרומה",
+                "Midrash Tanchuma, Tetzaveh": "מדרש תנחומא, תצוה",
+                "Midrash Tanchuma, Ki Tisa": "מדרש תנחומא, כי תשא",
+                "Midrash Tanchuma, Vayakhel": "מדרש תנחומא, ויקהל",
+                "Midrash Tanchuma, Pekudei": "מדרש תנחומא, פקודי",
+                "Midrash Tanchuma, Vayikra": "מדרש תנחומא, ויקרא",
+                "Midrash Tanchuma, Tzav": "מדרש תנחומא, צו",
+                "Midrash Tanchuma, Shmini": "מדרש תנחומא, שמיני",
+                "Midrash Tanchuma, Tazria": "מדרש תנחומא, תזריע",
+                "Midrash Tanchuma, Metzora": "מדרש תנחומא, מצורע",
+                "Midrash Tanchuma, Achrei Mot": "מדרש תנחומא, אחרי מות",
+                "Midrash Tanchuma, Kedoshim": "מדרש תנחומא, קדושים",
+                "Midrash Tanchuma, Emor": "מדרש תנחומא, אמור",
+                "Midrash Tanchuma, Behar": "מדרש תנחומא, בהר",
+                "Midrash Tanchuma, Bechukotai": "מדרש תנחומא, בחוקתי",
+                "Midrash Tanchuma, Bamidbar": "מדרש תנחומא, במדבר",
+                "Midrash Tanchuma, Nasso": "מדרש תנחומא, נשא",
+                "Midrash Tanchuma, Beha'alotcha": "מדרש תנחומא, בהעלותך",
+                "Midrash Tanchuma, Sh'lach": "מדרש תנחומא, שלח",
+                "Midrash Tanchuma, Korach": "מדרש תנחומא, קרח",
+                "Midrash Tanchuma, Chukat": "מדרש תנחומא, חקת",
+                "Midrash Tanchuma, Balak": "מדרש תנחומא, בלק",
+                "Midrash Tanchuma, Pinchas": "מדרש תנחומא, פנחס",
+                "Midrash Tanchuma, Matot": "מדרש תנחומא, מטות",
+                "Midrash Tanchuma, Masei": "מדרש תנחומא, מסעי",
+                "Midrash Tanchuma, Devarim": "מדרש תנחומא, דברים",
+                "Midrash Tanchuma, Vaetchanan": "מדרש תנחומא, ואתחנן",
+                "Midrash Tanchuma, Eikev": "מדרש תנחומא, עקב",
+                "Midrash Tanchuma, Re'eh": "מדרש תנחומא, ראה",
+                "Midrash Tanchuma, Shoftim": "מדרש תנחומא, שופטים",
+                "Midrash Tanchuma, Ki Teitzei": "מדרש תנחומא, כי תצא",
+                "Midrash Tanchuma, Ki Tavo": "מדרש תנחומא, כי תבוא",
+                "Midrash Tanchuma, Nitzavim": "מדרש תנחומא, נצבים",
+                "Midrash Tanchuma, Vayeilech": "מדרש תנחומא, וילך",
+                "Midrash Tanchuma, Ha'Azinu": "מדרש תנחומא, האזינו",
+                "Midrash Tanchuma, V'Zot HaBerachah": "מדרש תנחומא, וזאת הברכה"
+            }
+        }
+    ],
+    "303": [
+        {
+            "start": 187,
+            "end": 199,
+            "refs": {
+                "Makkot 2b": "מכות ב׳ ב"
+            }
+        }
+    ],
+    "317": [
+        {
+            "start": 4,
+            "end": 10,
+            "refs": {
+                "Exodus 21:1-24:18": "שמות כ״א:א׳-כ״ד:י״ח"
+            }
+        }
+    ],
+    "319": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Exodus 21:42": "שמות כ״א:מ״ב"
+            }
+        }
+    ],
+    "321": [
+        {
+            "start": 1347,
+            "end": 1364,
+            "refs": {
+                "Mishneh Torah, Slaves 3": "משנה תורה, הלכות עבדים ג׳"
+            }
+        },
+        {
+            "start": 1646,
+            "end": 1659,
+            "refs": {
+                "Mishnah Kiddushin 1": "משנה קידושין א׳",
+                "Kiddushin 2a:1-41a:2": "קידושין ב׳ א:א׳-מ״א א:ב׳"
+            }
+        },
+        {
+            "start": 2033,
+            "end": 2036,
+            "refs": {
+                "Leviticus 25:1-26:2": "ויקרא כ״ה:א׳-כ״ו:ב׳"
+            }
+        }
+    ],
+    "322": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Leviticus 25:43": "ויקרא כ״ה:מ״ג",
+                "Mishnah Kiddushin 1:3": "משנה קידושין א׳:ג׳",
+                "Kiddushin 43": "קידושין מ״ג"
+            }
+        }
+    ],
+    "338": [
+        {
+            "start": 184,
+            "end": 201,
+            "refs": {
+                "Sanhedrin 52b": "סנהדרין נ״ב ב"
+            }
+        }
+    ],
+    "404": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Sefer HaChinukh 66": "ספר החינוך ס״ו"
+            }
+        }
+    ],
+    "411": [
+        {
+            "start": 1286,
+            "end": 1299,
+            "refs": {
+                "Bava Metzia 60b:8-75b:14": "בבא מציעא ס׳ ב:ח׳-ע״ה ב:י״ד",
+                "Jerusalem Talmud Bava Metzia 5:1:1-8:2": "תלמוד ירושלמי בבא מציעא ה׳:א׳:א׳-ח׳:ב׳"
+            }
+        }
+    ],
+    "423": [
+        {
+            "start": 347,
+            "end": 365,
+            "refs": {
+                "Zohar, Kedoshim 14:84-15:93": "ספר הזהר, קדושים י״ד:פ״ד-ט״ו:צ״ג"
+            }
+        }
+    ],
+    "465": [
+        {
+            "start": 626,
+            "end": 644,
+            "refs": {
+                "II Chronicles 19": "דברי הימים ב י״ט"
+            }
+        }
+    ],
+    "466": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "II Chronicles 19:84": "דברי הימים ב י״ט:פ״ד"
+            }
+        }
+    ],
+    "471": [
+        {
+            "start": 1808,
+            "end": 1823,
+            "refs": {
+                "Pesachim 50a:23-57b:3": "פסחים נ׳ א:כ״ג-נ״ז ב:ג׳",
+                "Jerusalem Talmud Pesachim 4:1:1-9:9": "תלמוד ירושלמי פסחים ד׳:א׳:א׳-ט׳:ט׳"
+            }
+        }
+    ],
+    "485": [
+        {
+            "start": 37,
+            "end": 49,
+            "refs": {
+                "Exodus 30:11-34:35": "שמות ל׳:י״א-ל״ד:ל״ה"
+            }
+        }
+    ],
+    "486": [
+        {
+            "start": 4,
+            "end": 5,
+            "refs": {
+                "Exodus 30:90": "שמות ל׳:צ׳"
+            }
+        }
+    ],
+    "497": [
+        {
+            "start": 94,
+            "end": 113,
+            "refs": {
+                "Chullin 114": "חולין קי״ד"
+            }
+        }
+    ],
+    "498": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Pesachim 93": "פסחים צ״ג",
+                "Chullin 93": "חולין צ״ג"
+            }
+        }
+    ],
+    "500": [
+        {
+            "start": 40,
+            "end": 52,
+            "refs": {
+                "Deuteronomy 3:23-7:11": "דברים ג׳:כ״ג-ז׳:י״א"
+            }
+        }
+    ],
+    "511": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Leviticus 6:1-8:36": "ויקרא ו׳:א׳-ח׳:ל״ו"
+            }
+        }
+    ],
+    "515": [
+        {
+            "start": 4,
+            "end": 8,
+            "refs": {
+                "Exodus 27:20-30:10": "שמות כ״ז:כ׳-ל׳:י׳"
+            }
+        }
+    ],
+    "517": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Exodus 27:98": "שמות כ״ז:צ״ח"
+            }
+        }
+    ],
+    "518": [
+        {
+            "start": 5,
+            "end": 6,
+            "refs": {
+                "Exodus 40": "שמות מ׳"
+            }
+        }
+    ],
+    "548": [
+        {
+            "start": 56,
+            "end": 65,
+            "refs": {
+                "Deuteronomy 7:12-11:25": "דברים ז׳:י״ב-י״א:כ״ה"
+            }
+        }
+    ],
+    "549": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Deuteronomy 7:112": "דברים ז׳:קי״ב"
+            }
+        }
+    ],
+    "554": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Exodus 35:1-38:20": "שמות ל״ה:א׳-ל״ח:כ׳"
+            }
+        }
+    ],
+    "556": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Exodus 35:114": "שמות ל״ה:קי״ד"
+            }
+        }
+    ],
+    "561": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Leviticus 1:115": "ויקרא א׳:קט״ו"
+            }
+        }
+    ],
+    "563": [
+        {
+            "start": 37,
+            "end": 45,
+            "refs": {
+                "Leviticus 6:1-8:36": "ויקרא ו׳:א׳-ח׳:ל״ו"
+            }
+        }
+    ],
+    "564": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Leviticus 6:116": "ויקרא ו׳:קט״ז"
+            }
+        }
+    ],
+    "605": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Leviticus 6:1-8:36": "ויקרא ו׳:א׳-ח׳:ל״ו"
+            }
+        }
+    ],
+    "607": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Leviticus 6:131": "ויקרא ו׳:קל״א"
+            }
+        }
+    ],
+    "649": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Leviticus 9:1-11:47": "ויקרא ט׳:א׳-י״א:מ״ז"
+            }
+        }
+    ],
+    "651": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Leviticus 9:149": "ויקרא ט׳:קמ״ט"
+            }
+        }
+    ],
+    "677": [
+        {
+            "start": 66,
+            "end": 79,
+            "refs": {
+                "Sefer Mitzvot Katan 96": "ספר מצוות קטן צ״ו"
+            }
+        }
+    ],
+    "678": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Sefer Mitzvot Katan 160": "ספר מצוות קטן ק״ס"
+            }
+        }
+    ],
+    "693": [
+        {
+            "start": 228,
+            "end": 247,
+            "refs": {
+                "Makkot 16b": "מכות ט״ז ב"
+            }
+        }
+    ],
+    "701": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Leviticus 12:1-13:59": "ויקרא י״ב:א׳-י״ג:נ״ט"
+            }
+        }
+    ],
+    "703": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Leviticus 12:166": "ויקרא י״ב:קס״ו"
+            }
+        }
+    ],
+    "719": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Leviticus 14:1-15:33": "ויקרא י״ד:א׳-ט״ו:ל״ג"
+            }
+        }
+    ],
+    "721": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Leviticus 14:173": "ויקרא י״ד:קע״ג"
+            }
+        }
+    ],
+    "883": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Sefer HaChinukh 233": "ספר החינוך רל״ג"
+            }
+        }
+    ],
+    "957": [
+        {
+            "start": 488,
+            "end": 511,
+            "refs": {
+                "Mishneh Torah, Foreign Worship and Customs of the Nations 1": "משנה תורה, הלכות עבודה זרה וחוקות הגויים א׳"
+            }
+        }
+    ],
+    "968": [
+        {
+            "start": 173,
+            "end": 185,
+            "refs": {
+                "Mishneh Torah, Mourning 2": "משנה תורה, הלכות אבל ב׳"
+            }
+        }
+    ],
+    "1109": [
+        {
+            "start": 18,
+            "end": 28,
+            "refs": {
+                "Numbers 25:10-30:1": "במדבר כ״ה:י׳-ל׳:א׳"
+            }
+        }
+    ],
+    "1129": [
+        {
+            "start": 12,
+            "end": 22,
+            "refs": {
+                "Numbers 25:10-30:1": "במדבר כ״ה:י׳-ל׳:א׳"
+            }
+        }
+    ],
+    "1130": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Numbers 25:321": "במדבר כ״ה:שכ״א"
+            }
+        }
+    ],
+    "1142": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Leviticus 25:1-26:2": "ויקרא כ״ה:א׳-כ״ו:ב׳"
+            }
+        }
+    ],
+    "1144": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Leviticus 25:326": "ויקרא כ״ה:שכ״ו"
+            }
+        }
+    ],
+    "1206": [
+        {
+            "start": 4,
+            "end": 10,
+            "refs": {
+                "Leviticus 26:3-27:34": "ויקרא כ״ו:ג׳-כ״ז:ל״ד"
+            }
+        }
+    ],
+    "1208": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Leviticus 26:350": "ויקרא כ״ו:ש״נ"
+            }
+        }
+    ],
+    "1251": [
+        {
+            "start": 1214,
+            "end": 1235,
+            "refs": {
+                "Zohar, Nasso 3:17-4:24": "ספר הזהר, נשא ג׳:י״ז-ד׳:כ״ד"
+            }
+        }
+    ],
+    "1291": [
+        {
+            "start": 195,
+            "end": 210,
+            "refs": {
+                "Mishnah Pesachim 6": "משנה פסחים ו׳",
+                "Pesachim 65b:10-73b:16": "פסחים ס״ה ב:י׳-ע״ג ב:ט״ז",
+                "Pesachim 86": "פסחים פ״ו"
+            }
+        }
+    ],
+    "1295": [
+        {
+            "start": 4,
+            "end": 11,
+            "refs": {
+                "Numbers 8:1-12:16": "במדבר ח׳:א׳-י״ב:ט״ז"
+            }
+        }
+    ],
+    "1297": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Numbers 8:380": "במדבר ח׳:ש״פ"
+            }
+        }
+    ],
+    "1354": [
+        {
+            "start": 13,
+            "end": 24,
+            "refs": {
+                "Numbers 1:1-4:20": "במדבר א׳:א׳-ד׳:כ׳"
+            }
+        }
+    ],
+    "1355": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Numbers 1:390": "במדבר א׳:ש״צ"
+            }
+        }
+    ],
+    "1360": [
+        {
+            "start": 55,
+            "end": 68,
+            "refs": {
+                "Zevachim 107": "זבחים ק״ז"
+            }
+        }
+    ],
+    "1371": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Numbers 19:1-22:1": "במדבר י״ט:א׳-כ״ב:א׳"
+            }
+        }
+    ],
+    "1373": [
+        {
+            "start": 4,
+            "end": 7,
+            "refs": {
+                "Numbers 19:397": "במדבר י״ט:שצ״ז"
+            }
+        }
+    ],
+    "1399": [
+        {
+            "start": 4,
+            "end": 8,
+            "refs": {
+                "Numbers 30:2-32:42": "במדבר ל׳:ב׳-ל״ב:מ״ב"
+            }
+        }
+    ],
+    "1407": [
+        {
+            "start": 4,
+            "end": 8,
+            "refs": {
+                "Numbers 33:1-36:13": "במדבר ל״ג:א׳-ל״ו:י״ג"
+            }
+        }
+    ],
+    "1409": [
+        {
+            "start": 4,
+            "end": 6,
+            "refs": {
+                "Numbers 33:408": "במדבר ל״ג:ת״ח"
+            }
+        }
+    ],
+    "1435": [
+        {
+            "start": 4,
+            "end": 10,
+            "refs": {
+                "Deuteronomy 3:23-7:11": "דברים ג׳:כ״ג-ז׳:י״א"
+            }
+        }
+    ],
+    "1491": [
+        {
+            "start": 1463,
+            "end": 1473,
+            "refs": {
+                "Berakhot 54a:1-64a:15": "ברכות נ״ד א:א׳-ס״ד א:ט״ו",
+                "Jerusalem Talmud Berakhot 9:1:1-5:22": "תלמוד ירושלמי ברכות ט׳:א׳:א׳-ה׳:כ״ב"
+            }
+        }
+    ],
+    "1503": [
+        {
+            "start": 781,
+            "end": 812,
+            "refs": {
+                "Shevuot 35b": "שבועות ל״ה ב"
+            }
+        }
+    ],
+    "1531": [
+        {
+            "start": 84,
+            "end": 94,
+            "refs": {
+                "Makkot 18": "מכות י״ח"
+            }
+        }
+    ],
+    "1561": [
+        {
+            "start": 43,
+            "end": 63,
+            "refs": {
+                "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction 19": "משנה תורה, הלכות סנהדרין והעונשין המסורין להם י״ט"
+            }
+        }
+    ],
+    "1598": [
+        {
+            "start": 34,
+            "end": 43,
+            "refs": {
+                "Makkot 21": "מכות כ״א"
+            }
+        }
+    ],
+    "1612": [
+        {
+            "start": 714,
+            "end": 728,
+            "refs": {
+                "Yoma 36b": "יומא ל״ו ב"
+            }
+        }
+    ],
+    "1633": [
+        {
+            "start": 690,
+            "end": 705,
+            "refs": {
+                "Vayikra Rabbah 34": "ויקרא רבה ל״ד"
+            }
+        },
+        {
+            "start": 1108,
+            "end": 1121,
+            "refs": {
+                "Nedarim 45b:1-48b:8": "נדרים מ״ה ב:א׳-מ״ח ב:ח׳",
+                "Bava Batra 2a:1-17a:7": "בבא בתרא ב׳ א:א׳-י״ז א:ז׳",
+                "Jerusalem Talmud Nedarim 5:1:1-6:5": "תלמוד ירושלמי נדרים ה׳:א׳:א׳-ו׳:ה׳",
+                "Jerusalem Talmud Bava Batra 1:1:1-5:6": "תלמוד ירושלמי בבא בתרא א׳:א׳:א׳-ה׳:ו׳",
+                "Jerusalem Talmud Bava Batra 1:1:2-5:6": "תלמוד ירושלמי בבא בתרא א׳:א׳:ב׳-ה׳:ו׳"
+            }
+        }
+    ],
+    "1667": [
+        {
+            "start": 4,
+            "end": 10,
+            "refs": {
+                "Deuteronomy 16:18-21:9": "דברים ט״ז:י״ח-כ״א:ט׳",
+                "Judges": "שופטים"
+            }
+        }
+    ],
+    "1687": [
+        {
+            "start": 227,
+            "end": 239,
+            "refs": {
+                "Sanhedrin 84b:1-90a:14": "סנהדרין פ״ד ב:א׳-צ׳ א:י״ד",
+                "Jerusalem Talmud Sanhedrin 10:1:1-8:4": "תלמוד ירושלמי סנהדרין י׳:א׳:א׳-ח׳:ד׳"
+            }
+        },
+        {
+            "start": 645,
+            "end": 653,
+            "refs": {
+                "Eruvin 61b:11-76a:6": "עירובין ס״א ב:י״א-ע״ו א:ו׳",
+                "Jerusalem Talmud Eruvin 6:1:1-10:3": "תלמוד ירושלמי עירובין ו׳:א׳:א׳-י׳:ג׳"
+            }
+        },
+        {
+            "start": 1019,
+            "end": 1037,
+            "refs": {
+                "Chullin 103b:16-117b:5": "חולין ק״ג ב:ט״ז-קי״ז ב:ה׳"
+            }
+        }
+    ],
+    "1693": [
+        {
+            "start": 269,
+            "end": 282,
+            "refs": {
+                "Chullin 103b:16-117b:5": "חולין ק״ג ב:ט״ז-קי״ז ב:ה׳"
+            }
+        }
+    ],
+    "1797": [
+        {
+            "start": 231,
+            "end": 241,
+            "refs": {
+                "Mishnah Sotah 9": "משנה סוטה ט׳",
+                "Sotah 44b:10-49b:20": "סוטה מ״ד ב:י׳-מ״ט ב:כ׳"
+            }
+        }
+    ],
+    "1845": [
+        {
+            "start": 244,
+            "end": 257,
+            "refs": {
+                "Mishnah Sanhedrin 5": "משנה סנהדרין ה׳",
+                "Sanhedrin 40a:1-42a:20": "סנהדרין מ׳ א:א׳-מ״ב א:כ׳",
+                "Sanhedrin 85": "סנהדרין פ״ה"
+            }
+        }
+    ],
+    "1847": [
+        {
+            "start": 572,
+            "end": 590,
+            "refs": {
+                "Makkot 13a:8-24b:5": "מכות י״ג א:ח׳-כ״ד ב:ה׳",
+                "Jerusalem Talmud Makkot 3:1:1-13:5": "תלמוד ירושלמי מכות ג׳:א׳:א׳-י״ג:ה׳"
+            }
+        },
+        {
+            "start": 906,
+            "end": 926,
+            "refs": {
+                "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction 16": "משנה תורה, הלכות סנהדרין והעונשין המסורין להם ט״ז"
+            }
+        }
+    ],
+    "1918": [
+        {
+            "start": 1185,
+            "end": 1200,
+            "refs": {
+                "Kiddushin 25": "קידושין כ״ה"
+            }
+        },
+        {
+            "start": 1202,
+            "end": 1216,
+            "refs": {
+                "Bava Kamma 113": "בבא קמא קי״ג"
+            }
+        }
+    ],
+    "1920": [
+        {
+            "start": 955,
+            "end": 971,
+            "refs": {
+                "Bava Kamma 113": "בבא קמא קי״ג"
+            }
+        }
+    ],
+    "1939": [
+        {
+            "start": 178,
+            "end": 200,
+            "refs": {
+                "Tosafot on Ketubot 3a:12:1": "תוספות על כתובות ג׳ א:י״ב:א׳",
+                "Tosafot on Ketubot 3a:13:1": "תוספות על כתובות ג׳ א:י״ג:א׳",
+                "Tosafot on Ketubot 3b:8:3": "תוספות על כתובות ג׳ ב:ח׳:ג׳",
+                "Tosafot on Ketubot 4b:6:1": "תוספות על כתובות ד׳ ב:ו׳:א׳",
+                "Tosafot on Ketubot 12a:14:1": "תוספות על כתובות י״ב א:י״ד:א׳",
+                "Tosafot on Ketubot 14a:6:1": "תוספות על כתובות י״ד א:ו׳:א׳",
+                "Tosafot on Ketubot 15b:10:1": "תוספות על כתובות ט״ו ב:י׳:א׳"
+            }
+        }
+    ],
+    "1959": [
+        {
+            "start": 220,
+            "end": 228,
+            "refs": {
+                "Mishnah Bava Metzia 7": "משנה בבא מציעא ז׳",
+                "Bava Metzia 83a:12-94a:15": "בבא מציעא פ״ג א:י״ב-צ״ד א:ט״ו",
+                "Bava Metzia 87": "בבא מציעא פ״ז"
+            }
+        }
+    ],
+    "1960": [
+        {
+            "start": 4,
+            "end": 8,
+            "refs": {
+                "Mishnah Bava Metzia 7:577": "משנה בבא מציעא ז׳:תקע״ז"
+            }
+        }
+    ],
+    "2008": [
+        {
+            "start": 252,
+            "end": 259,
+            "refs": {
+                "Leviticus 19:1-20:27": "ויקרא י״ט:א׳-כ׳:כ״ז"
+            }
+        }
+    ],
+    "2009": [
+        {
+            "start": 4,
+            "end": 8,
+            "refs": {
+                "Leviticus 19:589": "ויקרא י״ט:תקפ״ט"
+            }
+        }
+    ],
+    "2038": [
+        {
+            "start": 1934,
+            "end": 1940,
+            "refs": {
+                "Yevamot 35b:1-50a:5": "יבמות ל״ה ב:א׳-נ׳ א:ה׳",
+                "Jerusalem Talmud Yevamot 4:1:1-16:2": "תלמוד ירושלמי יבמות ד׳:א׳:א׳-ט״ז:ב׳"
+            }
+        }
+    ],
+    "2039": [
+        {
+            "start": 32,
+            "end": 43,
+            "refs": {
+                "Yevamot 24": "יבמות כ״ד"
+            }
+        }
+    ]
+}
