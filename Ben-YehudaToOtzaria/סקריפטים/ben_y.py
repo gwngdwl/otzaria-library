@@ -1,6 +1,7 @@
 import csv
 import html
 import re
+import unicodedata
 from pathlib import Path
 
 import requests
@@ -8,6 +9,11 @@ from bs4 import BeautifulSoup
 
 
 def sanitize_filename(filename: str) -> str:
+    filename = unicodedata.normalize("NFD", filename)
+    filename = ''.join(
+        ch for ch in filename
+        if not unicodedata.combining(ch)
+    )
     return re.sub(r'[\\/:"*?<>|]', '', filename).replace('_', ' ')
 
 
