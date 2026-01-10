@@ -24,6 +24,14 @@
             "refs": {
                 "Ohr Sameach on Mishneh Torah, Festival Offering 2:1": "אור שמח על משנה תורה, הלכות חגיגה ב׳:א׳"
             }
+        },
+        {
+            "start": 1944,
+            "end": 1947,
+            "refs": {
+                "Ohr Sameach on Mishneh Torah, Festival Offering 2:1": "אור שמח על משנה תורה, הלכות חגיגה ב׳:א׳",
+                "Ohr Sameach on Mishneh Torah, Festival Offering 2:2:1": "אור שמח על משנה תורה, הלכות חגיגה ב׳:ב׳:א׳"
+            }
         }
     ],
     "50": [
@@ -91,8 +99,8 @@
     ],
     "95": [
         {
-            "start": 1294,
-            "end": 1319,
+            "start": 1217,
+            "end": 1242,
             "refs": {
                 "Rashi on Pesachim 70a:4:1": "רש\"י על פסחים ע׳ א:ד׳:א׳"
             }
@@ -133,15 +141,15 @@
     ],
     "100": [
         {
-            "start": 437,
-            "end": 447,
+            "start": 416,
+            "end": 426,
             "refs": {
                 "Beitzah 19a": "ביצה י״ט א"
             }
         },
         {
-            "start": 549,
-            "end": 567,
+            "start": 528,
+            "end": 546,
             "refs": {
                 "Tosafot on Beitzah 12a": "תוספות על ביצה י״ב א"
             }
@@ -163,8 +171,8 @@
             }
         },
         {
-            "start": 718,
-            "end": 727,
+            "start": 690,
+            "end": 699,
             "refs": {
                 "Beitzah 20b": "ביצה כ׳ ב"
             }
@@ -419,6 +427,13 @@
             "refs": {
                 "Rashi on Shabbat 151a": "רש\"י על שבת קנ״א א"
             }
+        },
+        {
+            "start": 605,
+            "end": 612,
+            "refs": {
+                "Rashi on Shabbat 151a": "רש\"י על שבת קנ״א א"
+            }
         }
     ],
     "230": [
@@ -466,15 +481,15 @@
     ],
     "260": [
         {
-            "start": 1169,
-            "end": 1186,
+            "start": 1001,
+            "end": 1018,
             "refs": {
                 "Shevuot 36a": "שבועות ל״ו א"
             }
         },
         {
-            "start": 1484,
-            "end": 1503,
+            "start": 1316,
+            "end": 1335,
             "refs": {
                 "Tosafot on Berakhot 59a": "תוספות על ברכות נ״ט א"
             }
@@ -507,14 +522,6 @@
                 "Tosafot on Rosh Hashanah 29b:5-35a:13": "תוספות על ראש השנה כ״ט ב:ה׳-ל״ה א:י״ג",
                 "Tosafot on Beitzah 15b:1-23b:10": "תוספות על ביצה ט״ו ב:א׳-כ״ג ב:י׳"
             }
-        },
-        {
-            "start": 278,
-            "end": 283,
-            "refs": {
-                "Rosh Hashanah 29b:5-6": "ראש השנה כ״ט ב:ה׳-ו׳",
-                "Beitzah 15b:1-3": "ביצה ט״ו ב:א׳-ג׳"
-            }
         }
     ],
     "278": [
@@ -537,15 +544,15 @@
     ],
     "280": [
         {
-            "start": 427,
-            "end": 437,
+            "start": 413,
+            "end": 423,
             "refs": {
                 "Beitzah 19a": "ביצה י״ט א"
             }
         },
         {
-            "start": 539,
-            "end": 557,
+            "start": 525,
+            "end": 543,
             "refs": {
                 "Tosafot on Beitzah 12a": "תוספות על ביצה י״ב א"
             }
@@ -562,8 +569,8 @@
     ],
     "287": [
         {
-            "start": 300,
-            "end": 311,
+            "start": 293,
+            "end": 304,
             "refs": {
                 "Sukkah 48a": "סוכה מ״ח א"
             }
@@ -589,8 +596,8 @@
     ],
     "322": [
         {
-            "start": 2549,
-            "end": 2560,
+            "start": 2521,
+            "end": 2532,
             "refs": {
                 "Chullin 33b": "חולין ל״ג ב"
             }
@@ -598,8 +605,8 @@
     ],
     "324": [
         {
-            "start": 664,
-            "end": 679,
+            "start": 657,
+            "end": 672,
             "refs": {
                 "Rashi on Chullin 31b": "רש\"י על חולין ל״א ב"
             }
@@ -675,6 +682,15 @@
             }
         }
     ],
+    "367": [
+        {
+            "start": 257,
+            "end": 282,
+            "refs": {
+                "Shulchan Arukh, Yoreh De'ah 201:9": "שולחן ערוך, יורה דעה ר״א:ט׳"
+            }
+        }
+    ],
     "373": [
         {
             "start": 156,
@@ -686,8 +702,8 @@
     ],
     "388": [
         {
-            "start": 1212,
-            "end": 1241,
+            "start": 1205,
+            "end": 1234,
             "refs": {
                 "Mishneh Torah, Red Heifer 11:2": "משנה תורה, הלכות פרה אדומה י״א:ב׳"
             }
@@ -761,15 +777,15 @@
             }
         },
         {
-            "start": 1166,
-            "end": 1175,
+            "start": 1110,
+            "end": 1119,
             "refs": {
                 "Pesachim 18": "פסחים י״ח"
             }
         },
         {
-            "start": 1176,
-            "end": 1186,
+            "start": 1120,
+            "end": 1130,
             "refs": {
                 "Chullin 35": "חולין ל״ה"
             }
@@ -805,8 +821,8 @@
     ],
     "457": [
         {
-            "start": 260,
-            "end": 276,
+            "start": 239,
+            "end": 255,
             "refs": {
                 "Tosafot on Rosh Hashanah 29b:5-35a:13": "תוספות על ראש השנה כ״ט ב:ה׳-ל״ה א:י״ג",
                 "Tosafot on Beitzah 15b:1-23b:10": "תוספות על ביצה ט״ו ב:א׳-כ״ג ב:י׳"
