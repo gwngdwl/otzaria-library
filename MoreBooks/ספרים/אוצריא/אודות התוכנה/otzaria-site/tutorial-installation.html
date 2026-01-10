@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>מדריך הפעלת תוכנת אוצריא - אוצריא</title>
     <link rel="icon" type="image/svg+xml" href="images/logo.svg">
-    <link rel="stylesheet" href="material-icons.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -84,17 +84,6 @@
                             הורדת התוכנה
                         </h2>
                         <div class="content-box">
-                            <h3>מקורות הורדה</h3>
-                            <p>ניתן להוריד את התוכנה ממספר מקורות:</p>
-                            
-                            <div class="info-box">
-                                <span class="material-symbols-outlined">cloud</span>
-                                <div>
-                                    <p><strong>הורדה מ-Google Drive</strong> (לאלו שלא יכולים לגשת לגיטהאב):</p>
-                                    <p><a href="https://drive.google.com/drive/u/0/folders/1hfVvpsL3y74O7OWPlM7OFCjtlGqzv7OG" target="_blank">תוכנת אוצריא - Google Drive</a></p>
-                                </div>
-                            </div>
-
                             <h3>גרסאות זמינות</h3>
                             <p>ישנן מספר גרסאות של התוכנה. בחרו את הגרסה המתאימה לכם:</p>
 
@@ -105,11 +94,11 @@
                                         <h4>קובץ EXE (מומלץ)</h4>
                                         <p>גרסה פשוטה להתקנה. הורידו את הקובץ:</p>
                                         <ul>
-                                            <li><code>otzaria-0.1.7-windows.exe</code></li>
+                                            <li><code>otzaria-X.X.X-windows.exe</code></li>
                                         </ul>
                                         <p>או את גרסת ה-MSIX:</p>
                                         <ul>
-                                            <li><code>otzaria-0.1.8-dev.4-windows.msix</code></li>
+                                            <li><code>otzaria-X.X.X-windows.msix</code></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -117,21 +106,10 @@
                                 <div class="step-item">
                                     <div class="step-number">2</div>
                                     <div class="step-content">
-                                        <h4>גרסה ללא ספרייה</h4>
-                                        <p>אם יש לכם כבר ספרייה מותקנת, תוכלו להוריד את התוכנה בלבד:</p>
-                                        <ul>
-                                            <li><code>otzaria-0.1.7-windows-no-library.zip</code></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="step-item">
-                                    <div class="step-number">3</div>
-                                    <div class="step-content">
                                         <h4>ספרייה בלבד</h4>
                                         <p>להורדת הספרייה בנפרד:</p>
                                         <ul>
-                                            <li><code>otzaria-0.1.7-library-only</code></li>
+                                            <li><code>https://github.com/Y-PLONI/otzaria-library/releases/latest/download/otzaria_latest.zip</code></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -167,7 +145,7 @@
                                     <div class="step-number">2</div>
                                     <div class="step-content">
                                         <h4>בחירת מיקום</h4>
-                                        <p>בחרו את המיקום להתקנת התוכנה. <strong>מומלץ:</strong> התקינו בכונן C:\ או בכונן אחר עם מספיק מקום פנוי.</p>
+                                        <p>בחרו את המיקום להתקנת התוכנה. <strong>מומלץ:</strong> התקינו בכונן C. ניתן להתקין בכונן אחר, נדרש כ-10 GB פנויים לתוכנה ולאינדקס.</p>
                                     </div>
                                 </div>
 
@@ -222,7 +200,7 @@
                                     <div class="step-number">3</div>
                                     <div class="step-content">
                                         <h4>קישור לתוכנה</h4>
-                                        <p>פתחו את התוכנה והצביעו על מיקום הספרייה בהגדרות.</p>
+                                        <p>פתחו את התוכנה ובחרו את מיקום הספרייה בהגדרות.</p>
                                     </div>
                                 </div>
                             </div>
@@ -240,7 +218,7 @@
                         <div class="warning-box">
                             <span class="material-symbols-outlined">warning</span>
                             <div>
-                                <p><strong>חשוב:</strong> וודאו שיש לכם מספיק מקום פנוי בדיסק לפני הורדת הספרייה. הספרייה המלאה עשויה לתפוס כ5 ג'יגה-בייט, ולאחר האינדוקס האוטומטי - עוד כ5.</p>
+                                <p><strong>חשוב:</strong> וודאו שיש לכם מספיק מקום פנוי בדיסק לפני הורדת הספרייה. הספרייה המלאה כולל אינדקס שוקלת כ- 10 GB.</p>
                             </div>
                         </div>
                     </section>
@@ -304,7 +282,7 @@
                             <div class="info-box">
                                 <span class="material-symbols-outlined">info</span>
                                 <div>
-                                    <p><strong>שימו לב:</strong> יש לעדכן את האינדקס גם לאחר הוספת ספרים חדשים לתוכנה.</p>
+                                    <p><strong>שימו לב:</strong> יש לעדכן את האינדקס גם לאחר הוספת ספרים חדשים לתוכנה.<div>בגרסאות האחרונות מוגדר בברירת מחדל שאינדקס החיפוש יתעדכן אוטומטית</div></p>
                                 </div>
                             </div>
 
@@ -336,8 +314,8 @@
                             <h3>פתיחת ספרים</h3>
                             <p>לפתיחת ספר חדש:</p>
                             <ol>
-                                <li>לחצו על "עץ הספרים" בצד</li>
-                                <li>נווטו לספר הרצוי</li>
+                                <li>לחצו על "ספרייה" בצד</li>
+                                <li>נווטו לספר הרצוי, או חפשו אות</li>
                                 <li>לחצו פעמיים על הספר</li>
                             </ol>
                         </div>
@@ -413,14 +391,14 @@
                             
                             <div style="background-color: var(--surface-variant); padding: 1.5rem; border-radius: var(--radius-md); margin: 1.5rem 0; border-right: 4px solid var(--primary-light);">
                                 <h4 style="color: var(--primary-dark); margin-bottom: 1rem;">דוגמה</h4>
-                                <p>פתחו CMD כמנהל והריצו:</p>
+                                <p>פתחו CMD כמנהל והריצו (לדוגמא):</p>
                                 <div style="background-color: #2d3748; color: #e2e8f0; padding: 1rem; border-radius: var(--radius-sm); overflow-x: auto; margin: 1rem 0; direction: ltr; text-align: left;">
-                                    <pre><code>MKLINK /J "C:\otzaria\books" "D:\my-library"</code></pre>
+                                    <pre><code>MKLINK /J "C:\אוצריא\אוצריא" "D:\my-library"</code></pre>
                                 </div>
                             </div>
 
                             <h3>עריכת טקסט בספרים</h3>
-                            <p>התוכנה מאפשרת עריכה בסיסית של טקסט:</p>
+                            <p>התוכנה מאפשרת עריכה בסיסית של טקסט (בגירסאות האחרונות, ניתן לערוך מתוך התוכנה עצמה):</p>
                             <ul>
                                 <li><strong>טקסט קטן</strong> - השתמשו בתגיות <code>&lt;small&gt;</code> ו-<code>&lt;/small&gt;</code></li>
                                 <li><strong>טקסט נטוי</strong> - השתמשו בתגיות <code>&lt;i&gt;</code> ו-<code>&lt;/i&gt;</code></li>
