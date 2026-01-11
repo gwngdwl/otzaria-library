@@ -1,4 +1,4 @@
-<h1>ספר תורת נביאים</h1>
+<h1>תורת נביאים</h1>
 צבי הירש חיות
 <h2> זכויות יוצרים</h2>
 כל הזכויות שמורות ל"פנינים". הספרים מתפרסמים תחת הרישיון החופשי GNU Free Documentation License (גרסה 1.3 עם Invariant Sections, Front-Cover Text, Back-Cover Text):
