@@ -77,8 +77,6 @@
             "start": 5,
             "end": 7,
             "refs": {
-                "Mishnah Menachot 2": "משנה מנחות ב׳",
-                "Menachot 2": "מנחות ב׳",
                 "Menachot 13a:7-17a:15": "מנחות י״ג א:ז׳-י״ז א:ט״ו"
             }
         },
@@ -103,13 +101,6 @@
             "end": 283,
             "refs": {
                 "Rashi on Sukkah 11": "רש\"י על סוכה י״א"
-            }
-        },
-        {
-            "start": 297,
-            "end": 301,
-            "refs": {
-                "Tosafot on Shabbat 131": "תוספות על שבת קל״א"
             }
         },
         {
@@ -139,7 +130,7 @@
             "start": 5,
             "end": 7,
             "refs": {
-                "Tosafot on Kiddushin 3": "תוספות על קידושין ג׳",
+                "Kiddushin 58b:12-69a:11": "קידושין נ״ח ב:י״ב-ס״ט א:י״א",
                 "Tosafot on Kiddushin 58b:12-69a:11": "תוספות על קידושין נ״ח ב:י״ב-ס״ט א:י״א"
             }
         },
@@ -218,6 +209,7 @@
             "start": 584,
             "end": 591,
             "refs": {
+                "Shabbat 27": "שבת כ״ז",
                 "Rashi on Shabbat 27": "רש\"י על שבת כ״ז"
             }
         },
@@ -225,7 +217,7 @@
             "start": 612,
             "end": 620,
             "refs": {
-                "Rashi on Shabbat 27a": "רש\"י על שבת כ״ז א"
+                "Rashi on Shabbat 27": "רש\"י על שבת כ״ז"
             }
         },
         {
@@ -359,8 +351,8 @@
             "start": 568,
             "end": 576,
             "refs": {
-                "Tosafot on Shabbat 115a": "תוספות על שבת קט״ו א",
-                "Tosafot on Yoma 34a": "תוספות על יומא ל״ד א"
+                "Tosafot on Shabbat 115": "תוספות על שבת קט״ו",
+                "Tosafot on Yoma 34": "תוספות על יומא ל״ד"
             }
         },
         {
@@ -444,6 +436,7 @@
             "start": 4,
             "end": 10,
             "refs": {
+                "Shulchan Arukh, Yoreh De'ah 7": "שולחן ערוך, יורה דעה ז׳",
                 "Siftei Kohen on Shulchan Arukh, Yoreh De'ah 7": "שפתי כהן על שולחן ערוך יורה דעה ז׳"
             }
         }
@@ -467,8 +460,8 @@
             "start": 617,
             "end": 625,
             "refs": {
-                "Tosafot on Shabbat 115a": "תוספות על שבת קט״ו א",
-                "Tosafot on Sanhedrin 77a": "תוספות על סנהדרין ע״ז א"
+                "Tosafot on Shabbat 115": "תוספות על שבת קט״ו",
+                "Tosafot on Sanhedrin 77": "תוספות על סנהדרין ע״ז"
             }
         },
         {

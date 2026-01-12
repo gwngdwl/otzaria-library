@@ -58,6 +58,15 @@
             }
         }
     ],
+    "70": [
+        {
+            "start": 892,
+            "end": 911,
+            "refs": {
+                "Mishneh Torah, Sacrificial Procedure 19": "משנה תורה, הלכות מעשה הקרבנות י״ט"
+            }
+        }
+    ],
     "74": [
         {
             "start": 537,
@@ -125,7 +134,14 @@
             "start": 304,
             "end": 311,
             "refs": {
-                "Rashi on Kiddushin 54a": "רש\"י על קידושין נ״ד א"
+                "Rashi on Kiddushin 54": "רש\"י על קידושין נ״ד"
+            }
+        },
+        {
+            "start": 320,
+            "end": 343,
+            "refs": {
+                "Mishneh Torah, Trespass 6:13": "משנה תורה, הלכות מעילה ו׳:י״ג"
             }
         },
         {
@@ -133,6 +149,15 @@
             "end": 1017,
             "refs": {
                 "Rashi on Ketubot 106b:9:2": "רש\"י על כתובות ק״ו ב:ט׳:ב׳"
+            }
+        }
+    ],
+    "89": [
+        {
+            "start": 17,
+            "end": 38,
+            "refs": {
+                "Mishneh Torah, The Chosen Temple 1": "משנה תורה, הלכות בית הבחירה א׳"
             }
         }
     ],

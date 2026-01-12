@@ -49,13 +49,6 @@
             "refs": {
                 "Jerusalem Talmud Sotah 8:1:1-10:5": "תלמוד ירושלמי סוטה ח׳:א׳:א׳-י׳:ה׳"
             }
-        },
-        {
-            "start": 927,
-            "end": 935,
-            "refs": {
-                "Jerusalem Talmud Sotah 8:1": "תלמוד ירושלמי סוטה ח׳:א׳"
-            }
         }
     ],
     "16": [
@@ -181,10 +174,12 @@
             "start": 862,
             "end": 874,
             "refs": {
+                "Mishnah Berakhot 3": "משנה ברכות ג׳",
+                "Mishnah Sukkah 3": "משנה סוכה ג׳",
+                "Berakhot 17b:12-26a:10": "ברכות י״ז ב:י״ב-כ״ו א:י׳",
+                "Sukkah 29b:4-42b:4": "סוכה כ״ט ב:ד׳-מ״ב ב:ד׳",
                 "Tosefta Berakhot (Lieberman) 3": "תוספתא ברכות (ליברמן) ג׳",
-                "Tosefta Sukkah (Lieberman) 3": "תוספתא סוכה (ליברמן) ג׳",
-                "Tosefta Berakhot 3": "תוספתא ברכות ג׳",
-                "Tosefta Sukkah 3": "תוספתא סוכה ג׳"
+                "Tosefta Berakhot 3": "תוספתא ברכות ג׳"
             }
         }
     ],
@@ -223,17 +218,6 @@
             "end": 99,
             "refs": {
                 "Chullin 83b:3-89b:2": "חולין פ״ג ב:ג׳-פ״ט ב:ב׳"
-            }
-        }
-    ],
-    "55": [
-        {
-            "start": 222,
-            "end": 228,
-            "refs": {
-                "Rosh Hashanah 2a": "ראש השנה ב׳ א",
-                "Rosh Hashanah 11a": "ראש השנה י״א א",
-                "Chullin 83b": "חולין פ״ג ב"
             }
         }
     ],

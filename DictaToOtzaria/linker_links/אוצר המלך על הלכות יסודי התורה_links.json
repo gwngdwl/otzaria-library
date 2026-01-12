@@ -42,6 +42,23 @@
     ],
     "9": [
         {
+            "start": 69,
+            "end": 75,
+            "refs": {
+                "Bereshit Rabbah 1:14": "בראשית רבה א׳:י״ד",
+                "Bereshit Rabbah 14": "בראשית רבה י״ד"
+            }
+        },
+        {
+            "start": 146,
+            "end": 148,
+            "refs": {
+                "Bereshit Rabbah 1": "בראשית רבה א׳",
+                "Bereshit Rabbah 1:14": "בראשית רבה א׳:י״ד",
+                "Bereshit Rabbah 14": "בראשית רבה י״ד"
+            }
+        },
+        {
             "start": 1815,
             "end": 1824,
             "refs": {
@@ -53,13 +70,6 @@
         {
             "start": 312,
             "end": 331,
-            "refs": {
-                "Kiddushin 39b": "קידושין ל״ט ב"
-            }
-        },
-        {
-            "start": 615,
-            "end": 620,
             "refs": {
                 "Kiddushin 39b": "קידושין ל״ט ב"
             }
@@ -156,6 +166,8 @@
             "start": 4,
             "end": 9,
             "refs": {
+                "Proverbs 2": "משלי ב׳",
+                "Ralbag on Proverbs 2": "רלב\"ג על משלי ב׳",
                 "Mishneh Torah, Foundations of the Torah 2": "משנה תורה, הלכות יסודי התורה ב׳"
             }
         }
@@ -191,6 +203,7 @@
             "refs": {
                 "Isaiah 51": "ישעיהו נ״א",
                 "Mishnah Sanhedrin": "משנה סנהדרין",
+                "Sanhedrin": "סנהדרין",
                 "Sanhedrin 90a": "סנהדרין צ׳ א",
                 "Jerusalem Talmud Sanhedrin 11:1": "תלמוד ירושלמי סנהדרין י״א:א׳"
             }
@@ -216,6 +229,7 @@
             "refs": {
                 "Isaiah 66": "ישעיהו ס״ו",
                 "Mishnah Berakhot": "משנה ברכות",
+                "Berakhot": "ברכות",
                 "Berakhot 54a": "ברכות נ״ד א",
                 "Jerusalem Talmud Berakhot 9:1": "תלמוד ירושלמי ברכות ט׳:א׳"
             }
@@ -249,7 +263,7 @@
             "end": 834,
             "refs": {
                 "Tanna DeBei Eliyahu Rabbah 31": "תנא דבי אליהו רבה ל״א",
-                "Tikkunei Zohar 114a": "תקוני הזהר קי״ד א"
+                "Tikkunei Zohar 114": "תקוני הזהר קי״ד"
             }
         }
     ],
@@ -634,15 +648,10 @@
             "end": 917,
             "refs": {
                 "Chullin 3b": "חולין ג׳ ב",
+                "Chullin 4a": "חולין ד׳ א",
+                "Temurah 27b": "תמורה כ״ז ב",
                 "Rashi on Temurah 27b": "רש\"י על תמורה כ״ז ב",
                 "Tosafot on Chullin 4a": "תוספות על חולין ד׳ א"
-            }
-        },
-        {
-            "start": 1021,
-            "end": 1030,
-            "refs": {
-                "Chullin 3b": "חולין ג׳ ב"
             }
         }
     ],
@@ -676,17 +685,6 @@
             }
         }
     ],
-    "74": [
-        {
-            "start": 433,
-            "end": 438,
-            "refs": {
-                "Nazir 23a": "נזיר כ״ג א",
-                "Sotah 7a": "סוטה ז׳ א",
-                "Sanhedrin 29a": "סנהדרין כ״ט א"
-            }
-        }
-    ],
     "75": [
         {
             "start": 299,
@@ -700,6 +698,13 @@
             "end": 491,
             "refs": {
                 "Yevamot 119a:1-122b:12": "יבמות קי״ט א:א׳-קכ״ב ב:י״ב"
+            }
+        },
+        {
+            "start": 492,
+            "end": 515,
+            "refs": {
+                "Magen Avraham 204:68": "מגן אברהם ר״ד:ס״ח"
             }
         },
         {
@@ -745,15 +750,6 @@
             "end": 241,
             "refs": {
                 "Nedarim 22a": "נדרים כ״ב א"
-            }
-        },
-        {
-            "start": 243,
-            "end": 248,
-            "refs": {
-                "Nedarim 22a": "נדרים כ״ב א",
-                "Gittin 28a": "גיטין כ״ח א",
-                "Shevuot 46a": "שבועות מ״ו א"
             }
         }
     ],
@@ -823,18 +819,10 @@
             }
         },
         {
-            "start": 256,
-            "end": 261,
+            "start": 480,
+            "end": 504,
             "refs": {
-                "Rashi on Pesachim 53b": "רש\"י על פסחים נ״ג ב",
-                "Rashi on Ketubot": "רש\"י על כתובות"
-            }
-        },
-        {
-            "start": 262,
-            "end": 274,
-            "refs": {
-                "Tosafot on Pesachim 53b:7:1": "תוספות על פסחים נ״ג ב:ז׳:א׳"
+                "Mishneh LaMelech on Mishneh Torah, Foundations of the Torah 6:8": "משנה למלך על משנה תורה, הלכות יסודי התורה ו׳:ח׳"
             }
         },
         {
@@ -880,7 +868,8 @@
             "end": 228,
             "refs": {
                 "Berakhot 35b": "ברכות ל״ה ב",
-                "Jerusalem Talmud Avodah Zarah 5:10:4-11:4": "תלמוד ירושלמי עבודה זרה ה׳:י׳:ד׳-י״א:ד׳"
+                "Avodah Zarah 35b": "עבודה זרה ל״ה ב",
+                "Tosafot on Avodah Zarah 35b": "תוספות על עבודה זרה ל״ה ב"
             }
         },
         {
@@ -947,6 +936,15 @@
         {
             "start": 1656,
             "end": 1675,
+            "refs": {
+                "Mishneh Torah, Foundations of the Torah 6:1": "משנה תורה, הלכות יסודי התורה ו׳:א׳"
+            }
+        }
+    ],
+    "91": [
+        {
+            "start": 558,
+            "end": 560,
             "refs": {
                 "Mishneh Torah, Foundations of the Torah 6:1": "משנה תורה, הלכות יסודי התורה ו׳:א׳"
             }

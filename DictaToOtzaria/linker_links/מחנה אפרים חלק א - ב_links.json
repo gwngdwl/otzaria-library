@@ -87,13 +87,6 @@
             }
         },
         {
-            "start": 508,
-            "end": 510,
-            "refs": {
-                "Rosh on Shevuot 3": "פסקי הרא\"ש על שבועות ג׳"
-            }
-        },
-        {
             "start": 1058,
             "end": 1073,
             "refs": {
@@ -324,7 +317,8 @@
             "start": 2505,
             "end": 2512,
             "refs": {
-                "Beit Yosef, Choshen Mishpat 1": "בית יוסף, חושן משפט א׳"
+                "Beit Yosef, Choshen Mishpat 1": "בית יוסף, חושן משפט א׳",
+                "Shulchan Arukh, Choshen Mishpat 1": "שולחן ערוך, חושן משפט א׳"
             }
         }
     ],
@@ -333,7 +327,8 @@
             "start": 4,
             "end": 11,
             "refs": {
-                "Beit Yosef, Choshen Mishpat 13": "בית יוסף, חושן משפט י״ג"
+                "Beit Yosef, Choshen Mishpat 13": "בית יוסף, חושן משפט י״ג",
+                "Shulchan Arukh, Choshen Mishpat 13": "שולחן ערוך, חושן משפט י״ג"
             }
         }
     ],
@@ -397,6 +392,13 @@
             "end": 1271,
             "refs": {
                 "Teshuvot HaRivash 75": "תשובות הריב\"ש ע״ה"
+            }
+        },
+        {
+            "start": 1286,
+            "end": 1308,
+            "refs": {
+                "Teshuvot HaRivash 344": "תשובות הריב\"ש שמ״ד"
             }
         }
     ],
@@ -495,6 +497,15 @@
             }
         }
     ],
+    "80": [
+        {
+            "start": 544,
+            "end": 570,
+            "refs": {
+                "Teshuvot HaRosh 8:16": "תשובות הרא\"ש ח׳:ט״ז"
+            }
+        }
+    ],
     "81": [
         {
             "start": 168,
@@ -570,6 +581,13 @@
             "refs": {
                 "Mishnah Nedarim 4": "משנה נדרים ד׳",
                 "Nedarim 32b:10-45a:3": "נדרים ל״ב ב:י׳-מ״ה א:ג׳"
+            }
+        },
+        {
+            "start": 519,
+            "end": 544,
+            "refs": {
+                "Nedarim 32b:10-11": "נדרים ל״ב ב:י׳-י״א"
             }
         }
     ],

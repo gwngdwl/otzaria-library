@@ -15,20 +15,6 @@
             "refs": {
                 "Jerusalem Talmud Pesachim 4:3": "תלמוד ירושלמי פסחים ד׳:ג׳"
             }
-        },
-        {
-            "start": 429,
-            "end": 437,
-            "refs": {
-                "Jerusalem Talmud Pesachim 4:3": "תלמוד ירושלמי פסחים ד׳:ג׳"
-            }
-        },
-        {
-            "start": 590,
-            "end": 598,
-            "refs": {
-                "Jerusalem Talmud Pesachim 4:3": "תלמוד ירושלמי פסחים ד׳:ג׳"
-            }
         }
     ],
     "7": [
@@ -111,9 +97,23 @@
             "refs": {
                 "Avodah Zarah 14b": "עבודה זרה י״ד ב"
             }
+        },
+        {
+            "start": 129,
+            "end": 136,
+            "refs": {
+                "Avodah Zarah 14b": "עבודה זרה י״ד ב"
+            }
         }
     ],
     "14": [
+        {
+            "start": 79,
+            "end": 98,
+            "refs": {
+                "Mishnah Gittin 4": "משנה גיטין ד׳"
+            }
+        },
         {
             "start": 281,
             "end": 295,
@@ -249,6 +249,15 @@
             }
         }
     ],
+    "38": [
+        {
+            "start": 413,
+            "end": 433,
+            "refs": {
+                "Temurah 11b": "תמורה י״א ב"
+            }
+        }
+    ],
     "39": [
         {
             "start": 170,
@@ -282,9 +291,9 @@
             "start": 287,
             "end": 297,
             "refs": {
-                "Rashi on Berakhot 56a": "רש\"י על ברכות נ״ו א",
+                "Rashi on Berakhot 56": "רש\"י על ברכות נ״ו",
                 "Rashi on Yoma 75b": "רש\"י על יומא ע״ה ב",
-                "Rashi on Ketubot 65a": "רש\"י על כתובות ס״ה א"
+                "Rashi on Ketubot 65": "רש\"י על כתובות ס״ה"
             }
         }
     ],
@@ -293,6 +302,9 @@
             "start": 4,
             "end": 8,
             "refs": {
+                "Berakhot 3": "ברכות ג׳",
+                "Yoma 3": "יומא ג׳",
+                "Ketubot 3": "כתובות ג׳",
                 "Rashi on Berakhot 3": "רש\"י על ברכות ג׳",
                 "Rashi on Yoma 3": "רש\"י על יומא ג׳",
                 "Rashi on Ketubot 3": "רש\"י על כתובות ג׳"
@@ -457,6 +469,13 @@
             "refs": {
                 "Menachot 19b": "מנחות י״ט ב"
             }
+        },
+        {
+            "start": 154,
+            "end": 166,
+            "refs": {
+                "Menachot 56": "מנחות נ״ו"
+            }
         }
     ],
     "60": [
@@ -535,6 +554,7 @@
             "start": 4,
             "end": 8,
             "refs": {
+                "Sotah 5": "סוטה ה׳",
                 "Chullin 5": "חולין ה׳",
                 "Rashi on Sotah 5": "רש\"י על סוטה ה׳"
             }
@@ -554,21 +574,6 @@
             "end": 170,
             "refs": {
                 "Menachot 27": "מנחות כ״ז"
-            }
-        },
-        {
-            "start": 171,
-            "end": 186,
-            "refs": {
-                "Rashi on Menachot 27a:20:1": "רש\"י על מנחות כ״ז א:כ׳:א׳"
-            }
-        },
-        {
-            "start": 199,
-            "end": 207,
-            "refs": {
-                "Menachot 19": "מנחות י״ט",
-                "Rashi on Menachot 19": "רש\"י על מנחות י״ט"
             }
         },
         {
@@ -706,6 +711,7 @@
             "start": 4,
             "end": 9,
             "refs": {
+                "Chullin 7a": "חולין ז׳ א",
                 "Rashi on Chullin 7a": "רש\"י על חולין ז׳ א",
                 "Tosafot on Chullin 7a": "תוספות על חולין ז׳ א"
             }
@@ -766,15 +772,6 @@
         {
             "start": 37,
             "end": 58,
-            "refs": {
-                "Tosafot on Chullin 64b": "תוספות על חולין ס״ד ב"
-            }
-        }
-    ],
-    "92": [
-        {
-            "start": 3,
-            "end": 5,
             "refs": {
                 "Tosafot on Chullin 64b": "תוספות על חולין ס״ד ב"
             }
@@ -860,6 +857,13 @@
             "refs": {
                 "Tosefta Kilayim (Lieberman) 5": "תוספתא כלאים (ליברמן) ה׳",
                 "Tosefta Kilayim 5": "תוספתא כלאים ה׳"
+            }
+        },
+        {
+            "start": 849,
+            "end": 863,
+            "refs": {
+                "Minchat Chinukh 210": "מנחת חינוך ר״י"
             }
         },
         {

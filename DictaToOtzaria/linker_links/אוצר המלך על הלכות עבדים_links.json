@@ -414,13 +414,6 @@
     ],
     "45": [
         {
-            "start": 125,
-            "end": 141,
-            "refs": {
-                "Ritva on Kiddushin 20a": "ריטב\"א על קידושין כ׳ א"
-            }
-        },
-        {
             "start": 250,
             "end": 267,
             "refs": {
@@ -484,6 +477,20 @@
         }
     ],
     "49": [
+        {
+            "start": 564,
+            "end": 585,
+            "refs": {
+                "Yalkut Shimoni on Torah 668": "ילקוט שמעוני על התורה תרס״ח"
+            }
+        },
+        {
+            "start": 1027,
+            "end": 1048,
+            "refs": {
+                "Yalkut Shimoni on Torah 668": "ילקוט שמעוני על התורה תרס״ח"
+            }
+        },
         {
             "start": 1136,
             "end": 1152,
@@ -645,10 +652,10 @@
             }
         },
         {
-            "start": 456,
-            "end": 461,
+            "start": 840,
+            "end": 858,
             "refs": {
-                "Temurah 31a": "תמורה ל״א א"
+                "Mishneh LaMelech on Mishneh Torah, Slaves 5": "משנה למלך על משנה תורה, הלכות עבדים ה׳"
             }
         }
     ],

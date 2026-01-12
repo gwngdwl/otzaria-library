@@ -9,12 +9,30 @@
             }
         }
     ],
+    "9": [
+        {
+            "start": 106,
+            "end": 123,
+            "refs": {
+                "Mishneh Torah, Plaintiff and Defendant 7": "משנה תורה, הלכות טוען ונטען ז׳"
+            }
+        }
+    ],
     "16": [
         {
             "start": 521,
             "end": 535,
             "refs": {
                 "Shevuot 26": "שבועות כ״ו"
+            }
+        }
+    ],
+    "18": [
+        {
+            "start": 438,
+            "end": 455,
+            "refs": {
+                "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 399": "שפתי כהן על שולחן ערוך חושן משפט שצ״ט"
             }
         }
     ],
@@ -70,6 +88,15 @@
             }
         }
     ],
+    "31": [
+        {
+            "start": 321,
+            "end": 339,
+            "refs": {
+                "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 75": "שפתי כהן על שולחן ערוך חושן משפט ע״ה"
+            }
+        }
+    ],
     "36": [
         {
             "start": 4404,
@@ -80,6 +107,13 @@
         }
     ],
     "39": [
+        {
+            "start": 1014,
+            "end": 1038,
+            "refs": {
+                "Mishneh Torah, Plaintiff and Defendant 4": "משנה תורה, הלכות טוען ונטען ד׳"
+            }
+        },
         {
             "start": 2483,
             "end": 2500,
@@ -130,6 +164,24 @@
             "end": 718,
             "refs": {
                 "Tur, Choshen Mishpat 66": "טור, חושן משפט ס״ו"
+            }
+        }
+    ],
+    "59": [
+        {
+            "start": 143,
+            "end": 162,
+            "refs": {
+                "Mishneh Torah, Plaintiff and Defendant 4": "משנה תורה, הלכות טוען ונטען ד׳"
+            }
+        }
+    ],
+    "60": [
+        {
+            "start": 771,
+            "end": 788,
+            "refs": {
+                "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 68": "שפתי כהן על שולחן ערוך חושן משפט ס״ח"
             }
         }
     ],
@@ -193,6 +245,7 @@
             "start": 4,
             "end": 8,
             "refs": {
+                "Shevuot 5": "שבועות ה׳",
                 "Tosafot on Shevuot 5": "תוספות על שבועות ה׳"
             }
         }
@@ -279,6 +332,15 @@
             "end": 1181,
             "refs": {
                 "Tosafot on Bekhorot 36": "תוספות על בכורות ל״ו"
+            }
+        }
+    ],
+    "99": [
+        {
+            "start": 497,
+            "end": 514,
+            "refs": {
+                "Siftei Kohen on Shulchan Arukh, Choshen Mishpat 138": "שפתי כהן על שולחן ערוך חושן משפט קל״ח"
             }
         }
     ],

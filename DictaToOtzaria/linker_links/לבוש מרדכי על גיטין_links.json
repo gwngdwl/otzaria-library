@@ -59,20 +59,6 @@
             "refs": {
                 "Shevuot 34a": "שבועות ל״ד א"
             }
-        },
-        {
-            "start": 301,
-            "end": 305,
-            "refs": {
-                "Shevuot 34a": "שבועות ל״ד א"
-            }
-        },
-        {
-            "start": 943,
-            "end": 947,
-            "refs": {
-                "Shevuot 34a": "שבועות ל״ד א"
-            }
         }
     ],
     "22": [
@@ -138,13 +124,6 @@
             }
         },
         {
-            "start": 470,
-            "end": 474,
-            "refs": {
-                "Kiddushin 45a": "קידושין מ״ה א"
-            }
-        },
-        {
             "start": 772,
             "end": 786,
             "refs": {
@@ -153,13 +132,6 @@
         }
     ],
     "44": [
-        {
-            "start": 165,
-            "end": 169,
-            "refs": {
-                "Kiddushin 19a": "קידושין י״ט א"
-            }
-        },
         {
             "start": 691,
             "end": 701,
@@ -243,30 +215,19 @@
             }
         }
     ],
-    "73": [
-        {
-            "start": 358,
-            "end": 362,
-            "refs": {
-                "Kiddushin 63a": "קידושין ס״ג א"
-            }
-        }
-    ],
-    "80": [
-        {
-            "start": 24,
-            "end": 28,
-            "refs": {
-                "Kiddushin 63a": "קידושין ס״ג א"
-            }
-        }
-    ],
     "86": [
         {
             "start": 544,
             "end": 578,
             "refs": {
                 "Mishneh Torah, Plaintiff and Defendant 12": "משנה תורה, הלכות טוען ונטען י״ב"
+            }
+        },
+        {
+            "start": 824,
+            "end": 842,
+            "refs": {
+                "Hasagot HaRa'avad on Mishneh Torah, Testimony 12": "השגות הראב\"ד על משנה תורה, הלכות עדות י״ב"
             }
         }
     ],

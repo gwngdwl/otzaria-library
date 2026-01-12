@@ -36,23 +36,9 @@
             "refs": {
                 "Mishneh Torah, Fringes 3:2": "משנה תורה, הלכות ציצית ג׳:ב׳"
             }
-        },
-        {
-            "start": 1124,
-            "end": 1130,
-            "refs": {
-                "Mishneh Torah, Fringes 3:2": "משנה תורה, הלכות ציצית ג׳:ב׳"
-            }
         }
     ],
     "8": [
-        {
-            "start": 201,
-            "end": 208,
-            "refs": {
-                "Menachot 41": "מנחות מ״א"
-            }
-        },
         {
             "start": 210,
             "end": 219,
@@ -111,15 +97,6 @@
             }
         }
     ],
-    "22": [
-        {
-            "start": 638,
-            "end": 642,
-            "refs": {
-                "Berakhot 21a": "ברכות כ״א א"
-            }
-        }
-    ],
     "23": [
         {
             "start": 376,
@@ -140,6 +117,28 @@
         }
     ],
     "36": [
+        {
+            "start": 434,
+            "end": 453,
+            "refs": {
+                "Mishneh Torah, Foreign Worship and Customs of the Nations 4:2": "משנה תורה, הלכות עבודה זרה וחוקות הגויים ד׳:ב׳"
+            }
+        },
+        {
+            "start": 486,
+            "end": 508,
+            "refs": {
+                "Sanhedrin 67a:2-6": "סנהדרין ס״ז א:ב׳-ו׳",
+                "Sanhedrin 67a:16-17": "סנהדרין ס״ז א:ט״ז-י״ז"
+            }
+        },
+        {
+            "start": 614,
+            "end": 621,
+            "refs": {
+                "Sanhedrin 61": "סנהדרין ס״א"
+            }
+        },
         {
             "start": 623,
             "end": 634,
@@ -229,6 +228,13 @@
             "refs": {
                 "Rosh Hashanah 20": "ראש השנה כ׳"
             }
+        },
+        {
+            "start": 1102,
+            "end": 1122,
+            "refs": {
+                "Mishneh Torah, Sanctification of the New Month 3:4": "משנה תורה, הלכות קידוש החודש ג׳:ד׳"
+            }
         }
     ],
     "53": [
@@ -237,6 +243,13 @@
             "end": 144,
             "refs": {
                 "Tosafot on Rosh Hashanah 22": "תוספות על ראש השנה כ״ב"
+            }
+        },
+        {
+            "start": 146,
+            "end": 160,
+            "refs": {
+                "Mishneh Torah, Sanctification of the New Month 3:3": "משנה תורה, הלכות קידוש החודש ג׳:ג׳"
             }
         },
         {
@@ -254,6 +267,13 @@
             "refs": {
                 "Ritva on Taanit 12": "ריטב\"א על תענית י״ב"
             }
+        },
+        {
+            "start": 420,
+            "end": 448,
+            "refs": {
+                "Shulchan Arukh, Yoreh De'ah 39:18": "שולחן ערוך, יורה דעה ל״ט:י״ח"
+            }
         }
     ],
     "67": [
@@ -263,12 +283,14 @@
             "refs": {
                 "Sotah 8": "סוטה ח׳"
             }
-        },
+        }
+    ],
+    "70": [
         {
-            "start": 237,
-            "end": 241,
+            "start": 78,
+            "end": 101,
             "refs": {
-                "Sotah 8a": "סוטה ח׳ א"
+                "Hasagot HaRa'avad on Mishneh Torah, First Fruits and other Gifts to Priests Outside the Sanctuary 2:6": "השגות הראב\"ד על משנה תורה, הלכות ביכורים ושאר מתנות כהונה שבגבולין ב׳:ו׳"
             }
         }
     ],
@@ -285,6 +307,13 @@
             "end": 569,
             "refs": {
                 "Berakhot 34": "ברכות ל״ד"
+            }
+        },
+        {
+            "start": 1037,
+            "end": 1057,
+            "refs": {
+                "Mishneh Torah, Prayer and the Priestly Blessing 1:2": "משנה תורה, הלכות תפילה וברכת כהנים א׳:ב׳"
             }
         }
     ],
@@ -371,10 +400,31 @@
     ],
     "90": [
         {
+            "start": 235,
+            "end": 253,
+            "refs": {
+                "Kessef Mishneh on Mishneh Torah, Prayer and the Priestly Blessing 8:5": "כסף משנה על משנה תורה, הלכות תפילה וברכת כהנים ח׳:ה׳"
+            }
+        },
+        {
             "start": 347,
             "end": 371,
             "refs": {
                 "Tosafot on Sukkah 28": "תוספות על סוכה כ״ח"
+            }
+        },
+        {
+            "start": 496,
+            "end": 522,
+            "refs": {
+                "Shulchan Arukh, Choshen Mishpat 25:2": "שולחן ערוך, חושן משפט כ״ה:ב׳"
+            }
+        },
+        {
+            "start": 662,
+            "end": 670,
+            "refs": {
+                "Shulchan Arukh, Choshen Mishpat 25:2": "שולחן ערוך, חושן משפט כ״ה:ב׳"
             }
         }
     ],

@@ -11,7 +11,7 @@
             "start": 422,
             "end": 431,
             "refs": {
-                "Tosafot on Bava Batra 175a": "תוספות על בבא בתרא קע״ה א"
+                "Tosafot on Bava Batra 175": "תוספות על בבא בתרא קע״ה"
             }
         },
         {
@@ -35,13 +35,6 @@
             "end": 1379,
             "refs": {
                 "Yevamot 87b:9-97a:8": "יבמות פ״ז ב:ט׳-צ״ז א:ח׳"
-            }
-        },
-        {
-            "start": 1545,
-            "end": 1550,
-            "refs": {
-                "Rashi on Yevamot 87b": "רש\"י על יבמות פ״ז ב"
             }
         }
     ],
@@ -70,6 +63,19 @@
                 "Pesachim 65b:10-73b:16": "פסחים ס״ה ב:י׳-ע״ג ב:ט״ז",
                 "Jerusalem Talmud Berakhot 8:1:1-8:7": "תלמוד ירושלמי ברכות ח׳:א׳:א׳-ח׳:ז׳",
                 "Jerusalem Talmud Pesachim 6:1:1-6:4": "תלמוד ירושלמי פסחים ו׳:א׳:א׳-ו׳:ד׳"
+            }
+        }
+    ],
+    "13": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Berakhot 3a": "ברכות ג׳ א",
+                "Pesachim 3a": "פסחים ג׳ א",
+                "Jerusalem Talmud Berakhot 1:1:12-15": "תלמוד ירושלמי ברכות א׳:א׳:י״ב-ט״ו",
+                "Jerusalem Talmud Berakhot 1:1:31-2:7": "תלמוד ירושלמי ברכות א׳:א׳:ל״א-ב׳:ז׳",
+                "Jerusalem Talmud Pesachim 1:1:17-2:2": "תלמוד ירושלמי פסחים א׳:א׳:י״ז-ב׳:ב׳"
             }
         }
     ],
@@ -244,6 +250,13 @@
             }
         },
         {
+            "start": 3913,
+            "end": 3948,
+            "refs": {
+                "Mishneh Torah, Ownerless Property and Gifts 4:4": "משנה תורה, הלכות זכייה ומתנה ד׳:ד׳"
+            }
+        },
+        {
             "start": 3959,
             "end": 3976,
             "refs": {
@@ -257,13 +270,6 @@
             "end": 1313,
             "refs": {
                 "Gittin 63": "גיטין ס״ג"
-            }
-        },
-        {
-            "start": 1352,
-            "end": 1358,
-            "refs": {
-                "Rashba on Gittin 63a": "רשב״א על גיטין ס״ג א"
             }
         },
         {
@@ -355,6 +361,7 @@
             "start": 166,
             "end": 173,
             "refs": {
+                "Berakhot 29": "ברכות כ״ט",
                 "Pesachim 29": "פסחים כ״ט"
             }
         },
@@ -479,6 +486,7 @@
             "start": 4,
             "end": 9,
             "refs": {
+                "Berakhot 15": "ברכות ט״ו",
                 "Pesachim 15": "פסחים ט״ו"
             }
         }
@@ -554,6 +562,15 @@
             "end": 1965,
             "refs": {
                 "Shulchan Arukh, Even HaEzer 124:19": "שולחן ערוך, אבן העזר קכ״ד:י״ט"
+            }
+        }
+    ],
+    "93": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Yevamot 18": "יבמות י״ח"
             }
         }
     ],

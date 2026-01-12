@@ -26,13 +26,6 @@
             }
         },
         {
-            "start": 730,
-            "end": 735,
-            "refs": {
-                "Chullin 95a": "חולין צ״ה א"
-            }
-        },
-        {
             "start": 1437,
             "end": 1459,
             "refs": {
@@ -298,13 +291,6 @@
             }
         },
         {
-            "start": 166,
-            "end": 171,
-            "refs": {
-                "Rif Ta'anit 10b": "רי\"ף תענית י׳ ב"
-            }
-        },
-        {
             "start": 377,
             "end": 396,
             "refs": {
@@ -440,14 +426,6 @@
             "start": 34,
             "end": 51,
             "refs": {
-                "Ketubot 64b": "כתובות ס״ד ב"
-            }
-        },
-        {
-            "start": 145,
-            "end": 150,
-            "refs": {
-                "Eruvin 81a": "עירובין פ״א א",
                 "Ketubot 64b": "כתובות ס״ד ב"
             }
         },
@@ -660,15 +638,6 @@
             }
         },
         {
-            "start": 747,
-            "end": 753,
-            "refs": {
-                "Rashi on Berakhot 38b": "רש\"י על ברכות ל״ח ב",
-                "Rashi on Shabbat 129b": "רש\"י על שבת קכ״ט ב",
-                "Rashi on Pesachim 113a": "רש\"י על פסחים קי״ג א"
-            }
-        },
-        {
             "start": 869,
             "end": 885,
             "refs": {
@@ -679,8 +648,6 @@
             "start": 995,
             "end": 1003,
             "refs": {
-                "Rashi on Shabbat 129b": "רש\"י על שבת קכ״ט ב",
-                "Rashi on Pesachim 113a": "רש\"י על פסחים קי״ג א",
                 "Rashi on Makkot 24a": "רש\"י על מכות כ״ד א"
             }
         }
@@ -871,14 +838,6 @@
             }
         },
         {
-            "start": 693,
-            "end": 699,
-            "refs": {
-                "Tosafot on Shabbat 145b": "תוספות על שבת קמ״ה ב",
-                "Tosafot on Kiddushin 29b": "תוספות על קידושין כ״ט ב"
-            }
-        },
-        {
             "start": 718,
             "end": 729,
             "refs": {
@@ -1060,7 +1019,7 @@
             "start": 928,
             "end": 936,
             "refs": {
-                "Rashi on Sanhedrin 24a": "רש\"י על סנהדרין כ״ד א"
+                "Rashi on Sanhedrin 24": "רש\"י על סנהדרין כ״ד"
             }
         },
         {
@@ -1193,13 +1152,6 @@
         {
             "start": 633,
             "end": 655,
-            "refs": {
-                "Nedarim 20b": "נדרים כ׳ ב"
-            }
-        },
-        {
-            "start": 836,
-            "end": 841,
             "refs": {
                 "Nedarim 20b": "נדרים כ׳ ב"
             }
@@ -1350,14 +1302,6 @@
             "end": 65,
             "refs": {
                 "Kiddushin 82a": "קידושין פ״ב א"
-            }
-        },
-        {
-            "start": 143,
-            "end": 148,
-            "refs": {
-                "Kiddushin 82a": "קידושין פ״ב א",
-                "Bava Metzia 71a": "בבא מציעא ע״א א"
             }
         },
         {

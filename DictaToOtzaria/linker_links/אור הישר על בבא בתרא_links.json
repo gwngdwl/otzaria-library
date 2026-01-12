@@ -45,6 +45,15 @@
             }
         }
     ],
+    "27": [
+        {
+            "start": 53,
+            "end": 71,
+            "refs": {
+                "Magen Avraham 152:5": "מגן אברהם קנ״ב:ה׳"
+            }
+        }
+    ],
     "28": [
         {
             "start": 82,
@@ -109,13 +118,6 @@
             "refs": {
                 "Beur HaGra on Shulchan Arukh, Choshen Mishpat 158:104": "ביאור הגר\"א על שולחן ערוך חושן משפט קנ״ח:ק״ד"
             }
-        },
-        {
-            "start": 79,
-            "end": 81,
-            "refs": {
-                "Beur HaGra on Shulchan Arukh, Choshen Mishpat 158:104": "ביאור הגר\"א על שולחן ערוך חושן משפט קנ״ח:ק״ד"
-            }
         }
     ],
     "52": [
@@ -137,6 +139,7 @@
             "start": 198,
             "end": 209,
             "refs": {
+                "Rashi on Nazir 22a": "רש\"י על נזיר כ״ב א",
                 "Rashi on Gittin 12b": "רש\"י על גיטין י״ב ב"
             }
         }
@@ -206,6 +209,42 @@
             "end": 114,
             "refs": {
                 "Ketzot HaChoshen on Shulchan Arukh, Choshen Mishpat 97:109": "קצות החושן על שולחן ערוך חושן משפט צ״ז:ק״ט"
+            }
+        }
+    ],
+    "92": [
+        {
+            "start": 304,
+            "end": 321,
+            "refs": {
+                "Shabbat 33a": "שבת ל״ג א"
+            }
+        }
+    ],
+    "93": [
+        {
+            "start": 4,
+            "end": 9,
+            "refs": {
+                "Shabbat 9a": "שבת ט׳ א"
+            }
+        }
+    ],
+    "94": [
+        {
+            "start": 110,
+            "end": 128,
+            "refs": {
+                "Teshuvot Maharik 5:6": "שו\"ת מהרי\"ק ה׳:ו׳"
+            }
+        }
+    ],
+    "95": [
+        {
+            "start": 60,
+            "end": 75,
+            "refs": {
+                "Teshuvot Maharik 181": "שו\"ת מהרי\"ק קפ״א"
             }
         }
     ],

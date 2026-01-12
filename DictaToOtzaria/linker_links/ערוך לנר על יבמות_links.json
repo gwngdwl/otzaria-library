@@ -15,6 +15,13 @@
             }
         },
         {
+            "start": 1005,
+            "end": 1024,
+            "refs": {
+                "Mishneh Torah, Levirate Marriage and Release 6": "משנה תורה, הלכות יבום וחליצה ו׳"
+            }
+        },
+        {
             "start": 1319,
             "end": 1339,
             "refs": {
@@ -64,13 +71,6 @@
             "end": 22,
             "refs": {
                 "Rashi on Yevamot 2a:3:1": "רש\"י על יבמות ב׳ א:ג׳:א׳"
-            }
-        },
-        {
-            "start": 36,
-            "end": 42,
-            "refs": {
-                "Maharam on Yevamot 2a": "מהר\"ם על יבמות ב׳ א"
             }
         },
         {
@@ -128,6 +128,15 @@
             "end": 247,
             "refs": {
                 "Tosafot on Shevuot 22": "תוספות על שבועות כ״ב"
+            }
+        }
+    ],
+    "26": [
+        {
+            "start": 141,
+            "end": 162,
+            "refs": {
+                "Mishneh Torah, Levirate Marriage and Release 6": "משנה תורה, הלכות יבום וחליצה ו׳"
             }
         }
     ],
@@ -199,8 +208,8 @@
             "start": 111,
             "end": 120,
             "refs": {
-                "Tosafot on Shabbat 25a": "תוספות על שבת כ״ה א",
-                "Tosafot on Moed Katan 28a": "תוספות על מועד קטן כ״ח א"
+                "Tosafot on Shabbat 25": "תוספות על שבת כ״ה",
+                "Tosafot on Moed Katan 28": "תוספות על מועד קטן כ״ח"
             }
         }
     ],
@@ -531,6 +540,20 @@
     ],
     "74": [
         {
+            "start": 365,
+            "end": 384,
+            "refs": {
+                "Mishnah Kilayim 9": "משנה כלאים ט׳"
+            }
+        },
+        {
+            "start": 431,
+            "end": 442,
+            "refs": {
+                "Mishnah Kilayim 9": "משנה כלאים ט׳"
+            }
+        },
+        {
             "start": 489,
             "end": 510,
             "refs": {
@@ -599,6 +622,7 @@
             "start": 4,
             "end": 8,
             "refs": {
+                "Shevuot 5": "שבועות ה׳",
                 "Tosafot on Shevuot 5": "תוספות על שבועות ה׳"
             }
         }
@@ -609,13 +633,6 @@
             "end": 41,
             "refs": {
                 "Tosafot on Pesachim 88": "תוספות על פסחים פ״ח"
-            }
-        },
-        {
-            "start": 183,
-            "end": 189,
-            "refs": {
-                "Tosafot on Pesachim 88a": "תוספות על פסחים פ״ח א"
             }
         },
         {
@@ -701,13 +718,6 @@
             "end": 178,
             "refs": {
                 "Nazir 56": "נזיר נ״ו"
-            }
-        },
-        {
-            "start": 246,
-            "end": 261,
-            "refs": {
-                "Tosafot on Nazir 56a:8:1": "תוספות על נזיר נ״ו א:ח׳:א׳"
             }
         },
         {
