@@ -1,1219 +1,996 @@
-{
-    "9": [
-        {
-            "start": 112,
-            "end": 124,
-            "refs": {
-                "Mishnah Sukkah 4:63": "משנה סוכה ד׳:ס״ג"
-            }
-        }
-    ],
-    "18": [
-        {
-            "start": 127,
-            "end": 135,
-            "refs": {
-                "Sukkah 51": "סוכה נ״א"
-            }
-        },
-        {
-            "start": 136,
-            "end": 145,
-            "refs": {
-                "Gittin 17": "גיטין י״ז"
-            }
-        }
-    ],
-    "44": [
-        {
-            "start": 805,
-            "end": 817,
-            "refs": {
-                "Kiddushin 40a": "קידושין מ׳ א"
-            }
-        }
-    ],
-    "46": [
-        {
-            "start": 79,
-            "end": 80,
-            "refs": {
-                "Kiddushin 5": "קידושין ה׳"
-            }
-        }
-    ],
-    "49": [
-        {
-            "start": 1978,
-            "end": 1990,
-            "refs": {
-                "Genesis 2:3": "בראשית ב׳:ג׳"
-            }
-        },
-        {
-            "start": 2051,
-            "end": 2060,
-            "refs": {
-                "Genesis 36": "בראשית ל״ו"
-            }
-        },
-        {
-            "start": 2155,
-            "end": 2156,
-            "refs": {
-                "Genesis 5": "בראשית ה׳",
-                "Genesis 36:5": "בראשית ל״ו:ה׳"
-            }
-        },
-        {
-            "start": 2158,
-            "end": 2166,
-            "refs": {
-                "Genesis 39": "בראשית ל״ט"
-            }
-        },
-        {
-            "start": 2188,
-            "end": 2199,
-            "refs": {
-                "Genesis 41:14": "בראשית מ״א:י״ד"
-            }
-        },
-        {
-            "start": 2215,
-            "end": 2226,
-            "refs": {
-                "Genesis 46:6": "בראשית מ״ו:ו׳"
-            }
-        },
-        {
-            "start": 2311,
-            "end": 2319,
-            "refs": {
-                "Exodus 10:9": "שמות י׳:ט׳"
-            }
-        },
-        {
-            "start": 2336,
-            "end": 2353,
-            "refs": {
-                "Exodus 29:26": "שמות כ״ט:כ״ו"
-            }
-        },
-        {
-            "start": 2367,
-            "end": 2377,
-            "refs": {
-                "Genesis 29:15": "בראשית כ״ט:ט״ו",
-                "Exodus 29:15": "שמות כ״ט:ט״ו"
-            }
-        },
-        {
-            "start": 2560,
-            "end": 2571,
-            "refs": {
-                "Deuteronomy 13:12": "דברים י״ג:י״ב"
-            }
-        },
-        {
-            "start": 2757,
-            "end": 2771,
-            "refs": {
-                "Deuteronomy 32:34": "דברים ל״ב:ל״ד"
-            }
-        },
-        {
-            "start": 3372,
-            "end": 3395,
-            "refs": {
-                "Teshuvot HaRadbaz Volume 3 509": "תשובות הרדב\"ז חלק ג תק״ט"
-            }
-        }
-    ],
-    "50": [
-        {
-            "start": 892,
-            "end": 904,
-            "refs": {
-                "Sanhedrin 104b": "סנהדרין ק״ד ב"
-            }
-        }
-    ],
-    "56": [
-        {
-            "start": 586,
-            "end": 602,
-            "refs": {
-                "Mishnah Megillah 1": "משנה מגילה א׳"
-            }
-        },
-        {
-            "start": 975,
-            "end": 981,
-            "refs": {
-                "Mishnah Bava Kamma 4": "משנה בבא קמא ד׳",
-                "Bava Kamma 4": "בבא קמא ד׳",
-                "Bava Kamma 36a:9-46a:6": "בבא קמא ל״ו א:ט׳-מ״ו א:ו׳"
-            }
-        },
-        {
-            "start": 1929,
-            "end": 1940,
-            "refs": {
-                "Malachi 3:8": "מלאכי ג׳:ח׳"
-            }
-        },
-        {
-            "start": 2445,
-            "end": 2455,
-            "refs": {
-                "Avodah Zarah 9a": "עבודה זרה ט׳ א"
-            }
-        }
-    ],
-    "69": [
-        {
-            "start": 257,
-            "end": 266,
-            "refs": {
-                "Jeremiah 43": "ירמיהו מ״ג"
-            }
-        }
-    ],
-    "70": [
-        {
-            "start": 61,
-            "end": 62,
-            "refs": {
-                "Jeremiah 8": "ירמיהו ח׳",
-                "Jeremiah 43:8": "ירמיהו מ״ג:ח׳"
-            }
-        }
-    ],
-    "85": [
-        {
-            "start": 3556,
-            "end": 3571,
-            "refs": {
-                "I Samuel 8": "שמואל א ח׳"
-            }
-        },
-        {
-            "start": 3644,
-            "end": 3646,
-            "refs": {
-                "I Samuel 8": "שמואל א ח׳"
-            }
-        }
-    ],
-    "102": [
-        {
-            "start": 1439,
-            "end": 1452,
-            "refs": {
-                "Deuteronomy 28:68": "דברים כ״ח:ס״ח"
-            }
-        },
-        {
-            "start": 1622,
-            "end": 1632,
-            "refs": {
-                "Exodus 14:13": "שמות י״ד:י״ג"
-            }
-        }
-    ],
-    "103": [
-        {
-            "start": 213,
-            "end": 222,
-            "refs": {
-                "Sukkah 50a:6-56b:9": "סוכה נ׳ א:ו׳-נ״ו ב:ט׳",
-                "Jerusalem Talmud Sukkah 5:1:1-8:8": "תלמוד ירושלמי סוכה ה׳:א׳:א׳-ח׳:ח׳"
-            }
-        },
-        {
-            "start": 406,
-            "end": 416,
-            "refs": {
-                "Ezekiel 29": "יחזקאל כ״ט"
-            }
-        }
-    ],
-    "104": [
-        {
-            "start": 52,
-            "end": 69,
-            "refs": {
-                "Tur, Even HaEzer 4": "טור, אבן העזר ד׳"
-            }
-        },
-        {
-            "start": 588,
-            "end": 601,
-            "refs": {
-                "Deuteronomy 17:16": "דברים י״ז:ט״ז"
-            }
-        },
-        {
-            "start": 733,
-            "end": 740,
-            "refs": {
-                "Exodus 14": "שמות י״ד"
-            }
-        },
-        {
-            "start": 826,
-            "end": 835,
-            "refs": {
-                "Deuteronomy 28": "דברים כ״ח"
-            }
-        }
-    ],
-    "106": [
-        {
-            "start": 36,
-            "end": 45,
-            "refs": {
-                "Sukkah 50a:6-56b:9": "סוכה נ׳ א:ו׳-נ״ו ב:ט׳",
-                "Jerusalem Talmud Sukkah 5:1:1-8:8": "תלמוד ירושלמי סוכה ה׳:א׳:א׳-ח׳:ח׳"
-            }
-        },
-        {
-            "start": 374,
-            "end": 384,
-            "refs": {
-                "Jeremiah 46": "ירמיהו מ״ו"
-            }
-        },
-        {
-            "start": 710,
-            "end": 722,
-            "refs": {
-                "II Kings 23": "מלכים ב כ״ג"
-            }
-        },
-        {
-            "start": 723,
-            "end": 732,
-            "refs": {
-                "II Chronicles 35": "דברי הימים ב ל״ה"
-            }
-        },
-        {
-            "start": 777,
-            "end": 787,
-            "refs": {
-                "Jeremiah 43": "ירמיהו מ״ג"
-            }
-        },
-        {
-            "start": 905,
-            "end": 912,
-            "refs": {
-                "Jeremiah 44": "ירמיהו מ״ד"
-            }
-        }
-    ],
-    "107": [
-        {
-            "start": 597,
-            "end": 606,
-            "refs": {
-                "Sukkah 50a:6-56b:9": "סוכה נ׳ א:ו׳-נ״ו ב:ט׳",
-                "Jerusalem Talmud Sukkah 5:1:1-8:8": "תלמוד ירושלמי סוכה ה׳:א׳:א׳-ח׳:ח׳"
-            }
-        },
-        {
-            "start": 844,
-            "end": 859,
-            "refs": {
-                "Ezekiel 29:13": "יחזקאל כ״ט:י״ג"
-            }
-        }
-    ],
-    "113": [
-        {
-            "start": 178,
-            "end": 193,
-            "refs": {
-                "Rashi on Joshua 13": "רש\"י על יהושע י״ג"
-            }
-        }
-    ],
-    "114": [
-        {
-            "start": 141,
-            "end": 162,
-            "refs": {
-                "Mishneh Torah, Kings and Wars 5": "משנה תורה, הלכות מלכים ומלחמות ה׳"
-            }
-        }
-    ],
-    "115": [
-        {
-            "start": 871,
-            "end": 881,
-            "refs": {
-                "Numbers 33:1-36:13": "במדבר ל״ג:א׳-ל״ו:י״ג"
-            }
-        },
-        {
-            "start": 1390,
-            "end": 1400,
-            "refs": {
-                "Mishnah Sotah 1": "משנה סוטה א׳",
-                "Sotah 2a:1-14a:11": "סוטה ב׳ א:א׳-י״ד א:י״א"
-            }
-        }
-    ],
-    "118": [
-        {
-            "start": 257,
-            "end": 270,
-            "refs": {
-                "II Chronicles 12:3": "דברי הימים ב י״ב:ג׳"
-            }
-        }
-    ],
-    "119": [
-        {
-            "start": 935,
-            "end": 946,
-            "refs": {
-                "Numbers 34:3": "במדבר ל״ד:ג׳"
-            }
-        }
-    ],
-    "120": [
-        {
-            "start": 330,
-            "end": 343,
-            "refs": {
-                "Joshua 16:47": "יהושע ט״ז:מ״ז"
-            }
-        },
-        {
-            "start": 345,
-            "end": 360,
-            "refs": {
-                "I Kings 9:65": "מלכים א ט׳:ס״ה"
-            }
-        }
-    ],
-    "121": [
-        {
-            "start": 17,
-            "end": 37,
-            "refs": {
-                "Joshua 16:47": "יהושע ט״ז:מ״ז"
-            }
-        }
-    ],
-    "125": [
-        {
-            "start": 100,
-            "end": 110,
-            "refs": {
-                "Joshua 13": "יהושע י״ג"
-            }
-        },
-        {
-            "start": 177,
-            "end": 189,
-            "refs": {
-                "Jeremiah 2:18": "ירמיהו ב׳:י״ח"
-            }
-        }
-    ],
-    "134": [
-        {
-            "start": 1062,
-            "end": 1075,
-            "refs": {
-                "Judges 15:5": "שופטים ט״ו:ה׳"
-            }
-        },
-        {
-            "start": 2656,
-            "end": 2667,
-            "refs": {
-                "Judges 15:5": "שופטים ט״ו:ה׳"
-            }
-        }
-    ],
-    "136": [
-        {
-            "start": 242,
-            "end": 254,
-            "refs": {
-                "Genesis 10:30": "בראשית י׳:ל׳"
-            }
-        }
-    ],
-    "157": [
-        {
-            "start": 1230,
-            "end": 1238,
-            "refs": {
-                "Genesis 27": "בראשית כ״ז"
-            }
-        },
-        {
-            "start": 1261,
-            "end": 1270,
-            "refs": {
-                "Isaiah 11": "ישעיהו י״א"
-            }
-        }
-    ],
-    "166": [
-        {
-            "start": 2098,
-            "end": 2105,
-            "refs": {
-                "Mishnah Shabbat 2": "משנה שבת ב׳",
-                "Shabbat 20b:5-36b:2": "שבת כ׳ ב:ה׳-ל״ו ב:ב׳",
-                "Shabbat 82": "שבת פ״ב"
-            }
-        }
-    ],
-    "172": [
-        {
-            "start": 29,
-            "end": 31,
-            "refs": {
-                "Mishnah Shabbat 15": "משנה שבת ט״ו",
-                "Shabbat 15": "שבת ט״ו",
-                "Shabbat 111b:5-115a:2": "שבת קי״א ב:ה׳-קט״ו א:ב׳"
-            }
-        }
-    ],
-    "176": [
-        {
-            "start": 1022,
-            "end": 1030,
-            "refs": {
-                "Mishnah Megillah 3": "משנה מגילה ג׳",
-                "Megillah 3": "מגילה ג׳",
-                "Megillah 21a:10-25b:19": "מגילה כ״א א:י׳-כ״ה ב:י״ט"
-            }
-        },
-        {
-            "start": 1031,
-            "end": 1040,
-            "refs": {
-                "Nedarim 37": "נדרים ל״ז"
-            }
-        }
-    ],
-    "185": [
-        {
-            "start": 466,
-            "end": 478,
-            "refs": {
-                "II Kings 22": "מלכים ב כ״ב"
-            }
-        },
-        {
-            "start": 916,
-            "end": 928,
-            "refs": {
-                "Daniel 12:7": "דניאל י״ב:ז׳"
-            }
-        },
-        {
-            "start": 2240,
-            "end": 2249,
-            "refs": {
-                "Psalms 22": "תהילים כ״ב"
-            }
-        }
-    ],
-    "188": [
-        {
-            "start": 292,
-            "end": 305,
-            "refs": {
-                "Berakhot 62a": "ברכות ס״ב א"
-            }
-        }
-    ],
-    "190": [
-        {
-            "start": 956,
-            "end": 972,
-            "refs": {
-                "Sukkah 42b:5-50a:5": "סוכה מ״ב ב:ה׳-נ׳ א:ה׳"
-            }
-        }
-    ],
-    "194": [
-        {
-            "start": 44,
-            "end": 46,
-            "refs": {
-                "Sukkah 26": "סוכה כ״ו"
-            }
-        }
-    ],
-    "205": [
-        {
-            "start": 123,
-            "end": 136,
-            "refs": {
-                "Exodus 25:31": "שמות כ״ה:ל״א"
-            }
-        }
-    ],
-    "215": [
-        {
-            "start": 287,
-            "end": 299,
-            "refs": {
-                "Avodah Zarah 9a:10": "עבודה זרה ט׳ א:י׳"
-            }
-        },
-        {
-            "start": 709,
-            "end": 718,
-            "refs": {
-                "Magen Avraham 448": "מגן אברהם תמ״ח"
-            }
-        },
-        {
-            "start": 751,
-            "end": 760,
-            "refs": {
-                "Magen Avraham 447": "מגן אברהם תמ״ז"
-            }
-        },
-        {
-            "start": 1629,
-            "end": 1638,
-            "refs": {
-                "Magen Avraham 443": "מגן אברהם תמ״ג"
-            }
-        },
-        {
-            "start": 2156,
-            "end": 2164,
-            "refs": {
-                "Zechariah 9": "זכריה ט׳"
-            }
-        },
-        {
-            "start": 2186,
-            "end": 2193,
-            "refs": {
-                "Mishnah Rosh Hashanah 4": "משנה ראש השנה ד׳",
-                "Rosh Hashanah 4": "ראש השנה ד׳",
-                "Rosh Hashanah 29b:5-35a:13": "ראש השנה כ״ט ב:ה׳-ל״ה א:י״ג"
-            }
-        },
-        {
-            "start": 2408,
-            "end": 2417,
-            "refs": {
-                "Mishnah Avodah Zarah 1": "משנה עבודה זרה א׳",
-                "Avodah Zarah 2a:1-22a:10": "עבודה זרה ב׳ א:א׳-כ״ב א:י׳"
-            }
-        },
-        {
-            "start": 2759,
-            "end": 2770,
-            "refs": {
-                "Rosh Hashanah 9a": "ראש השנה ט׳ א",
-                "Avodah Zarah 9a": "עבודה זרה ט׳ א"
-            }
-        },
-        {
-            "start": 2815,
-            "end": 2825,
-            "refs": {
-                "Rashi on Rosh Hashanah 9a": "רש\"י על ראש השנה ט׳ א",
-                "Rashi on Avodah Zarah 2a": "רש\"י על עבודה זרה ב׳ א",
-                "Rashi on Avodah Zarah 9a": "רש\"י על עבודה זרה ט׳ א"
-            }
-        },
-        {
-            "start": 4541,
-            "end": 4550,
-            "refs": {
-                "Mishnah Rosh Hashanah 1": "משנה ראש השנה א׳",
-                "Rosh Hashanah 2a:1-22a:12": "ראש השנה ב׳ א:א׳-כ״ב א:י״ב"
-            }
-        },
-        {
-            "start": 4559,
-            "end": 4566,
-            "refs": {
-                "Mishnah Rosh Hashanah 1:26": "משנה ראש השנה א׳:כ״ו"
-            }
-        }
-    ],
-    "216": [
-        {
-            "start": 778,
-            "end": 801,
-            "refs": {
-                "Tosafot on Avodah Zarah 9b:2:1": "תוספות על עבודה זרה ט׳ ב:ב׳:א׳"
-            }
-        }
-    ],
-    "217": [
-        {
-            "start": 123,
-            "end": 135,
-            "refs": {
-                "Mishnah Sheviit 6": "משנה שביעית ו׳"
-            }
-        }
-    ],
-    "219": [
-        {
-            "start": 120,
-            "end": 129,
-            "refs": {
-                "Avodah Zarah 9a": "עבודה זרה ט׳ א"
-            }
-        }
-    ],
-    "220": [
-        {
-            "start": 117,
-            "end": 128,
-            "refs": {
-                "Mishnah Sheviit 10": "משנה שביעית י׳"
-            }
-        }
-    ],
-    "221": [
-        {
-            "start": 73,
-            "end": 96,
-            "refs": {
-                "Tosafot on Avodah Zarah 9b:2:1": "תוספות על עבודה זרה ט׳ ב:ב׳:א׳"
-            }
-        },
-        {
-            "start": 152,
-            "end": 164,
-            "refs": {
-                "Eruvin 12": "עירובין י״ב"
-            }
-        }
-    ],
-    "222": [
-        {
-            "start": 50,
-            "end": 65,
-            "refs": {
-                "Mishnah Shevuot 6": "משנה שבועות ו׳",
-                "Shevuot 38b:8-44b:7": "שבועות ל״ח ב:ח׳-מ״ד ב:ז׳"
-            }
-        }
-    ],
-    "380": [
-        {
-            "start": 3460,
-            "end": 3471,
-            "refs": {
-                "Pirkei Avot 5:3": "משנה אבות ה׳:ג׳"
-            }
-        }
-    ],
-    "400": [
-        {
-            "start": 1759,
-            "end": 1769,
-            "refs": {
-                "Psalms 118": "תהילים קי״ח"
-            }
-        }
-    ],
-    "544": [
-        {
-            "start": 294,
-            "end": 307,
-            "refs": {
-                "Genesis 10:27": "בראשית י׳:כ״ז"
-            }
-        }
-    ],
-    "555": [
-        {
-            "start": 4149,
-            "end": 4162,
-            "refs": {
-                "Isaiah 27:13": "ישעיהו כ״ז:י״ג"
-            }
-        }
-    ],
-    "557": [
-        {
-            "start": 569,
-            "end": 581,
-            "refs": {
-                "Proverbs 22:23": "משלי כ״ב:כ״ג"
-            }
-        }
-    ],
-    "616": [
-        {
-            "start": 2853,
-            "end": 2863,
-            "refs": {
-                "Song of Songs 5:4": "שיר השירים ה׳:ד׳"
-            }
-        }
-    ],
-    "627": [
-        {
-            "start": 59,
-            "end": 61,
-            "refs": {
-                "Ezekiel 46": "יחזקאל מ״ו"
-            }
-        }
-    ],
-    "673": [
-        {
-            "start": 2596,
-            "end": 2604,
-            "refs": {
-                "Sotah 47": "סוטה מ״ז"
-            }
-        },
-        {
-            "start": 3547,
-            "end": 3548,
-            "refs": {
-                "Tikkunei Zohar 80": "תקוני הזהר פ׳"
-            }
-        },
-        {
-            "start": 3736,
-            "end": 3737,
-            "refs": {
-                "Tikkunei Zohar 80": "תקוני הזהר פ׳"
-            }
-        },
-        {
-            "start": 4156,
-            "end": 4163,
-            "refs": {
-                "Mishnah Beitzah 4": "משנה ביצה ד׳",
-                "Beitzah 4": "ביצה ד׳",
-                "Beitzah 29b:10-35b:6": "ביצה כ״ט ב:י׳-ל״ה ב:ו׳"
-            }
-        },
-        {
-            "start": 5247,
-            "end": 5259,
-            "refs": {
-                "Job 29:22": "איוב כ״ט:כ״ב"
-            }
-        },
-        {
-            "start": 5357,
-            "end": 5363,
-            "refs": {
-                "Shabbat 33": "שבת ל״ג"
-            }
-        },
-        {
-            "start": 12443,
-            "end": 12456,
-            "refs": {
-                "Exodus 25:31": "שמות כ״ה:ל״א"
-            }
-        },
-        {
-            "start": 16041,
-            "end": 16051,
-            "refs": {
-                "Genesis 28:10-32:3": "בראשית כ״ח:י׳-ל״ב:ג׳"
-            }
-        },
-        {
-            "start": 16117,
-            "end": 16128,
-            "refs": {
-                "Exodus 25:1-27:19": "שמות כ״ה:א׳-כ״ז:י״ט"
-            }
-        },
-        {
-            "start": 16206,
-            "end": 16216,
-            "refs": {
-                "Numbers 33:1-36:13": "במדבר ל״ג:א׳-ל״ו:י״ג"
-            }
-        },
-        {
-            "start": 16279,
-            "end": 16290,
-            "refs": {
-                "Deuteronomy 1:1-3:22": "דברים א׳:א׳-ג׳:כ״ב"
-            }
-        },
-        {
-            "start": 16434,
-            "end": 16446,
-            "refs": {
-                "Deuteronomy 3:23-7:11": "דברים ג׳:כ״ג-ז׳:י״א"
-            }
-        },
-        {
-            "start": 16509,
-            "end": 16520,
-            "refs": {
-                "Nahum 1:12": "נחום א׳:י״ב"
-            }
-        },
-        {
-            "start": 18353,
-            "end": 18365,
-            "refs": {
-                "Deuteronomy 32:1-52": "דברים ל״ב:א׳-נ״ב"
-            }
-        },
-        {
-            "start": 19048,
-            "end": 19059,
-            "refs": {
-                "Kiddushin 69a:12-82b:6": "קידושין ס״ט א:י״ב-פ״ב ב:ו׳",
-                "Jerusalem Talmud Kiddushin 4:1:1-12:3": "תלמוד ירושלמי קידושין ד׳:א׳:א׳-י״ב:ג׳"
-            }
-        },
-        {
-            "start": 19246,
-            "end": 19255,
-            "refs": {
-                "Kiddushin 70": "קידושין ע׳"
-            }
-        },
-        {
-            "start": 25172,
-            "end": 25185,
-            "refs": {
-                "Jeremiah 29:23": "ירמיהו כ״ט:כ״ג"
-            }
-        },
-        {
-            "start": 25615,
-            "end": 25628,
-            "refs": {
-                "Joshua 23:12": "יהושע כ״ג:י״ב"
-            }
-        },
-        {
-            "start": 29728,
-            "end": 29738,
-            "refs": {
-                "Ezekiel 29": "יחזקאל כ״ט"
-            }
-        },
-        {
-            "start": 29816,
-            "end": 29818,
-            "refs": {
-                "Ezekiel 29": "יחזקאל כ״ט"
-            }
-        },
-        {
-            "start": 30894,
-            "end": 30907,
-            "refs": {
-                "Mishnah Tahorot 5:4": "משנה טהרות ה׳:ד׳"
-            }
-        },
-        {
-            "start": 33186,
-            "end": 33194,
-            "refs": {
-                "Megillah 6": "מגילה ו׳"
-            }
-        },
-        {
-            "start": 34413,
-            "end": 34426,
-            "refs": {
-                "Joshua 19:41": "יהושע י״ט:מ״א"
-            }
-        },
-        {
-            "start": 35526,
-            "end": 35539,
-            "refs": {
-                "Deuteronomy 2:23": "דברים ב׳:כ״ג"
-            }
-        },
-        {
-            "start": 35792,
-            "end": 35801,
-            "refs": {
-                "Joshua 13": "יהושע י״ג"
-            }
-        },
-        {
-            "start": 36945,
-            "end": 36959,
-            "refs": {
-                "I Chronicles 7:28": "דברי הימים א ז׳:כ״ח"
-            }
-        },
-        {
-            "start": 37299,
-            "end": 37309,
-            "refs": {
-                "Joshua 16": "יהושע ט״ז"
-            }
-        },
-        {
-            "start": 38367,
-            "end": 38379,
-            "refs": {
-                "Ezekiel 4:9": "יחזקאל ד׳:ט׳"
-            }
-        },
-        {
-            "start": 39615,
-            "end": 39629,
-            "refs": {
-                "Pesachim 35a": "פסחים ל״ה א"
-            }
-        },
-        {
-            "start": 40184,
-            "end": 40186,
-            "refs": {
-                "Tosafot on Pesachim 80a": "תוספות על פסחים פ׳ א"
-            }
-        },
-        {
-            "start": 40319,
-            "end": 40321,
-            "refs": {
-                "Tosafot on Pesachim 80a": "תוספות על פסחים פ׳ א"
-            }
-        },
-        {
-            "start": 40434,
-            "end": 40436,
-            "refs": {
-                "Tosafot on Pesachim 80a": "תוספות על פסחים פ׳ א"
-            }
-        },
-        {
-            "start": 40605,
-            "end": 40617,
-            "refs": {
-                "Ezekiel 4:7": "יחזקאל ד׳:ז׳"
-            }
-        },
-        {
-            "start": 41331,
-            "end": 41344,
-            "refs": {
-                "Judges 1:16": "שופטים א׳:ט״ז"
-            }
-        },
-        {
-            "start": 43238,
-            "end": 43247,
-            "refs": {
-                "Bava Batra 133": "בבא בתרא קל״ג"
-            }
-        },
-        {
-            "start": 44805,
-            "end": 44817,
-            "refs": {
-                "II Samuel 15": "שמואל ב ט״ו"
-            }
-        },
-        {
-            "start": 45237,
-            "end": 45245,
-            "refs": {
-                "Sukkah 39": "סוכה ל״ט"
-            }
-        },
-        {
-            "start": 45272,
-            "end": 45281,
-            "refs": {
-                "Shabbat 101": "שבת ק״א"
-            }
-        },
-        {
-            "start": 45326,
-            "end": 45343,
-            "refs": {
-                "Rashi on Beitzah 38": "רש\"י על ביצה ל״ח"
-            }
-        },
-        {
-            "start": 46090,
-            "end": 46099,
-            "refs": {
-                "Mishnah Berakhot 5": "משנה ברכות ה׳",
-                "Berakhot 30b:14-34b:32": "ברכות ל׳ ב:י״ד-ל״ד ב:ל״ב"
-            }
-        },
-        {
-            "start": 46521,
-            "end": 46528,
-            "refs": {
-                "Mishnah Bava Batra 1": "משנה בבא בתרא א׳",
-                "Bava Batra 2a:1-17a:7": "בבא בתרא ב׳ א:א׳-י״ז א:ז׳",
-                "Bava Batra 81": "בבא בתרא פ״א"
-            }
-        },
-        {
-            "start": 46935,
-            "end": 46943,
-            "refs": {
-                "Mishnah Bava Kamma 6": "משנה בבא קמא ו׳",
-                "Bava Kamma 55b:1-62b:6": "בבא קמא נ״ה ב:א׳-ס״ב ב:ו׳",
-                "Bava Kamma 86": "בבא קמא פ״ו"
-            }
-        },
-        {
-            "start": 47476,
-            "end": 47481,
-            "refs": {
-                "Shabbat 100": "שבת ק׳"
-            }
-        },
-        {
-            "start": 47563,
-            "end": 47576,
-            "refs": {
-                "Taanit 23b": "תענית כ״ג ב"
-            }
-        },
-        {
-            "start": 47892,
-            "end": 47902,
-            "refs": {
-                "Mishnah Ketubot 2": "משנה כתובות ב׳",
-                "Ketubot 15b:12-28b:14": "כתובות ט״ו ב:י״ב-כ״ח ב:י״ד",
-                "Ketubot 82": "כתובות פ״ב"
-            }
-        },
-        {
-            "start": 48109,
-            "end": 48116,
-            "refs": {
-                "Mishnah Shabbat 2": "משנה שבת ב׳",
-                "Shabbat 20b:5-36b:2": "שבת כ׳ ב:ה׳-ל״ו ב:ב׳",
-                "Shabbat 82": "שבת פ״ב"
-            }
-        },
-        {
-            "start": 50328,
-            "end": 50334,
-            "refs": {
-                "Deuteronomy 32:1-52": "דברים ל״ב:א׳-נ״ב"
-            }
-        },
-        {
-            "start": 51850,
-            "end": 51863,
-            "refs": {
-                "Joshua 23:22": "יהושע כ״ג:כ״ב"
-            }
-        },
-        {
-            "start": 51897,
-            "end": 51907,
-            "refs": {
-                "Lamentations 1:10": "איכה א׳:י׳"
-            }
-        },
-        {
-            "start": 54313,
-            "end": 54321,
-            "refs": {
-                "Jeremiah 29": "ירמיהו כ״ט"
-            }
-        },
-        {
-            "start": 54360,
-            "end": 54366,
-            "refs": {
-                "Deuteronomy 26:1-29:8": "דברים כ״ו:א׳-כ״ט:ח׳"
-            }
-        },
-        {
-            "start": 54683,
-            "end": 54692,
-            "refs": {
-                "Isaiah 49": "ישעיהו מ״ט"
-            }
-        },
-        {
-            "start": 54711,
-            "end": 54720,
-            "refs": {
-                "Jeremiah 51": "ירמיהו נ״א"
-            }
-        },
-        {
-            "start": 56233,
-            "end": 56240,
-            "refs": {
-                "Mishnah Bava Batra 1": "משנה בבא בתרא א׳",
-                "Bava Batra 2a:1-17a:7": "בבא בתרא ב׳ א:א׳-י״ז א:ז׳",
-                "Bava Batra 81": "בבא בתרא פ״א"
-            }
-        },
-        {
-            "start": 60071,
-            "end": 60081,
-            "refs": {
-                "Jeremiah 49": "ירמיהו מ״ט"
-            }
-        },
-        {
-            "start": 62073,
-            "end": 62086,
-            "refs": {
-                "Isaiah 22:22": "ישעיהו כ״ב:כ״ב"
-            }
-        },
-        {
-            "start": 62237,
-            "end": 62256,
-            "refs": {
-                "Mishnah Kelim 14:8": "משנה כלים י״ד:ח׳"
-            }
-        },
-        {
-            "start": 62413,
-            "end": 62426,
-            "refs": {
-                "Isaiah 22:22": "ישעיהו כ״ב:כ״ב",
-                "Mishnah Kelim 14:8": "משנה כלים י״ד:ח׳"
-            }
-        },
-        {
-            "start": 62435,
-            "end": 62442,
-            "refs": {
-                "Rosh Hashanah 29b:5-35a:13": "ראש השנה כ״ט ב:ה׳-ל״ה א:י״ג",
-                "Beitzah 15b:1-23b:10": "ביצה ט״ו ב:א׳-כ״ג ב:י׳",
-                "Jerusalem Talmud Rosh Hashanah 4:1:1-10:5": "תלמוד ירושלמי ראש השנה ד׳:א׳:א׳-י׳:ה׳",
-                "Jerusalem Talmud Beitzah 2:1:1-10:2": "תלמוד ירושלמי ביצה ב׳:א׳:א׳-י׳:ב׳"
-            }
-        },
-        {
-            "start": 63307,
-            "end": 63320,
-            "refs": {
-                "Ezekiel 27:9": "יחזקאל כ״ז:ט׳"
-            }
-        }
-    ]
-}
+[
+  {
+    "line_index_1": 5,
+    "line_index_2": 2,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 9,
+    "line_index_2": 3,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 12,
+    "line_index_2": 4,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 13,
+    "line_index_2": 5,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 6,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 15,
+    "line_index_2": 7,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 8,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 9,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 23,
+    "line_index_2": 10,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 34,
+    "line_index_2": 11,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 12,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 13,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 40,
+    "line_index_2": 14,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 15,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 16,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 17,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 18,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 19,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 20,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 21,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 22,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 23,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 24,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 25,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 26,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 27,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 28,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 29,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 30,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 31,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 32,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 33,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 34,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 35,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 36,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 37,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 38,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 39,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 40,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 41,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 42,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 43,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 44,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 45,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 46,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 47,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 48,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 49,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 50,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 51,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 52,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 53,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 54,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 55,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 56,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 49,
+    "line_index_2": 57,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 58,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 59,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 60,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 56,
+    "line_index_2": 61,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 62,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 63,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 64,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 63,
+    "line_index_2": 65,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 66,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 67,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 68,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 69,
+    "line_index_2": 69,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 73,
+    "line_index_2": 70,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 74,
+    "line_index_2": 71,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 83,
+    "line_index_2": 72,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 89,
+    "line_index_2": 73,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 90,
+    "line_index_2": 74,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 75,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 91,
+    "line_index_2": 76,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 93,
+    "line_index_2": 77,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 102,
+    "line_index_2": 78,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 79,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 80,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 103,
+    "line_index_2": 81,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 108,
+    "line_index_2": 82,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 111,
+    "line_index_2": 83,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 112,
+    "line_index_2": 84,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 115,
+    "line_index_2": 85,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 86,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 129,
+    "line_index_2": 87,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 136,
+    "line_index_2": 88,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 89,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 137,
+    "line_index_2": 90,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 91,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 141,
+    "line_index_2": 92,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 93,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 142,
+    "line_index_2": 94,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 143,
+    "line_index_2": 95,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 145,
+    "line_index_2": 96,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 147,
+    "line_index_2": 97,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 148,
+    "line_index_2": 98,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 150,
+    "line_index_2": 99,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 152,
+    "line_index_2": 100,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 101,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 157,
+    "line_index_2": 102,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 168,
+    "line_index_2": 103,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 183,
+    "line_index_2": 104,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 186,
+    "line_index_2": 105,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 106,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 107,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 192,
+    "line_index_2": 108,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 193,
+    "line_index_2": 109,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 110,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 195,
+    "line_index_2": 111,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 196,
+    "line_index_2": 112,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 201,
+    "line_index_2": 113,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 203,
+    "line_index_2": 114,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 205,
+    "line_index_2": 115,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 116,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 217,
+    "line_index_2": 117,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 248,
+    "line_index_2": 118,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 250,
+    "line_index_2": 119,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 251,
+    "line_index_2": 120,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 257,
+    "line_index_2": 121,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 259,
+    "line_index_2": 122,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 263,
+    "line_index_2": 123,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 265,
+    "line_index_2": 124,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 125,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 269,
+    "line_index_2": 126,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 127,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 367,
+    "line_index_2": 128,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 129,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 389,
+    "line_index_2": 130,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 396,
+    "line_index_2": 131,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 408,
+    "line_index_2": 132,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 536,
+    "line_index_2": 133,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 577,
+    "line_index_2": 134,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 584,
+    "line_index_2": 135,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 597,
+    "line_index_2": 136,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 599,
+    "line_index_2": 137,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 616,
+    "line_index_2": 138,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 616,
+    "line_index_2": 139,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 624,
+    "line_index_2": 140,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 632,
+    "line_index_2": 141,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 644,
+    "line_index_2": 142,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 655,
+    "line_index_2": 143,
+    "heRef_2": "הערות",
+    "path_2": "הערות על אבן ספיר.txt",
+    "Conection Type": "commentary"
+  }
+]

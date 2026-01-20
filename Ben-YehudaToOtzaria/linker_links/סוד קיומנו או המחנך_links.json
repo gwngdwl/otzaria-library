@@ -1,452 +1,366 @@
-{
-    "15": [
-        {
-            "start": 219,
-            "end": 224,
-            "refs": {
-                "Exodus 25:1-27:19": "שמות כ״ה:א׳-כ״ז:י״ט"
-            }
-        },
-        {
-            "start": 225,
-            "end": 229,
-            "refs": {
-                "Exodus 27:20-30:10": "שמות כ״ז:כ׳-ל׳:י׳"
-            }
-        },
-        {
-            "start": 234,
-            "end": 239,
-            "refs": {
-                "Exodus 35:1-38:20": "שמות ל״ה:א׳-ל״ח:כ׳"
-            }
-        },
-        {
-            "start": 240,
-            "end": 245,
-            "refs": {
-                "Exodus 38:21-40:38": "שמות ל״ח:כ״א-מ׳:ל״ח"
-            }
-        }
-    ],
-    "21": [
-        {
-            "start": 120,
-            "end": 132,
-            "refs": {
-                "Genesis 18:19": "בראשית י״ח:י״ט"
-            }
-        }
-    ],
-    "28": [
-        {
-            "start": 15,
-            "end": 20,
-            "refs": {
-                "Genesis 1": "בראשית א׳"
-            }
-        }
-    ],
-    "46": [
-        {
-            "start": 221,
-            "end": 229,
-            "refs": {
-                "Numbers 20": "במדבר כ׳"
-            }
-        }
-    ],
-    "47": [
-        {
-            "start": 509,
-            "end": 520,
-            "refs": {
-                "Joshua 4:22": "יהושע ד׳:כ״ב"
-            }
-        },
-        {
-            "start": 626,
-            "end": 629,
-            "refs": {
-                "Numbers 20": "במדבר כ׳",
-                "Joshua 4:22": "יהושע ד׳:כ״ב"
-            }
-        }
-    ],
-    "61": [
-        {
-            "start": 167,
-            "end": 177,
-            "refs": {
-                "Ezra 8:21": "עזרא ח׳:כ״א"
-            }
-        }
-    ],
-    "85": [
-        {
-            "start": 808,
-            "end": 823,
-            "refs": {
-                "II Kings 19:35": "מלכים ב י״ט:ל״ה"
-            }
-        }
-    ],
-    "87": [
-        {
-            "start": 106,
-            "end": 114,
-            "refs": {
-                "Psalms 81": "תהילים פ״א"
-            }
-        }
-    ],
-    "98": [
-        {
-            "start": 22,
-            "end": 30,
-            "refs": {
-                "Pirkei Avot 5": "משנה אבות ה׳"
-            }
-        }
-    ],
-    "100": [
-        {
-            "start": 491,
-            "end": 498,
-            "refs": {
-                "Shabbat 137": "שבת קל״ז"
-            }
-        }
-    ],
-    "110": [
-        {
-            "start": 354,
-            "end": 365,
-            "refs": {
-                "Isaiah 5:12": "ישעיהו ה׳:י״ב"
-            }
-        }
-    ],
-    "113": [
-        {
-            "start": 3,
-            "end": 5,
-            "refs": {
-                "Isaiah 3": "ישעיהו ג׳",
-                "Isaiah 5:3": "ישעיהו ה׳:ג׳",
-                "Pirkei Avot 3": "משנה אבות ג׳"
-            }
-        }
-    ],
-    "160": [
-        {
-            "start": 37,
-            "end": 51,
-            "refs": {
-                "Shabbat 88": "שבת פ״ח"
-            }
-        }
-    ],
-    "178": [
-        {
-            "start": 18,
-            "end": 26,
-            "refs": {
-                "Berakhot 11": "ברכות י״א"
-            }
-        }
-    ],
-    "179": [
-        {
-            "start": 109,
-            "end": 116,
-            "refs": {
-                "Isaiah 40": "ישעיהו מ׳"
-            }
-        }
-    ],
-    "189": [
-        {
-            "start": 622,
-            "end": 632,
-            "refs": {
-                "I Samuel 18:23": "שמואל א י״ח:כ״ג"
-            }
-        }
-    ],
-    "207": [
-        {
-            "start": 343,
-            "end": 353,
-            "refs": {
-                "I Samuel 2": "שמואל א ב׳"
-            }
-        }
-    ],
-    "242": [
-        {
-            "start": 37,
-            "end": 49,
-            "refs": {
-                "Jeremiah 13:17": "ירמיהו י״ג:י״ז"
-            }
-        },
-        {
-            "start": 371,
-            "end": 383,
-            "refs": {
-                "Leviticus 26:12": "ויקרא כ״ו:י״ב"
-            }
-        }
-    ],
-    "269": [
-        {
-            "start": 1170,
-            "end": 1177,
-            "refs": {
-                "I Kings 14": "מלכים א י״ד"
-            }
-        }
-    ],
-    "285": [
-        {
-            "start": 310,
-            "end": 326,
-            "refs": {
-                "Deuteronomy 8:11-18": "דברים ח׳:י״א-י״ח"
-            }
-        }
-    ],
-    "311": [
-        {
-            "start": 20,
-            "end": 31,
-            "refs": {
-                "Yoma 73b:13-88a:12": "יומא ע״ג ב:י״ג-פ״ח א:י״ב",
-                "Jerusalem Talmud Yoma 8:1:1-7:10": "תלמוד ירושלמי יומא ח׳:א׳:א׳-ז׳:י׳"
-            }
-        }
-    ],
-    "330": [
-        {
-            "start": 85,
-            "end": 91,
-            "refs": {
-                "Deuteronomy 32:1-52": "דברים ל״ב:א׳-נ״ב"
-            }
-        }
-    ],
-    "336": [
-        {
-            "start": 759,
-            "end": 768,
-            "refs": {
-                "Ezekiel 31": "יחזקאל ל״א"
-            }
-        }
-    ],
-    "343": [
-        {
-            "start": 301,
-            "end": 309,
-            "refs": {
-                "Nehemiah 9": "נחמיה ט׳"
-            }
-        }
-    ],
-    "345": [
-        {
-            "start": 15,
-            "end": 20,
-            "refs": {
-                "Nehemiah 10": "נחמיה י׳"
-            }
-        }
-    ],
-    "350": [
-        {
-            "start": 55,
-            "end": 64,
-            "refs": {
-                "I Kings 7": "מלכים א ז׳"
-            }
-        }
-    ],
-    "402": [
-        {
-            "start": 223,
-            "end": 230,
-            "refs": {
-                "Megillah 13": "מגילה י״ג"
-            }
-        }
-    ],
-    "423": [
-        {
-            "start": 29,
-            "end": 35,
-            "refs": {
-                "Mishnah Megillah 4": "משנה מגילה ד׳",
-                "Megillah 4": "מגילה ד׳",
-                "Megillah 25b:20-32a:18": "מגילה כ״ה ב:כ׳-ל״ב א:י״ח"
-            }
-        }
-    ],
-    "437": [
-        {
-            "start": 37,
-            "end": 44,
-            "refs": {
-                "Hosea 6": "הושע ו׳"
-            }
-        }
-    ],
-    "438": [
-        {
-            "start": 81,
-            "end": 90,
-            "refs": {
-                "Isaiah 28": "ישעיהו כ״ח"
-            }
-        }
-    ],
-    "453": [
-        {
-            "start": 16,
-            "end": 22,
-            "refs": {
-                "Isaiah 13": "ישעיהו י״ג",
-                "Hosea 13": "הושע י״ג"
-            }
-        }
-    ],
-    "464": [
-        {
-            "start": 211,
-            "end": 222,
-            "refs": {
-                "Mishnah Bava Batra 8": "משנה בבא בתרא ח׳",
-                "Bava Batra 8": "בבא בתרא ח׳",
-                "Bava Batra 108a:3-139b:6": "בבא בתרא ק״ח א:ג׳-קל״ט ב:ו׳"
-            }
-        }
-    ],
-    "471": [
-        {
-            "start": 410,
-            "end": 421,
-            "refs": {
-                "Isaiah 49:27": "ישעיהו מ״ט:כ״ז"
-            }
-        }
-    ],
-    "537": [
-        {
-            "start": 29,
-            "end": 38,
-            "refs": {
-                "Exodus 10:2": "שמות י׳:ב׳"
-            }
-        }
-    ],
-    "539": [
-        {
-            "start": 88,
-            "end": 92,
-            "refs": {
-                "Exodus 6:2-9:35": "שמות ו׳:ב׳-ט׳:ל״ה"
-            }
-        }
-    ],
-    "543": [
-        {
-            "start": 3,
-            "end": 4,
-            "refs": {
-                "Exodus 4": "שמות ד׳",
-                "Exodus 6:4": "שמות ו׳:ד׳"
-            }
-        }
-    ],
-    "544": [
-        {
-            "start": 3,
-            "end": 4,
-            "refs": {
-                "Exodus 4:5": "שמות ד׳:ה׳",
-                "Exodus 5": "שמות ה׳",
-                "Exodus 6:5": "שמות ו׳:ה׳"
-            }
-        }
-    ],
-    "603": [
-        {
-            "start": 80,
-            "end": 93,
-            "refs": {
-                "Exodus 9:13-14": "שמות ט׳:י״ג-י״ד"
-            }
-        }
-    ],
-    "618": [
-        {
-            "start": 786,
-            "end": 794,
-            "refs": {
-                "Numbers 13:1-15:41": "במדבר י״ג:א׳-ט״ו:מ״א"
-            }
-        }
-    ],
-    "623": [
-        {
-            "start": 1723,
-            "end": 1733,
-            "refs": {
-                "Joshua 5:1": "יהושע ה׳:א׳"
-            }
-        },
-        {
-            "start": 2782,
-            "end": 2790,
-            "refs": {
-                "Berakhot 14": "ברכות י״ד"
-            }
-        },
-        {
-            "start": 6331,
-            "end": 6339,
-            "refs": {
-                "Deuteronomy 27": "דברים כ״ז"
-            }
-        },
-        {
-            "start": 13112,
-            "end": 13122,
-            "refs": {
-                "Exodus 36:3": "שמות ל״ו:ג׳"
-            }
-        },
-        {
-            "start": 13162,
-            "end": 13170,
-            "refs": {
-                "Exodus 6-7": "שמות ו׳-ז׳",
-                "Exodus 36:6-7": "שמות ל״ו:ו׳-ז׳"
-            }
-        },
-        {
-            "start": 20540,
-            "end": 20548,
-            "refs": {
-                "Megillah 12": "מגילה י״ב"
-            }
-        },
-        {
-            "start": 27476,
-            "end": 27486,
-            "refs": {
-                "Nehemiah 3:8": "נחמיה ג׳:ח׳"
-            }
-        }
-    ]
-}
+[
+  {
+    "line_index_1": 36,
+    "line_index_2": 2,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 43,
+    "line_index_2": 3,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 4,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 48,
+    "line_index_2": 5,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 66,
+    "line_index_2": 6,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 7,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 78,
+    "line_index_2": 8,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 94,
+    "line_index_2": 9,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 97,
+    "line_index_2": 10,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 100,
+    "line_index_2": 11,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 125,
+    "line_index_2": 12,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 130,
+    "line_index_2": 13,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 132,
+    "line_index_2": 14,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 134,
+    "line_index_2": 15,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 149,
+    "line_index_2": 16,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 162,
+    "line_index_2": 17,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 215,
+    "line_index_2": 18,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 229,
+    "line_index_2": 19,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 235,
+    "line_index_2": 20,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 236,
+    "line_index_2": 21,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 240,
+    "line_index_2": 22,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 242,
+    "line_index_2": 23,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 243,
+    "line_index_2": 24,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 25,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 267,
+    "line_index_2": 26,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 271,
+    "line_index_2": 27,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 279,
+    "line_index_2": 28,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 29,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 304,
+    "line_index_2": 30,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 310,
+    "line_index_2": 31,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 321,
+    "line_index_2": 32,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 328,
+    "line_index_2": 33,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 34,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 336,
+    "line_index_2": 35,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 362,
+    "line_index_2": 36,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 406,
+    "line_index_2": 37,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 408,
+    "line_index_2": 38,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 429,
+    "line_index_2": 39,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 446,
+    "line_index_2": 40,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 452,
+    "line_index_2": 41,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 452,
+    "line_index_2": 42,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 455,
+    "line_index_2": 43,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 469,
+    "line_index_2": 44,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 474,
+    "line_index_2": 45,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 555,
+    "line_index_2": 46,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 586,
+    "line_index_2": 47,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 588,
+    "line_index_2": 48,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 607,
+    "line_index_2": 49,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 608,
+    "line_index_2": 50,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 610,
+    "line_index_2": 51,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 613,
+    "line_index_2": 52,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 622,
+    "line_index_2": 53,
+    "heRef_2": "הערות",
+    "path_2": "הערות על סוד קיומנו או המחנך.txt",
+    "Conection Type": "commentary"
+  }
+]

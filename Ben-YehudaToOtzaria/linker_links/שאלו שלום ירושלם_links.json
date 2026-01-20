@@ -1,90 +1,492 @@
-{
-    "31": [
-        {
-            "start": 876,
-            "end": 886,
-            "refs": {
-                "Mishnah Berakhot 1": "משנה ברכות א׳",
-                "Berakhot 2a:1-13a:15": "ברכות ב׳ א:א׳-י״ג א:ט״ו"
-            }
-        }
-    ],
-    "40": [
-        {
-            "start": 1861,
-            "end": 1878,
-            "refs": {
-                "Jerusalem Talmud Berakhot 2": "תלמוד ירושלמי ברכות ב׳"
-            }
-        }
-    ],
-    "43": [
-        {
-            "start": 3,
-            "end": 6,
-            "refs": {
-                "Sotah 13": "סוטה י״ג"
-            }
-        }
-    ],
-    "47": [
-        {
-            "start": 740,
-            "end": 750,
-            "refs": {
-                "Zevachim 54b": "זבחים נ״ד ב"
-            }
-        },
-        {
-            "start": 1123,
-            "end": 1143,
-            "refs": {
-                "Rashi on Joshua 15:9": "רש\"י על יהושע ט״ו:ט׳"
-            }
-        }
-    ],
-    "52": [
-        {
-            "start": 1510,
-            "end": 1518,
-            "refs": {
-                "Makkot 24": "מכות כ״ד"
-            }
-        }
-    ],
-    "53": [
-        {
-            "start": 342,
-            "end": 349,
-            "refs": {
-                "II Samuel 18": "שמואל ב י״ח"
-            }
-        },
-        {
-            "start": 1855,
-            "end": 1862,
-            "refs": {
-                "Bava Batra 160a:1-176b:3": "בבא בתרא ק״ס א:א׳-קע״ו ב:ג׳",
-                "Jerusalem Talmud Bava Batra 10:1:1-10:4": "תלמוד ירושלמי בבא בתרא י׳:א׳:א׳-י׳:ד׳"
-            }
-        }
-    ],
-    "54": [
-        {
-            "start": 1507,
-            "end": 1520,
-            "refs": {
-                "Bava Batra 123": "בבא בתרא קכ״ג"
-            }
-        }
-    ],
-    "57": [
-        {
-            "start": 3100,
-            "end": 3103,
-            "refs": {
-                "Bava Batra 68": "בבא בתרא ס״ח"
-            }
-        }
-    ]
-}
+[
+  {
+    "line_index_1": 3,
+    "line_index_2": 2,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 4,
+    "line_index_2": 3,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 4,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 5,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 6,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 6,
+    "line_index_2": 7,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 8,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 9,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 10,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 11,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 12,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 13,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 14,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 21,
+    "line_index_2": 15,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 27,
+    "line_index_2": 16,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 17,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 28,
+    "line_index_2": 18,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 19,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 20,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 21,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 22,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 23,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 32,
+    "line_index_2": 24,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 25,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 26,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 27,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 28,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 29,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 35,
+    "line_index_2": 30,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 38,
+    "line_index_2": 31,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 32,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 41,
+    "line_index_2": 33,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 34,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 35,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 36,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 44,
+    "line_index_2": 37,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 46,
+    "line_index_2": 38,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 39,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 40,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 41,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 42,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 43,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 50,
+    "line_index_2": 44,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 45,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 51,
+    "line_index_2": 46,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 47,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 48,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 49,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 54,
+    "line_index_2": 50,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 55,
+    "line_index_2": 51,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 57,
+    "line_index_2": 52,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 53,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 59,
+    "line_index_2": 54,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 55,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 56,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 60,
+    "line_index_2": 57,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 58,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 59,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 60,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 61,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 62,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 61,
+    "line_index_2": 63,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 64,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 65,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 66,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 62,
+    "line_index_2": 67,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 68,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 69,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 70,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  },
+  {
+    "line_index_1": 64,
+    "line_index_2": 71,
+    "heRef_2": "הערות",
+    "path_2": "הערות על שאלו שלום ירושלם.txt",
+    "Conection Type": "commentary"
+  }
+]
