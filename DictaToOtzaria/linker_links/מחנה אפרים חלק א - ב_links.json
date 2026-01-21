@@ -8742,15 +8742,15 @@
             }
         },
         {
-            "start": 1155,
-            "end": 1178,
+            "start": 1150,
+            "end": 1173,
             "refs": {
                 "Mishneh Torah, Forbidden Intercourse 1": "משנה תורה, הלכות איסורי ביאה א׳"
             }
         },
         {
-            "start": 1219,
-            "end": 1229,
+            "start": 1214,
+            "end": 1224,
             "refs": {
                 "Kiddushin 58b:12-69a:11": "קידושין נ״ח ב:י״ב-ס״ט א:י״א",
                 "Jerusalem Talmud Kiddushin 3:1:1-13:4": "תלמוד ירושלמי קידושין ג׳:א׳:א׳-י״ג:ד׳"
@@ -8805,6 +8805,15 @@
             "end": 193,
             "refs": {
                 "Rosh on Gittin 2": "פסקי הרא\"ש על גיטין ב׳"
+            }
+        }
+    ],
+    "1521": [
+        {
+            "start": 246,
+            "end": 273,
+            "refs": {
+                "Mishneh Torah, Tithes 12": "משנה תורה, הלכות מעשרות י״ב"
             }
         }
     ],
@@ -8989,6 +8998,15 @@
             "end": 88,
             "refs": {
                 "Mishneh Torah, Damages to Property 10": "משנה תורה, הלכות נזקי ממון י׳"
+            }
+        }
+    ],
+    "1600": [
+        {
+            "start": 298,
+            "end": 324,
+            "refs": {
+                "Teshuvot HaRosh 102:3": "תשובות הרא\"ש ק״ב:ג׳"
             }
         }
     ],

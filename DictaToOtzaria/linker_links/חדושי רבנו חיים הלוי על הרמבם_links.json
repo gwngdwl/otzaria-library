@@ -8735,22 +8735,22 @@
             }
         },
         {
-            "start": 2367,
-            "end": 2387,
+            "start": 2368,
+            "end": 2388,
             "refs": {
                 "Mishneh Torah, Testimony 5": "משנה תורה, הלכות עדות ה׳"
             }
         },
         {
-            "start": 3535,
-            "end": 3547,
+            "start": 3536,
+            "end": 3548,
             "refs": {
                 "Sotah 47": "סוטה מ״ז"
             }
         },
         {
-            "start": 3785,
-            "end": 3797,
+            "start": 3786,
+            "end": 3798,
             "refs": {
                 "Sotah 47": "סוטה מ״ז"
             }
@@ -8898,9 +8898,9 @@
             "start": 1326,
             "end": 1335,
             "refs": {
-                "Tosafot on Ketubot 84a": "תוספות על כתובות פ״ד א",
-                "Tosafot on Bava Metzia 51a": "תוספות על בבא מציעא נ״א א",
-                "Tosafot on Makkot 3a": "תוספות על מכות ג׳ א"
+                "Tosafot on Ketubot 84": "תוספות על כתובות פ״ד",
+                "Tosafot on Bava Metzia 51": "תוספות על בבא מציעא נ״א",
+                "Tosafot on Makkot 3": "תוספות על מכות ג׳"
             }
         },
         {
@@ -9001,6 +9001,13 @@
             "refs": {
                 "Gittin 42": "גיטין מ״ב"
             }
+        },
+        {
+            "start": 230,
+            "end": 263,
+            "refs": {
+                "Mishneh Torah, Borrowing and Deposit 8:5": "משנה תורה, הלכות שאלה ופיקדון ח׳:ה׳"
+            }
         }
     ],
     "844": [
@@ -9041,6 +9048,20 @@
             "end": 220,
             "refs": {
                 "Tosafot on Bava Metzia 33b": "תוספות על בבא מציעא ל״ג ב"
+            }
+        },
+        {
+            "start": 806,
+            "end": 833,
+            "refs": {
+                "Mishneh Torah, Borrowing and Deposit 8": "משנה תורה, הלכות שאלה ופיקדון ח׳"
+            }
+        },
+        {
+            "start": 1044,
+            "end": 1046,
+            "refs": {
+                "Mishneh Torah, Borrowing and Deposit 8": "משנה תורה, הלכות שאלה ופיקדון ח׳"
             }
         },
         {
@@ -9094,6 +9115,13 @@
         }
     ],
     "855": [
+        {
+            "start": 864,
+            "end": 886,
+            "refs": {
+                "Mishneh Torah, Second Tithes and Fourth Year's Fruit 9:7": "משנה תורה, הלכות מעשר שני ונטע רבעי ט׳:ז׳"
+            }
+        },
         {
             "start": 1172,
             "end": 1186,
@@ -9189,7 +9217,7 @@
             "start": 1013,
             "end": 1021,
             "refs": {
-                "Tosafot on Bava Kamma 22a": "תוספות על בבא קמא כ״ב א"
+                "Tosafot on Bava Kamma 22": "תוספות על בבא קמא כ״ב"
             }
         },
         {
@@ -9358,7 +9386,7 @@
             "start": 1427,
             "end": 1437,
             "refs": {
-                "Rashi on Bava Metzia 71a": "רש\"י על בבא מציעא ע״א א"
+                "Rashi on Bava Metzia 71": "רש\"י על בבא מציעא ע״א"
             }
         }
     ],
