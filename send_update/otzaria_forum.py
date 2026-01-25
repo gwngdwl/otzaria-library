@@ -6,7 +6,7 @@ import uuid
 
 class OtzariaForumClient:
     def __init__(self, username, password):
-        self.base_url = "https://forum.otzaria.org"
+        self.base_url = "https://otzaria.org/forum"
         self.session = requests.Session()
         self.username = username
         self.password = password
